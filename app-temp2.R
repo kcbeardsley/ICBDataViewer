@@ -10,6 +10,11 @@ library(shiny)
 library(DT)
 library(bslib)
 
+#Load full table with links
+full<-read.csv("ICB_Crisis_List_temp.csv")
+
+#Subset to core information without links
+core<-full[,1:5]
 
 ui <- navbarPage(
   

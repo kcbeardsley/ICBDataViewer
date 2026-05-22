@@ -90,7 +90,7 @@ server <- shinyServer(function(input, output, session) {
 #                                                       rownames = FALSE, caption=info$value)
 #    })
     output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==info$value,1:9],
-                                                       colnames = c('Actor', 'Trigger Date', 'Termination Date', 'Triggering state', 'Source of threat', 'Trigger', 'Major Response', 'Crisis Management', 'Violence'),
+                                                       colnames = c('Actor', 'Trigger Date', 'Termination Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Crisis Management', 'Violence'),
                                                        rownames = FALSE, caption=info$value)
                                             }) 
   })

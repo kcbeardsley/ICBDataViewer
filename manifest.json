@@ -1863,10 +1863,10 @@
       "checksum": "c81b72fc4959600b888d070beee6e625"
     },
     "app.R": {
-      "checksum": "41cf8ec9b80b9cc67aac5fd6110f62fa"
+      "checksum": "9ccb6fb49824eea0f2acc98e35aab414"
     },
     "app0.R": {
-      "checksum": "3a292221a1d03866e1119a7669cdafc0"
+      "checksum": "652041e6fc79608374c87cf5721ab50d"
     },
     "crisriv.zip": {
       "checksum": "6e947ae0bb27da28e0a2ffff107d55f3"
@@ -1875,7 +1875,7 @@
       "checksum": "2c668926b911c7a6c536dcf64aeae1ca"
     },
     "ICB_actor_core.csv": {
-      "checksum": "0ce383ef053aa5f4729de670222ada3b"
+      "checksum": "e2fbd83a1e66bd9d8fab9e7205d37fb0"
     },
     "ICB_Crisis_List_temp.csv": {
       "checksum": "ee89f5929f311caf04c46d777e064ebe"
@@ -2038,6 +2038,9 @@
     },
     "NSA_Protocol_v16.pdf": {
       "checksum": "25cb7f6a4249bd7b105c940e59f941e5"
+    },
+    "states2016.csv": {
+      "checksum": "3f234a00f07689a4297dc80d39cc832b"
     },
     "V11summaries/Chad-SudanV.pdf": {
       "checksum": "1bc54a07aea89ad7df0ec401d8739fe3"

@@ -751,6 +751,34 @@
         "RemoteSha": "1.6.17"
       }
     },
+    "httr": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "httr",
+        "Title": "Tools for Working with URLs and HTTP",
+        "Version": "1.4.7",
+        "Authors@R": "c(\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Posit, PBC\", role = c(\"cph\", \"fnd\"))\n  )",
+        "Description": "Useful tools for working with HTTP organised by HTTP verbs\n    (GET(), POST(), etc). Configuration functions make it easy to control\n    additional request components (authenticate(), add_headers() and so\n    on).",
+        "License": "MIT + file LICENSE",
+        "URL": "https://httr.r-lib.org/, https://github.com/r-lib/httr",
+        "BugReports": "https://github.com/r-lib/httr/issues",
+        "Depends": "R (>= 3.5)",
+        "Imports": "curl (>= 5.0.2), jsonlite, mime, openssl (>= 0.8), R6",
+        "Suggests": "covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat\n(>= 0.8.0), xml2",
+        "VignetteBuilder": "knitr",
+        "Config/Needs/website": "tidyverse/tidytemplate",
+        "Encoding": "UTF-8",
+        "RoxygenNote": "7.2.3",
+        "NeedsCompilation": "no",
+        "Packaged": "2023-08-15 02:56:56 UTC; hadleywickham",
+        "Author": "Hadley Wickham [aut, cre],\n  Posit, PBC [cph, fnd]",
+        "Maintainer": "Hadley Wickham <hadley@posit.co>",
+        "Repository": "CRAN",
+        "Date/Publication": "2023-08-15 09:00:02 UTC",
+        "Built": "R 4.5.0; ; 2025-04-01 15:55:58 UTC; unix"
+      }
+    },
     "httr2": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -1452,6 +1480,37 @@
         "RemoteSha": "0.18.0"
       }
     },
+    "rvest": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "rvest",
+        "Title": "Easily Harvest (Scrape) Web Pages",
+        "Version": "1.0.5",
+        "Authors@R": "c(\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = c(\"aut\", \"cre\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"),\n           comment = c(ROR = \"03wc8by49\"))\n  )",
+        "Description": "Wrappers around the 'xml2' and 'httr' packages to make it\n    easy to download, then manipulate, HTML and XML.",
+        "License": "MIT + file LICENSE",
+        "URL": "https://rvest.tidyverse.org/, https://github.com/tidyverse/rvest",
+        "BugReports": "https://github.com/tidyverse/rvest/issues",
+        "Depends": "R (>= 4.1)",
+        "Imports": "cli, glue, httr (>= 0.5), lifecycle (>= 1.0.3), magrittr,\nrlang (>= 1.1.0), selectr, tibble, xml2 (>= 1.4.0)",
+        "Suggests": "chromote, covr, knitr, purrr, R6, readr, repurrrsive,\nrmarkdown, spelling, stringi (>= 0.3.1), testthat (>= 3.0.2),\ntidyr, webfakes",
+        "VignetteBuilder": "knitr",
+        "Config/Needs/website": "tidyverse/tidytemplate",
+        "Config/testthat/edition": "3",
+        "Config/testthat/parallel": "true",
+        "Encoding": "UTF-8",
+        "Language": "en-US",
+        "RoxygenNote": "7.3.2",
+        "NeedsCompilation": "no",
+        "Packaged": "2025-08-29 12:57:41 UTC; hadleywickham",
+        "Author": "Hadley Wickham [aut, cre],\n  Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)",
+        "Maintainer": "Hadley Wickham <hadley@posit.co>",
+        "Repository": "CRAN",
+        "Date/Publication": "2025-08-29 14:00:02 UTC",
+        "Built": "R 4.5.0; ; 2025-09-01 01:53:28 UTC; unix"
+      }
+    },
     "sass": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -1480,6 +1539,32 @@
         "Date/Publication": "2025-04-11 19:50:02 UTC",
         "Built": "R 4.5.0; aarch64-apple-darwin20; 2025-04-11 21:17:02 UTC; unix",
         "Archs": "sass.so.dSYM"
+      }
+    },
+    "selectr": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "selectr",
+        "Type": "Package",
+        "Title": "Translate CSS Selectors to XPath Expressions",
+        "Version": "0.4-2",
+        "Date": "2019-11-20",
+        "Authors@R": "c(person(\"Simon\", \"Potter\",\n                    role = c(\"aut\", \"trl\", \"cre\"),\n                    email = \"simon@sjp.co.nz\"),\n             person(\"Simon\", \"Sapin\", role = \"aut\"),\n             person(\"Ian\", \"Bicking\", role = \"aut\"))",
+        "License": "BSD_3_clause + file LICENCE",
+        "Depends": "R (>= 3.0)",
+        "Imports": "methods, stringr, R6",
+        "Suggests": "testthat, XML, xml2",
+        "URL": "https://sjp.co.nz/projects/selectr",
+        "BugReports": "https://github.com/sjp/selectr/issues",
+        "Description": "Translates a CSS3 selector into an equivalent XPath\n  expression. This allows us to use CSS selectors when working with\n  the XML package as it can only evaluate XPath expressions. Also\n  provided are convenience functions useful for using CSS selectors on\n  XML nodes. This package is a port of the Python package 'cssselect'\n  (<https://cssselect.readthedocs.io/>).",
+        "NeedsCompilation": "no",
+        "Packaged": "2019-11-20 06:04:49 UTC; simon",
+        "Author": "Simon Potter [aut, trl, cre],\n  Simon Sapin [aut],\n  Ian Bicking [aut]",
+        "Maintainer": "Simon Potter <simon@sjp.co.nz>",
+        "Repository": "CRAN",
+        "Date/Publication": "2019-11-20 07:30:03 UTC",
+        "Built": "R 4.5.0; ; 2025-04-01 16:02:19 UTC; unix"
       }
     },
     "shiny": {
@@ -1567,6 +1652,66 @@
         "Date/Publication": "2026-03-28 06:10:35 UTC",
         "Built": "R 4.5.2; aarch64-apple-darwin20; 2026-03-29 10:04:03 UTC; unix",
         "Archs": "sourcetools.so.dSYM"
+      }
+    },
+    "stringi": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "stringi",
+        "Version": "1.8.7",
+        "Date": "2025-03-27",
+        "Title": "Fast and Portable Character String Processing Facilities",
+        "Description": "A collection of character string/text/natural language\n    processing tools for pattern searching (e.g., with 'Java'-like regular\n    expressions or the 'Unicode' collation algorithm), random string generation,\n    case mapping, string transliteration, concatenation, sorting, padding,\n    wrapping, Unicode normalisation, date-time formatting and parsing,\n    and many more. They are fast, consistent, convenient, and -\n    thanks to 'ICU' (International Components for Unicode) -\n    portable across all locales and platforms. Documentation about 'stringi' is\n    provided via its website at <https://stringi.gagolewski.com/> and\n    the paper by Gagolewski (2022, <doi:10.18637/jss.v103.i02>).",
+        "URL": "https://stringi.gagolewski.com/,\nhttps://github.com/gagolews/stringi, https://icu.unicode.org/",
+        "BugReports": "https://github.com/gagolews/stringi/issues",
+        "SystemRequirements": "ICU4C (>= 61, optional)",
+        "Type": "Package",
+        "Depends": "R (>= 3.4)",
+        "Imports": "tools, utils, stats",
+        "Biarch": "TRUE",
+        "License": "file LICENSE",
+        "Authors@R": "c(person(given = \"Marek\",\n                      family = \"Gagolewski\",\n                      role = c(\"aut\", \"cre\", \"cph\"),\n                      email = \"marek@gagolewski.com\",\n                      comment = c(ORCID = \"0000-0003-0637-6028\")),\n               person(given = \"Bartek\",\n                      family = \"Tartanus\",\n                      role = \"ctb\"),\n               person(\"Unicode, Inc. and others\", role=\"ctb\",\n                      comment = \"ICU4C source code, Unicode Character Database\")\n    )",
+        "RoxygenNote": "7.3.2",
+        "Encoding": "UTF-8",
+        "NeedsCompilation": "yes",
+        "Packaged": "2025-03-27 10:27:19 UTC; gagolews",
+        "Author": "Marek Gagolewski [aut, cre, cph]\n    (<https://orcid.org/0000-0003-0637-6028>),\n  Bartek Tartanus [ctb],\n  Unicode, Inc. and others [ctb] (ICU4C source code, Unicode Character\n    Database)",
+        "Maintainer": "Marek Gagolewski <marek@gagolewski.com>",
+        "License_is_FOSS": "yes",
+        "Repository": "CRAN",
+        "Date/Publication": "2025-03-27 13:10:02 UTC",
+        "Built": "R 4.5.0; aarch64-apple-darwin20; 2025-03-31 21:46:23 UTC; unix"
+      }
+    },
+    "stringr": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "stringr",
+        "Title": "Simple, Consistent Wrappers for Common String Operations",
+        "Version": "1.5.1",
+        "Authors@R": "c(\n    person(\"Hadley\", \"Wickham\", , \"hadley@posit.co\", role = c(\"aut\", \"cre\", \"cph\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\"))\n  )",
+        "Description": "A consistent, simple and easy to use set of wrappers around\n    the fantastic 'stringi' package. All function and argument names (and\n    positions) are consistent, all functions deal with \"NA\"'s and zero\n    length vectors in the same way, and the output from one function is\n    easy to feed into the input of another.",
+        "License": "MIT + file LICENSE",
+        "URL": "https://stringr.tidyverse.org,\nhttps://github.com/tidyverse/stringr",
+        "BugReports": "https://github.com/tidyverse/stringr/issues",
+        "Depends": "R (>= 3.6)",
+        "Imports": "cli, glue (>= 1.6.1), lifecycle (>= 1.0.3), magrittr, rlang\n(>= 1.0.0), stringi (>= 1.5.3), vctrs (>= 0.4.0)",
+        "Suggests": "covr, dplyr, gt, htmltools, htmlwidgets, knitr, rmarkdown,\ntestthat (>= 3.0.0), tibble",
+        "VignetteBuilder": "knitr",
+        "Config/Needs/website": "tidyverse/tidytemplate",
+        "Config/testthat/edition": "3",
+        "Encoding": "UTF-8",
+        "LazyData": "true",
+        "RoxygenNote": "7.2.3",
+        "NeedsCompilation": "no",
+        "Packaged": "2023-11-14 15:03:52 UTC; hadleywickham",
+        "Author": "Hadley Wickham [aut, cre, cph],\n  Posit Software, PBC [cph, fnd]",
+        "Maintainer": "Hadley Wickham <hadley@posit.co>",
+        "Repository": "CRAN",
+        "Date/Publication": "2023-11-14 23:10:02 UTC",
+        "Built": "R 4.5.0; ; 2025-04-01 15:55:15 UTC; unix"
       }
     },
     "sys": {
@@ -1805,6 +1950,38 @@
         "Archs": "xfun.so.dSYM"
       }
     },
+    "xml2": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "xml2",
+        "Title": "Parse XML",
+        "Version": "1.4.0",
+        "Authors@R": "c(\n    person(\"Hadley\", \"Wickham\", role = \"aut\"),\n    person(\"Jim\", \"Hester\", role = \"aut\"),\n    person(\"Jeroen\", \"Ooms\", email = \"jeroenooms@gmail.com\", role = c(\"aut\", \"cre\")),\n    person(\"Posit Software, PBC\", role = c(\"cph\", \"fnd\")),\n    person(\"R Foundation\", role = \"ctb\",\n           comment = \"Copy of R-project homepage cached as example\")\n  )",
+        "Description": "Bindings to 'libxml2' for working with XML data using a simple, \n    consistent interface based on 'XPath' expressions. Also supports XML schema\n    validation; for 'XSLT' transformations see the 'xslt' package.",
+        "License": "MIT + file LICENSE",
+        "URL": "https://xml2.r-lib.org, https://r-lib.r-universe.dev/xml2",
+        "BugReports": "https://github.com/r-lib/xml2/issues",
+        "Depends": "R (>= 3.6.0)",
+        "Imports": "cli, methods, rlang (>= 1.1.0)",
+        "Suggests": "covr, curl, httr, knitr, magrittr, mockery, rmarkdown,\ntestthat (>= 3.2.0), xslt",
+        "VignetteBuilder": "knitr",
+        "Config/Needs/website": "tidyverse/tidytemplate",
+        "Encoding": "UTF-8",
+        "RoxygenNote": "7.3.2",
+        "SystemRequirements": "libxml2: libxml2-dev (deb), libxml2-devel (rpm)",
+        "Collate": "'S4.R' 'as_list.R' 'xml_parse.R' 'as_xml_document.R'\n'classes.R' 'format.R' 'import-standalone-obj-type.R'\n'import-standalone-purrr.R' 'import-standalone-types-check.R'\n'init.R' 'nodeset_apply.R' 'paths.R' 'utils.R' 'xml2-package.R'\n'xml_attr.R' 'xml_children.R' 'xml_document.R' 'xml_find.R'\n'xml_missing.R' 'xml_modify.R' 'xml_name.R' 'xml_namespaces.R'\n'xml_node.R' 'xml_nodeset.R' 'xml_path.R' 'xml_schema.R'\n'xml_serialize.R' 'xml_structure.R' 'xml_text.R' 'xml_type.R'\n'xml_url.R' 'xml_write.R' 'zzz.R'",
+        "Config/testthat/edition": "3",
+        "NeedsCompilation": "yes",
+        "Packaged": "2025-08-20 10:58:47 UTC; jeroen",
+        "Author": "Hadley Wickham [aut],\n  Jim Hester [aut],\n  Jeroen Ooms [aut, cre],\n  Posit Software, PBC [cph, fnd],\n  R Foundation [ctb] (Copy of R-project homepage cached as example)",
+        "Maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
+        "Repository": "CRAN",
+        "Date/Publication": "2025-08-20 17:00:02 UTC",
+        "Built": "R 4.5.0; aarch64-apple-darwin20; 2025-08-21 02:46:42 UTC; unix",
+        "Archs": "xml2.so.dSYM"
+      }
+    },
     "xtable": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -1863,19 +2040,28 @@
       "checksum": "c81b72fc4959600b888d070beee6e625"
     },
     "app.R": {
-      "checksum": "9ccb6fb49824eea0f2acc98e35aab414"
+      "checksum": "c83aa5ce6e18dd98e44ea1c1f598da82"
     },
     "app0.R": {
-      "checksum": "652041e6fc79608374c87cf5721ab50d"
+      "checksum": "8f7683131d46bb041317a7bc596cba8f"
     },
     "crisriv.zip": {
       "checksum": "6e947ae0bb27da28e0a2ffff107d55f3"
+    },
+    "ICB Crisis Summaries v15.htm": {
+      "checksum": "728f463586c4b6be2a11967e23e87c90"
+    },
+    "ICB Crisis Summaries.html": {
+      "checksum": "4239e004598e7f90cb3ce018d2baba38"
+    },
+    "ICB Protracted Conflict Summaries.html": {
+      "checksum": "1f5aeb3466e8469b726dd5196133c079"
     },
     "icb_1side.zip": {
       "checksum": "2c668926b911c7a6c536dcf64aeae1ca"
     },
     "ICB_actor_core.csv": {
-      "checksum": "e2fbd83a1e66bd9d8fab9e7205d37fb0"
+      "checksum": "72ec8e337d742ff7dfe3a4b7c7990873"
     },
     "ICB_Crisis_List_temp.csv": {
       "checksum": "ee89f5929f311caf04c46d777e064ebe"
@@ -1884,16 +2070,16 @@
       "checksum": "2449ff69e975547435d1fd0eadfb099e"
     },
     "ICB_Crisis_List_with_Summaries_urls.csv": {
-      "checksum": "a613d054291e808047a3c3ad7cd42cc3"
+      "checksum": "fd4d0f797dbb91c647f5c5b3e877a8ee"
     },
     "ICB_Crisis_List_with_Summaries_urls.xlsx": {
-      "checksum": "06c91a7402330d2f1fb6b3b7e9104dc5"
+      "checksum": "e5214b436f39bd8db589f926995e72c4"
     },
     "ICB_Crisis_List_with_Summaries.xlsx": {
-      "checksum": "b5a80df0ca097e793a3e22a51ddcdcb3"
+      "checksum": "24984aa8c8755e9cda3c734aeb51cbaf"
     },
     "ICB_system_core.csv": {
-      "checksum": "932da5c32aa1f95165edcdd57d38fa17"
+      "checksum": "d04b7ed868591c540e04d48f858d272c"
     },
     "ICB_v11_Announcement.pdf": {
       "checksum": "9f1e16702f6f3713c9f835b15f0f790e"
@@ -1941,7 +2127,7 @@
       "checksum": "745bbe03b9b5e220aeebc789b8f633f4"
     },
     "icb1v16.csv": {
-      "checksum": "61e03edadf831fbfc95cc3a0847aedf8"
+      "checksum": "8eca18ccf35df4ae5b59e5426d30c97a"
     },
     "ICB2Codebook-V11.pdf": {
       "checksum": "d0c130770682fd2e2a1a99c10600117f"
@@ -1983,7 +2169,7 @@
       "checksum": "3dbecbc1b4610bb5e8d51eccfda483cf"
     },
     "icb2v16.csv": {
-      "checksum": "69337a8f3aa2f9195a3e2bf6fad742f7"
+      "checksum": "878bcbfe56609d038bb344d4d9b95d50"
     },
     "icbdy_20.zip": {
       "checksum": "cf25783e2bf7926232d4bfbb0f9e8754"
@@ -2004,7 +2190,7 @@
       "checksum": "67ea0d6145e4d0f89069209190337da3"
     },
     "icbdy_v16.csv": {
-      "checksum": "139d15e3060166fc130d632c3d4335a8"
+      "checksum": "5c45f44bf91d269536f196b628f028f3"
     },
     "ICBv12_NSA_data.xlsx": {
       "checksum": "a4a18a36c195fe1e600121825643de90"
@@ -2039,8 +2225,11 @@
     "NSA_Protocol_v16.pdf": {
       "checksum": "25cb7f6a4249bd7b105c940e59f941e5"
     },
-    "states2016.csv": {
-      "checksum": "3f234a00f07689a4297dc80d39cc832b"
+    "temp/app.R": {
+      "checksum": "3125a048eaae57f63512f19c4b49ddc6"
+    },
+    "temp/ICB Crisis Summaries v15.htm": {
+      "checksum": "728f463586c4b6be2a11967e23e87c90"
     },
     "V11summaries/Chad-SudanV.pdf": {
       "checksum": "1bc54a07aea89ad7df0ec401d8739fe3"

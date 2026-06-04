@@ -199,28 +199,8 @@ ui <- navbarPage(
 #Define a consistent heading style:
       
   title = 'ICB Data Viewer (v16)', id = 'x0',
-  
-  tabPanel('Crisis List', 
-           selectInput(
-             "state",
-             "Select Crisis Actor",
-             choices = setNames(as.list(countries), countries),
-             selected = "All"
-           ),
-           selectInput(
-             "pc",
-             "Select Protracted Conflict",
-             choices = setNames(as.list(pcs), pcs),
-             selected = "All"
-           ),
-           sliderInput( 
-             "trigyr", "Crisis Trigger Year", 
-             min =  min(actor$trigger_year, na.rm=T), max =  max(actor$trigger_year, na.rm=T), 
-             value = c(min(actor$trigger_year, na.rm=T), max(actor$trigger_year, na.rm=T)),
-             sep = ""
-           ), 
-           DT::dataTableOutput('x1')),
-
+  selected = 'Crisis List',
+ 
   tabPanel(
     "Instructions",
     
@@ -366,95 +346,109 @@ ui <- navbarPage(
     )
   ),
   
+  
+  tabPanel('Crisis List', 
+           selectInput(
+             "state",
+             "Select Crisis Actor",
+             choices = setNames(as.list(countries), countries),
+             selected = "All"
+           ),
+           selectInput(
+             "pc",
+             "Select Protracted Conflict",
+             choices = setNames(as.list(pcs), pcs),
+             selected = "All"
+           ),
+           sliderInput( 
+             "trigyr", "Crisis Trigger Year", 
+             min =  min(actor$trigger_year, na.rm=T), max =  max(actor$trigger_year, na.rm=T), 
+             value = c(min(actor$trigger_year, na.rm=T), max(actor$trigger_year, na.rm=T)),
+             sep = ""
+           ), 
+           DT::dataTableOutput('x1')),
+  
+  
+  
   tabPanel('Crisis Information', 
            fluidRow(
              column(
                10,
                offset = 1,
-           h2(textOutput('name'), style = "
+               h2(textOutput('name'), style = "
     margin-top: 0;
     margin-bottom: 22px;
     font-size: 28px;
     font-weight: 700;
     color: #1f2937;
   "), 
-#           uiOutput('summary'),
-#           tags$hr(),
-           h3('Key System-Level Variables', style="margin-top: 28px;
+               #           uiOutput('summary'),
+               #           tags$hr(),
+               h3('Key System-Level Variables', style="margin-top: 28px;
     margin-bottom: 12px;
     font-size: 20px;
     font-weight: 700;
     color: #003366;
     border-bottom: 1px solid #ddd;
     padding-bottom: 6px;"),
-           DT::dataTableOutput('systemtable'),
-#           tags$hr(),
-           h3('Key Actor-Level Variables', style="margin-top: 28px;
+               DT::dataTableOutput('systemtable'),
+               #           tags$hr(),
+               h3('Key Actor-Level Variables', style="margin-top: 28px;
     margin-bottom: 12px;
     font-size: 20px;
     font-weight: 700;
     color: #003366;
     border-bottom: 1px solid #ddd;
     padding-bottom: 6px;"),
-           DT::dataTableOutput('actortable'),
-#           tags$hr(),
-
-           h4("Resources", style="margin-top: 28px;
+               DT::dataTableOutput('actortable'),
+               #           tags$hr(),
+               
+               h4("Resources", style="margin-top: 28px;
     margin-bottom: 12px;
     font-size: 16px;
     font-weight: 700;
     color: #003366;
     border-bottom: 1px solid #ddd;
     padding-bottom: 6px;"),
-
-           p(
-            "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
-            "can be accessed from the ICB Project website:"
-            ),
-
-          tags$ul(
-            tags$li(
-              tags$a(
-               href = "https://sites.duke.edu/icbdata/data-collections/",
-               target = "_blank",
-                "ICB Data Collections"
-                    )
+               
+               p(
+                 "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
+                 "can be accessed from the ICB Project website:"
+               ),
+               
+               tags$ul(
+                 tags$li(
+                   tags$a(
+                     href = "https://sites.duke.edu/icbdata/data-collections/",
+                     target = "_blank",
+                     "ICB Data Collections"
                    )
-                  ),
-           p(
-            "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
-            ),
-
-            tags$ul(
-              tags$li(
-               tags$a(
-                 href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
-                  target = "_blank",
-                  "System-Level Variables Codebook"
-                      )
-                    ),
-              tags$li(
-                tags$a(
-                  href = "https://duke.box.com/s/d7zxijj57ukexpc08j1039vvw4cvrpzy",
-                  target = "_blank",
-                  "Actor-Level Variables Codebook"
-                      )
-                    )
-                  ),
+                 )
+               ),
+               p(
+                 "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
+               ),
+               
+               tags$ul(
+                 tags$li(
+                   tags$a(
+                     href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
+                     target = "_blank",
+                     "System-Level Variables Codebook"
+                   )
+                 ),
+                 tags$li(
+                   tags$a(
+                     href = "https://duke.box.com/s/d7zxijj57ukexpc08j1039vvw4cvrpzy",
+                     target = "_blank",
+                     "Actor-Level Variables Codebook"
+                   )
+                 )
+               ),
              )
            )
   ),
-#          h4('Crisis Actors'), textOutput('actors'),  
-#          h4('Trigger Date'), textOutput('trigdate'), 
-#          h4('Termination Date'), textOutput('termdate'),  
-#           h4('Crisis Outcome'), textOutput('outcome'), 
-#           h4('Crisis Threat Gravity'), textOutput('gravity'), 
-#          h4('Violence'), textOutput('violence'), 
-#           h4('Protracted Conflict'), textOutput('pc'), 
-#           h4('Crisis Mediation'), textOutput('mediation'),
-# tabPanel('Crisis Information', DT::dataTableOutput('systemtable')),
-
-#  tabPanel('Select Actor Information', DT::dataTableOutput('actortable'))
+   
 
   tabPanel('Crisis Summary',
            tags$head(

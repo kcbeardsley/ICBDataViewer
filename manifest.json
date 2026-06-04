@@ -2040,10 +2040,10 @@
       "checksum": "c81b72fc4959600b888d070beee6e625"
     },
     "app.R": {
-      "checksum": "c83aa5ce6e18dd98e44ea1c1f598da82"
+      "checksum": "796b0c392629b426e7ab4c48be635c5e"
     },
     "app0.R": {
-      "checksum": "8f7683131d46bb041317a7bc596cba8f"
+      "checksum": "46d710bad7c11ed457f48e8218f8e018"
     },
     "crisriv.zip": {
       "checksum": "6e947ae0bb27da28e0a2ffff107d55f3"
@@ -2052,7 +2052,7 @@
       "checksum": "728f463586c4b6be2a11967e23e87c90"
     },
     "ICB Crisis Summaries.html": {
-      "checksum": "4239e004598e7f90cb3ce018d2baba38"
+      "checksum": "6e5cb93c384f6de8b84ba723d8057716"
     },
     "ICB Protracted Conflict Summaries.html": {
       "checksum": "1f5aeb3466e8469b726dd5196133c079"
@@ -2069,6 +2069,9 @@
     "ICB_Crisis_List_temp.xlsx": {
       "checksum": "2449ff69e975547435d1fd0eadfb099e"
     },
+    "ICB_Crisis_List_with_Summaries_urls_year.csv": {
+      "checksum": "7eb9f43c3caa5c8b7407c5a6ccc20582"
+    },
     "ICB_Crisis_List_with_Summaries_urls.csv": {
       "checksum": "fd4d0f797dbb91c647f5c5b3e877a8ee"
     },
@@ -2080,6 +2083,9 @@
     },
     "ICB_system_core.csv": {
       "checksum": "d04b7ed868591c540e04d48f858d272c"
+    },
+    "ICB_system_core.dta": {
+      "checksum": "6422a4c6dfd2edebb2df107622735abd"
     },
     "ICB_v11_Announcement.pdf": {
       "checksum": "9f1e16702f6f3713c9f835b15f0f790e"

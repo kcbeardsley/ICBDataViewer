@@ -1,7 +1,6 @@
 #Use slider range for dates
 #Once functional, adjust the aesthetics: https://rstudio.github.io/DT/
 
-
 library(shiny)
 library(DT)
 library(bslib)
@@ -16,10 +15,10 @@ library(xml2)
 #)
 
 #Load tables
-full<-read.csv("ICB_Crisis_List_with_Summaries_urls.csv")
+full<-read.csv("ICB_Crisis_List_with_Summaries_urls_year.csv")
 system<-read.csv("ICB_system_core.csv")
 actor<-read.csv("ICB_actor_core.csv")
-core<-full[,1:5]
+core<-full[,1:4]
 #Create lists of states and pcs and add "ALL"
 countries<-actor$actorname
 countries<-countries[order(unlist(countries))]
@@ -597,8 +596,8 @@ server <- shinyServer(function(input, output, session) {
   # add CSS style 'cursor: pointer' to the 1st column (i.e. crisis name)
   output$x1 = DT::renderDataTable({
     datatable(
-      core[core$Crisis.Name %in% actor$crisname[(actor$actorname==input$state | actor$all==input$state) & (actor$protracted_conflict==input$pc | actor$all==input$pc) & actor$trigger_year>=min(input$trigyr) & actor$trigger_year<=max(input$trigyr)],], selection = 'none', class = 'cell-border strip hover',
-      colnames = c('Name', 'Number', 'Actors', 'Trigger Date', 'Termination Date'),
+      core[core$CrisisName %in% actor$crisname[(actor$actorname==input$state | actor$all==input$state) & (actor$protracted_conflict==input$pc | actor$all==input$pc) & actor$trigger_year>=min(input$trigyr) & actor$trigger_year<=max(input$trigyr)],], selection = 'none', class = 'cell-border strip hover',
+      colnames = c('Name', 'Number', 'Trigger Year', 'Actors'),
       options = list(pageLength = 600, scrollY = "375px", scrollCollapse=TRUE, info = FALSE, paging = FALSE), rownames = FALSE,
       caption='Click on the crisis name for more information'
     ) %>% formatStyle(1, cursor = 'pointer')

@@ -198,7 +198,7 @@ ui <- navbarPage(
 
 #Define a consistent heading style:
       
-  title = 'ICB Data Viewer Beta', id = 'x0',
+  title = 'ICB Data Viewer (v16)', id = 'x0',
   
   tabPanel('Crisis List', 
            selectInput(
@@ -235,7 +235,7 @@ ui <- navbarPage(
   "), 
 #           uiOutput('summary'),
 #           tags$hr(),
-           h3('Key Crisis/System-Level Variables', style="margin-top: 28px;
+           h3('Key System-Level Variables', style="margin-top: 28px;
     margin-bottom: 12px;
     font-size: 20px;
     font-weight: 700;
@@ -263,7 +263,7 @@ ui <- navbarPage(
     padding-bottom: 6px;"),
 
            p(
-            "The complete ICB datasets, including more than 200 system-level and actor-level variables, ",
+            "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
             "can be accessed from the ICB Project website:"
             ),
 
@@ -277,7 +277,7 @@ ui <- navbarPage(
                    )
                   ),
            p(
-            "Codebooks describing all variables in the datasets are available at the following links:"
+            "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
             ),
 
             tags$ul(
@@ -285,7 +285,7 @@ ui <- navbarPage(
                tags$a(
                  href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
                   target = "_blank",
-                  "Crisis/System-Level Variables Codebook"
+                  "System-Level Variables Codebook"
                       )
                     ),
               tags$li(
@@ -532,7 +532,7 @@ tabPanel(
         padding-bottom: 6px;"),
       
       p(
-        "The complete ICB datasets, including more than 200 system-level and actor-level variables, ",
+        "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
         "can be accessed from the ICB Project website:"
       ),
       
@@ -547,7 +547,7 @@ tabPanel(
       ),
       
       p(
-        "Codebooks describing all variables in the datasets are available at the following links:"
+        "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
       ),
       
       tags$ul(
@@ -555,7 +555,7 @@ tabPanel(
           tags$a(
             href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
             target = "_blank",
-            "Crisis/System-Level Variables Codebook"
+            "System-Level Variables Codebook"
           )
         ),
         tags$li(

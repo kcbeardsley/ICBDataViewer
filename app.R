@@ -220,6 +220,151 @@ ui <- navbarPage(
              sep = ""
            ), 
            DT::dataTableOutput('x1')),
+
+  tabPanel(
+    "Instructions",
+    
+    fluidRow(
+      column(
+        10,
+        offset = 1,
+        
+        h2("Welcome to the ICB Data Viewer", style="margin-top: 0;
+        margin-bottom: 22px;
+        font-size: 28px;
+        font-weight: 700;
+        color: #1f2937;"),
+        
+        p(
+          "This application provides an interactive interface for exploring data from the ",
+          strong("International Crisis Behavior (ICB) Project"),
+          "."
+        ),
+        
+        p(
+          "To begin, navigate to the ",
+          strong("Crisis List"),
+          " tab. There you can select a crisis by clicking on its name. The toggles 
+        will subset the crisis list to specific states, time periods or 
+        protracted conflicts. The search box can be used to find crises when you
+        know parts of the crisis names."
+        ),
+        
+        p(  
+          "Once you click on a crisis name, 
+        the viewer takes you to the ",
+          strong("Crisis Information"),
+          " tab, which displays a subset of key variables about the crisis and crisis actors.
+        Narrative summaries related to the selected crisis are available on additional tabs:"
+        ),
+        
+        tags$ul(
+          tags$li(strong("Crisis Summary:"), "A summary of the crisis and contextual background information"),
+          tags$li(strong("Protracted Conflict Summary:"),
+                  "Background information about the associated protracted conflict, when applicable"
+          )
+        ),
+        
+        #     tags$hr(),
+        
+        h3("Citations", style="margin-top: 28px;
+        margin-bottom: 12px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #003366;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 6px;"),
+        
+        p(
+          "When using the ICB data, please cite the following sources:"
+        ),
+        
+        tags$blockquote(
+          p(
+            "Brecher, Michael and Jonathan Wilkenfeld (1997). ",
+            em("A Study of Crisis"),
+            ". Ann Arbor: University of Michigan Press."
+          ),
+          
+          p(
+            "Brecher, Michael, Jonathan Wilkenfeld, Kyle Beardsley, ",
+            "Patrick James and David Quinn (2025). ",
+            em("International Crisis Behavior Data Codebook, Version 16"),
+            ". ",
+            tags$a(
+              href = "https://sites.duke.edu/icbdata/data-collections/",
+              target = "_blank",
+              "https://sites.duke.edu/icbdata/data-collections/"
+            )
+          )
+        ),
+        
+        #      tags$hr(),
+        
+        h3("Additional Data Resources", style="margin-top: 28px;
+        margin-bottom: 12px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #003366;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 6px;"),
+        
+        p(
+          "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
+          "can be accessed from the ICB Project website:"
+        ),
+        
+        tags$ul(
+          tags$li(
+            tags$a(
+              href = "https://sites.duke.edu/icbdata/data-collections/",
+              target = "_blank",
+              "ICB Data Collections"
+            )
+          )
+        ),
+        
+        p(
+          "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
+        ),
+        
+        tags$ul(
+          tags$li(
+            tags$a(
+              href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
+              target = "_blank",
+              "System-Level Variables Codebook"
+            )
+          ),
+          tags$li(
+            tags$a(
+              href = "https://duke.box.com/s/d7zxijj57ukexpc08j1039vvw4cvrpzy",
+              target = "_blank",
+              "Actor-Level Variables Codebook"
+            )
+          )
+        ),
+        
+        #      tags$hr(),
+        
+        
+        h3("Acknowledgment", style="margin-top: 28px;
+        margin-bottom: 12px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #003366;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 6px;"),
+        
+        p(
+          "We are grateful for the work of ",
+          strong("Alex Jonas,"),
+          " who developed the original ICB Data Viewer. ",
+          "His vision and skill laid the foundation for the current version of the viewer and made this resource possible."
+        )
+      )
+    )
+  ),
   
   tabPanel('Crisis Information', 
            fluidRow(
@@ -441,151 +586,6 @@ tabPanel(
   ),
   
   uiOutput("summary_pc")
-),
-
-tabPanel(
-  "Instructions",
-  
-  fluidRow(
-    column(
-      10,
-      offset = 1,
-      
-      h2("Welcome to the ICB Data Viewer", style="margin-top: 0;
-        margin-bottom: 22px;
-        font-size: 28px;
-        font-weight: 700;
-        color: #1f2937;"),
-      
-      p(
-        "This application provides an interactive interface for exploring data from the ",
-        strong("International Crisis Behavior (ICB) Project"),
-        "."
-      ),
-      
-      p(
-        "To begin, navigate to the ",
-        strong("Crisis List"),
-        " tab. There you can select a crisis by clicking on its name. The toggles 
-        will subset the crisis list to specific states, time periods or 
-        protracted conflicts. The search box can be used to find crises when you
-        know parts of the crisis names."
-        ),
-      
-      p(  
-        "Once you click on a crisis name, 
-        the viewer takes you to the ",
-        strong("Crisis Information"),
-        " tab, which displays a subset of key variables about the crisis and crisis actors.
-        Narrative summaries related to the selected crisis are available on additional tabs:"
-      ),
-      
-      tags$ul(
-        tags$li(strong("Crisis Summary:"), "A summary of the crisis and contextual background information"),
-        tags$li(strong("Protracted Conflict Summary:"),
-          "Background information about the associated protracted conflict, when applicable"
-        )
-      ),
-      
- #     tags$hr(),
-      
-      h3("Citations", style="margin-top: 28px;
-        margin-bottom: 12px;
-        font-size: 20px;
-        font-weight: 700;
-        color: #003366;
-        border-bottom: 1px solid #ddd;
-        padding-bottom: 6px;"),
-      
-      p(
-        "When using the ICB data, please cite the following sources:"
-      ),
-      
-      tags$blockquote(
-        p(
-          "Brecher, Michael and Jonathan Wilkenfeld (1997). ",
-          em("A Study of Crisis"),
-          ". Ann Arbor: University of Michigan Press."
-        ),
-        
-        p(
-          "Brecher, Michael, Jonathan Wilkenfeld, Kyle Beardsley, ",
-          "Patrick James and David Quinn (2025). ",
-          em("International Crisis Behavior Data Codebook, Version 16"),
-          ". ",
-          tags$a(
-            href = "https://sites.duke.edu/icbdata/data-collections/",
-            target = "_blank",
-            "https://sites.duke.edu/icbdata/data-collections/"
-          )
-        )
-      ),
-      
-#      tags$hr(),
- 
-      h3("Additional Data Resources", style="margin-top: 28px;
-        margin-bottom: 12px;
-        font-size: 20px;
-        font-weight: 700;
-        color: #003366;
-        border-bottom: 1px solid #ddd;
-        padding-bottom: 6px;"),
-      
-      p(
-        "The complete ICB datasets, including more than 200 system/crisis-level and actor-level variables, ",
-        "can be accessed from the ICB Project website:"
-      ),
-      
-      tags$ul(
-        tags$li(
-          tags$a(
-            href = "https://sites.duke.edu/icbdata/data-collections/",
-            target = "_blank",
-            "ICB Data Collections"
-          )
-        )
-      ),
-      
-      p(
-        "Codebooks describing all variables in the system/crisis-level and actor-level datasets are available at the following links:"
-      ),
-      
-      tags$ul(
-        tags$li(
-          tags$a(
-            href = "https://duke.box.com/s/ravjtawv20aszptx3xhn43p7gd2q02dq",
-            target = "_blank",
-            "System-Level Variables Codebook"
-          )
-        ),
-        tags$li(
-          tags$a(
-            href = "https://duke.box.com/s/d7zxijj57ukexpc08j1039vvw4cvrpzy",
-            target = "_blank",
-            "Actor-Level Variables Codebook"
-          )
-        )
-      ),
-      
-#      tags$hr(),
-      
-           
-      h3("Acknowledgment", style="margin-top: 28px;
-        margin-bottom: 12px;
-        font-size: 20px;
-        font-weight: 700;
-        color: #003366;
-        border-bottom: 1px solid #ddd;
-        padding-bottom: 6px;"),
-      
-      p(
-        "We are grateful for the work of ",
-        strong("Alex Jonas,"),
-        " who developed the original ICB Data Viewer. ",
-        "His vision and skill laid the foundation for the current version of the viewer and made this resource possible."
-      )
-    )
-  )
 )
 
 )

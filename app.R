@@ -639,7 +639,7 @@ server <- shinyServer(function(input, output, session) {
                                                        rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
     })
     output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==info$value,1:10],
-                                                       colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence'),
+                                                       colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence Severity'),
                                                        rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
                                             }) 
     output$summary <- renderUI({

@@ -599,12 +599,12 @@ server <- shinyServer(function(input, output, session) {
   
   #Start with base output of the first crisis
   output$name<-renderText({system$crisname[1]})
-  output$systemtable = DT::renderDataTable({datatable(system[1,6:13],
-                                                      colnames = c('Trigger', 'Trigger Date', 'Term. Date', 'Threat Gravity', 'Violence', 'Outcome', 'Protracted Conflict', 'Mediation'),
+  output$systemtable = DT::renderDataTable({datatable(system[1,6:14],
+                                                      colnames = c('Trigger', 'Trigger Date', 'Term. Date', 'Threat Gravity', 'Violence Severity Used', 'Violence Experienced', 'Outcome', 'Protracted Conflict', 'Mediation'),
                                                       rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
   })
-  output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==system$crisname[1],1:10],
-                                                     colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence Severity'),
+  output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==system$crisname[1],1:11],
+                                                     colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence Severity Used', 'Violence Experienced'),
                                                      rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
   }) 
   output$summary <- renderUI({
@@ -634,12 +634,12 @@ server <- shinyServer(function(input, output, session) {
 #      url <- a(h4("Link to crisis summary"), href = full$Summary.URL[full$Crisis.Name==info$value])
 #      tagList(url)
 #    })
-    output$systemtable = DT::renderDataTable({datatable(system[system$crisname==info$value,6:13],
-                                                       colnames = c('Trigger', 'Trigger Date', 'Term. Date', 'Threat Gravity', 'Violence', 'Outcome', 'Protracted Conflict', 'Mediation'),
+    output$systemtable = DT::renderDataTable({datatable(system[system$crisname==info$value,6:14],
+                                                       colnames = c('Trigger', 'Trigger Date', 'Term. Date', 'Threat Gravity', 'Violence Severity Used', 'Violence Experienced', 'Outcome', 'Protracted Conflict', 'Mediation'),
                                                        rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
     })
-    output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==info$value,1:10],
-                                                       colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence Severity'),
+    output$actortable = DT::renderDataTable({datatable(actor[actor$crisname==info$value,1:11],
+                                                       colnames = c('Actor', 'Trigger Date', 'Term. Date', 'Triggering Entity', 'Source of threat', 'Trigger', 'Major Response', 'Response Date', 'Crisis Mgmt', 'Violence Severity Used', 'Violence Experienced'),
                                                        rownames = FALSE, options=list(dom = 'ltipr', lengthChange = FALSE, info = FALSE, paging = FALSE))
                                             }) 
     output$summary <- renderUI({

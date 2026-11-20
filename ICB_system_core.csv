@@ -1,513 +1,513 @@
 crisno,crisname,trigger_year,termination_year,pcid,trigger,trigger_date,termination_date,gravity,severity,violence,outcome,protracted_conflict,mediation
-1,"RUSSIAN CIVIL WAR I",1918,1920,27,"Violent act",". May 1918","1 April 1920","Political threat","Serious clashes","Serious clashes","Unilateral act","East/West","Mediation offered"
-2,"COSTA RICAN COUP",1918,1919,6,"Non-violent military act","25 May 1918","3 September 1919","Political threat","No violence","No violence","Unilateral act","Costa Rica/Nicaragua","No mediation"
-3,"RUSSIAN CIVIL WAR II",1918,1919,27,"Non-violent military act","23 June 1918","27 September 1919","Political threat","Serious clashes","Serious clashes","Unilateral act","East/West","Mediation offered"
-4,"BALTIC INDEPENDENCE",1918,1920,43,"Internal verbal or physical challenge ","18 November 1918","11 August 1920","Threat to existence","Serious clashes","Serious clashes","Imposed agreement","Non-protracted conflict","No mediation"
-5,"TESCHEN",1919,1920,43,"Political act","15 January 1919","28 July 1920","Territorial threat","Serious clashes","Serious clashes","Imposed agreement","Non-protracted conflict","No mediation"
-6,"HUNGARIAN WAR",1919,1919,43,"Political act","20 March 1919","3 August 1919","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","No mediation"
-7,"SMYRNA",1919,1919,44,"Non-violent military act","1 March 1919","29 July 1919","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Non-protracted conflict","No mediation"
-8,"THIRD AFGHAN WAR",1919,1919,42,"Political act","15 April 1919","8 August 1919","Threat to influence","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","No mediation"
-9,"FINNISH/RUSSIAN BDR.",1919,1920,17,"Violent act","20 April 1919","14 October 1920","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Finland/Russia","No mediation"
-10,"BESSARABIA",1919,1920,43,"Political act","30 April 1919","2 March 1920","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-11,"CILICIAN WAR",1919,1921,44,"Non-violent military act",". November 1919","20 October 1921","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","No mediation"
-12,"RHENISH REBELLIONS",1920,1920,18,"Indirect violent act","3 April 1920","17 May 1920","Political threat","No violence","Minor clashes","Unilateral act","France/Germany","Mediation requested"
-13,"POLISH/RUSSIAN WAR",1920,1920,21,"Violent act","25 April 1920","12 October 1920","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Poland/Russia","Mediation offered"
-14,"PERSIAN BORDER",1920,1921,29,"Non-violent military act","1 May 1920","26 February 1921","Territorial threat","Serious clashes","Minor clashes","Formal agreement","Iran/USSR","No mediation"
-15,"AALAND ISLANDS",1920,1921,43,"Non-violent military act","5 June 1920","20 October 1921","Limited military damage","No violence","No violence","Formal agreement","Non-protracted conflict","Mediation occurred"
-16,"GREECE/TURKEY WAR I",1920,1920,28,"Violent act","22 June 1920","9 July 1920","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Greece/Turkey","No mediation"
-17,"VILNA I",1920,1920,20,"Political act","12 July 1920","29 November 1920","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Lithuania/Poland","Mediation occurred"
-18,"GREECE/TURKEY WAR II",1921,1921,28,"Violent act","6 January 1921","12 September 1921","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Greece/Turkey","No mediation"
-19,"COSTA RICA/PANAMA BDR",1921,1921,41,"Non-violent military act","21 February 1921","24 August 1921","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-20,"GERMAN REPARATIONS",1921,1921,18,"Political act","3 March 1921","11 May 1921","Political threat","No violence","No violence","Unilateral act","France/Germany","No mediation"
-21,"KARL'S RETURN HUNGARY",1921,1921,43,"Other non-violent act","27 March 1921","15 November 1921","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-22,"AUSTRIAN SEPARATISTS",1921,1921,43,"Political act","11 May 1921","21 June 1921","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-23,"ALBANIAN FRONTIER",1921,1921,19,"Non-violent military act","7 July 1921","18 November 1921","Territorial threat","Full-scale war","Full-scale war","Imposed agreement","Italy/Albania/Yugoslavia","No mediation"
-24,"BURGENLAND DISPUTE",1921,1921,43,"Non-violent military act","28 August 1921","28 December 1921","Territorial threat","Minor clashes","Minor clashes","Imposed agreement","Non-protracted conflict","Mediation occurred"
-25,"GREECE/TURKEY WAR III",1922,1922,28,"Violent act","26 August 1922","15 September 1922","Territorial threat","Full-scale war","Full-scale war","Unilateral act","Greece/Turkey","No mediation"
-26,"CHANAK",1922,1922,44,"Political act","23 September 1922","11 October 1922","Territorial threat","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-27,"RUHR I",1923,1923,18,"Political act","22 January 1923","27 September 1923","Political threat","No violence","No violence","Unilateral act","France/Germany","No mediation"
-28,"CORFU INCIDENT",1923,1923,43,"Violent act","31 August 1923","29 September 1923","Territorial threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-29,"HIJAZ/NAJD WAR",1924,1925,44,"Political act","7 March 1924","19 December 1925","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","Non-protracted conflict","No mediation"
-30,"RUHR II",1924,1924,18,"Political act","29 April 1924","30 August 1924","Economic threat","No violence","No violence","Formal agreement","France/Germany","Mediation occurred"
-31,"MOSUL LAND DISPUTE",1924,1924,44,"Political act","29 September 1924","15 November 1924","Territorial threat","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-32,"BULGARIA/GREEK FRONT",1925,1925,43,"Violent act","19 October 1925","15 December 1925","Territorial threat","Serious clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-33,"NICARAGUA CIVIL WAR I",1926,1927,41,"Non-violent military act","17 August 1926","15 May 1927","Political threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","Mediation occurred"
-34,"HEGEMONY OVER ALBANIA",1926,1927,19,"Political act","28 November 1926","22 November 1927","Threat to influence","No violence","No violence","Imposed agreement","Italy/Albania/Yugoslavia","No mediation"
-35,"SHANTUNG",1927,1929,10,"Non-violent military act","28 May 1927","28 March 1929","Threat to influence","Minor clashes","Minor clashes","Formal agreement","China/Japan","No mediation"
-36,"VILNA II",1927,1927,20,"Other non-violent act","15 October 1927","10 December 1927","Threat to existence","No violence","No violence","Unilateral act","Lithuania/Poland","Mediation occurred"
-37,"CHACO I",1928,1929,41,"Violent act","5 December 1928","12 September 1929","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-38,"CHINESEE RAILWAY",1929,1929,42,"Non-violent military act","10 July 1929","22 December 1929","Political threat","Serious clashes","Serious clashes","Imposed agreement","Non-protracted conflict","No mediation"
-39,"MUKDEN INCIDENT",1931,1932,10,"Violent act","18 September 1931","18 February 1932","Territorial threat","Serious clashes","Serious clashes","Unilateral act","China/Japan","Mediation offered"
-40,"SHANGHAI",1932,1932,10,"Political act","24 January 1932","5 May 1932","Territorial threat","Serious clashes","Serious clashes","Formal agreement","China/Japan","Mediation occurred"
-41,"CHACO II",1932,1935,41,"Violent act","18 June 1932","12 June 1935","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-42,"LETICIA",1932,1933,41,"Violent act","8 September 1932","25 May 1933","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-43,"JEHOL CAMPAIGN",1933,1933,10,"Violent act","23 February 1933","31 May 1933","Territorial threat","Full-scale war","Full-scale war","Imposed agreement","China/Japan","Mediation offered"
-44,"SAUDI/YEMEN WAR",1933,1934,44,"Violent act","18 December 1933","20 May 1934","Territorial threat","Full-scale war","Full-scale war","Imposed agreement","Non-protracted conflict","No mediation"
-45,"AUSTRIA PUTSCH",1934,1934,43,"Internal verbal or physical challenge ","25 July 1934","31 July 1934","Political threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-46,"ASSN. KING ALEXANDER",1934,1934,43,"Internal verbal or physical challenge ","8 October 1934","10 December 1934","Political threat","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-47,"ETHIOPIAN WAR",1934,1936,40,"Political act","6 December 1934","5 May 1936","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation occurred"
-48,"BULGARIA/TURKEY",1935,1935,43,"Non-violent military act","6 March 1935","31 August 1935","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","No mediation"
-49,"KAUNAS TRIALS",1935,1935,43,"Economic act","28 March 1935","25 September 1935","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-50,"ECUADOR/PERU BDR. I",1935,1935,7,"Violent act","1 November 1935","30 November 1935","Territorial threat","No violence","Minor clashes","Semi-formal agreement","Ecuador/Peru","No mediation"
-51,"REMILIT. RHINELAND",1936,1936,18,"Non-violent military act","7 March 1936","16 April 1936","Threat of grave damage","No violence","No violence","Other outcome","France/Germany","No mediation"
-52,"SPANISH CIVIL WAR I",1936,1937,43,"Internal verbal or physical challenge ","17 July 1936","18 March 1937","Political threat","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation offered"
-53,"ALEXANDRETTA",1936,1939,44,"Political act","9 September 1936","23 June 1939","Territorial threat","No violence","Minor clashes","Imposed agreement","Non-protracted conflict","Mediation occurred"
-54,"SPANISH CIVIL WAR II",1937,1937,43,"Violent act","24 May 1937","31 May 1937","Limited military damage","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-55,"AMUR RIVER INCIDENT",1937,1937,42,"External change","22 June 1937","4 July 1937","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-56,"MARCO POLO BRIDGE",1937,1938,10,"Violent act","8 July 1937","16 January 1938","Political threat","Full-scale war","Full-scale war","Unilateral act","China/Japan","Mediation occurred"
-57,"POSTAGESTAMP CRISIS",1937,1937,8,"Political act","15 August 1937","10 December 1937","Territorial threat","No violence","No violence","Formal agreement","Honduras/Nicaragua","Mediation occurred"
-58,"DOM. REP./HAITI I",1937,1938,41,"Violent act","5 October 1937","31 January 1938","Political threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-59,"PANAY INCIDENT",1937,1937,42,"Violent act","12 December 1937","26 December 1937","Limited military damage","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-60,"ANSCHLUSS",1938,1938,43,"Political act","12 February 1938","14 March 1938","Threat to existence","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-61,"POLISH ULTIMATUM",1938,1938,20,"Political act","13 March 1938","19 March 1938","Territorial threat","No violence","No violence","Unilateral act","Lithuania/Poland","Mediation offered"
-62,"CZECH. MAY CRISIS",1938,1938,16,"Non-violent military act","19 May 1938","23 May 1938","Threat of grave damage","No violence","No violence","Unilateral act","Czechoslovakia/Germany","No mediation"
-63,"CHANGKUFENG",1938,1938,42,"External change","13 July 1938","11 August 1938","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-64,"MUNICH",1938,1938,16,"Internal verbal or physical challenge ","7 September 1938","1 October 1938","Threat of grave damage","No violence","No violence","Imposed agreement","Czechoslovakia/Germany","No mediation"
-65,"SPANISH CIVIL WAR III",1938,1938,43,"Violent act","30 October 1938","18 November 1938","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","No mediation"
-66,"ITALY THREAT/FRANCE",1938,1939,40,"Political act","30 November 1938","31 March 1939","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-67,"SPANISH CIVIL WAR IV",1938,1939,43,"Violent act","23 December 1938","31 March 1939","Political threat","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation offered"
-68,"CZECH. ANNEXATION",1939,1939,16,"Political act","14 March 1939","15 March 1939","Threat to existence","No violence","No violence","Unilateral act","Czechoslovakia/Germany","No mediation"
-69,"MEMEL",1939,1939,43,"External change","15 March 1939","22 March 1939","Territorial threat","No violence","No violence","Imposed agreement","Non-protracted conflict","No mediation"
-70,"DANZIG",1939,1939,43,"Political act","21 March 1939","6 April 1939","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-71,"INVASION OF ALBANIA",1939,1939,19,"Political act","25 March 1939","13 April 1939","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Italy/Albania/Yugoslavia","No mediation"
-72,"NOMONHAN",1939,1939,42,"Indirect violent act","28 May 1939","15 September 1939","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","No mediation"
-73,"TIENTSIN",1939,1939,42,"Economic act","14 June 1939","29 August 1939","Threat to influence","No violence","No violence","Semi-formal agreement","Non-protracted conflict","No mediation"
-74,"ENTRY WWII",1939,1939,31,"Political act","20 August 1939","28 September 1939","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-75,"SOVIET OCCUP.-BALTIC",1939,1939,43,"Political act","26 September 1939","10 October 1939","Threat to existence","No violence","No violence","Imposed agreement","Non-protracted conflict","No mediation"
-76,"FINNISH WAR",1939,1940,17,"Political act","6 October 1939","13 March 1940","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Finland/Russia","Mediation offered"
-77,"INVAS.-SCANDINAVIA",1940,1940,31,"Non-violent military act","8 April 1940","10 June 1940","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","World War II","No mediation"
-78,"FALL OF WEST EUROPE",1940,1940,31,"Violent act","10 May 1940","22 June 1940","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","World War II","No mediation"
-79,"CLOSURE-BURMA ROAD",1940,1940,31,"Political act","24 June 1940","14 July 1940","Threat of grave damage","No violence","No violence","Formal agreement","World War II","No mediation"
-80,"ROMANIAN TERRITORY",1940,1940,43,"Political act","26 June 1940","7 September 1940","Territorial threat","Minor clashes","Minor clashes","Imposed agreement","Non-protracted conflict","No mediation"
-81,"BATTLE OF BRITAIN",1940,1940,31,"Violent act","10 July 1940","15 September 1940","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-82,"E. AFRICA CAMPAIGN",1940,1941,31,"Violent act","19 August 1940","17 May 1941","Threat to influence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-83,"BALKAN INVASIONS",1940,1941,31,"Violent act","28 October 1940","1 June 1941","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-84,"MID-EAST CAMPAIGN",1941,1941,31,"Non-violent military act","29 April 1941","14 July 1941","Threat to influence","Serious clashes","Serious clashes","Imposed agreement","World War II","No mediation"
-85,"BARBAROSSA",1941,1941,31,"Violent act","22 June 1941","5 December 1941","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-86,"ECUADOR/PERU BDR II",1941,1942,7,"Violent act","5 July 1941","29 January 1942","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Ecuador/Peru","Mediation occurred"
-87,"OCCUPATION OF IRAN",1941,1942,29,"Violent act","25 August 1941","29 January 1942","Threat to existence","Serious clashes","Serious clashes","Imposed agreement","Iran/USSR","No mediation"
-88,"PEARL HARBOR",1941,1942,31,"Political act","26 November 1941","7 June 1942","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-89,"STALINGRAD",1942,1943,31,"Violent act","28 June 1942","2 February 1943","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-90,"EL ALAMEIN",1942,1943,31,"Violent act","23 October 1942","13 May 1943","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-91,"FALL OF ITALY",1943,1943,31,"Violent act","9 July 1943","11 September 1943","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-92,"GERMAN OCCUP.-HUNGARY",1944,1944,31,"Non-violent military act","13 March 1944","19 March 1944","Threat to existence","No violence","No violence","Unilateral act","World War II","No mediation"
-93,"SOVIET OCCUP.-E. EUR",1944,1945,31,"Non-violent military act","26 March 1944","13 February 1945","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-94,"D-DAY",1944,1945,31,"Violent act","6 June 1944","7 May 1945","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-95,"FALL OF SAIPAN",1944,1944,31,"External change","9 July 1944","18 July 1944","Threat of grave damage","No violence","No violence","Unilateral act","World War II","No mediation"
-96,"IRAN-OIL CONCESSIONS",1944,1944,29,"Economic act","26 September 1944","9 December 1944","Economic threat","No violence","No violence","Unilateral act","Iran/USSR","No mediation"
-97,"LEYTE CAMPAIGN",1944,1944,31,"Violent act","20 October 1944","26 December 1944","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-98,"GREEK CIVIL WAR I",1944,1945,43,"Indirect violent act","3 December 1944","15 January 1945","Threat to influence","Serious clashes","Serious clashes","Other outcome","Non-protracted conflict","No mediation"
-99,"LUZON",1945,1945,31,"Violent act","9 January 1945","3 March 1945","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-100,"FINAL SOVIET OFFENS.",1945,1945,31,"Violent act","11 January 1945","7 May 1945","Threat to existence","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-101,"IWO JIMA",1945,1945,31,"Violent act","19 February 1945","16 March 1945","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-102,"COMMUNISM IN ROMANIA",1945,1945,43,"Indirect violent act","24 February 1945","6 March 1945","Political threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-103,"OKINAWA",1945,1945,31,"Violent act","1 April 1945","21 June 1945","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","World War II","No mediation"
-104,"TRIESTE I",1945,1945,19,"Non-violent military act","1 May 1945","11 June 1945","Territorial threat","No violence","No violence","Unilateral act","Italy/Albania/Yugoslavia","No mediation"
-105,"FRENCH FORCES/SYRIA",1945,1945,31,"Non-violent military act","17 May 1945","3 June 1945","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","World War II","No mediation"
-106,"KARS-ARDAHAN",1945,1946,27,"Political act","7 June 1945","5 April 1946","Territorial threat","No violence","No violence","Unilateral act","East/West","No mediation"
-107,"HIROSHIMA-NAGASAKI",1945,1945,31,"Violent act","6 August 1945","2 September 1945","Threat to existence","No violence","Full-scale war","Unilateral act","World War II","No mediation"
-108,"AZERBAIJAN",1945,1946,29,"Internal verbal or physical challenge ","23 August 1945","9 May 1946","Territorial threat","No violence","No violence","Formal agreement","Iran/USSR","No mediation"
-109,"INDONESIA INDEP. I",1945,1947,14,"Political act","29 September 1945","25 March 1947","Threat to existence","Serious clashes","Full-scale war","Formal agreement","Indonesia","Mediation occurred"
-110,"COMMUNISM IN POLAND",1946,1947,21,"External change","30 June 1946","19 January 1947","Threat to influence","No violence","No violence","Other outcome","Poland/Russia","No mediation"
-111,"TURKISH STRAITS",1946,1946,27,"Political act","7 August 1946","26 October 1946","Territorial threat","No violence","No violence","Unilateral act","East/West","No mediation"
-112,"GREEK CIVIL WAR II",1946,1947,27,"Internal verbal or physical challenge ","13 November 1946","28 February 1947","Political threat","Full-scale war","Full-scale war","Crisis faded","East/West","No mediation"
-113,"COMMUNISM IN HUNGARY",1947,1947,27,"External change","10 February 1947","1 June 1947","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-114,"TRUMAN DOCTRINE",1947,1947,27,"Economic act","21 February 1947","22 May 1947","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-115,"MARSHALL PLAN",1947,1947,27,"Political act","3 July 1947","11 July 1947","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-116,"INDONESIA INDEP. II",1947,1948,14,"Violent act","21 July 1947","17 January 1948","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Indonesia","Mediation occurred"
-117,"CUBA/DOMINICAN REP.",1947,1947,41,"Non-violent military act","26 July 1947","28 September 1947","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-118,"JUNAGADH",1947,1948,12,"Political act","17 August 1947","24 February 1948","Territorial threat","No violence","Minor clashes","Unilateral act","India/Pakistan","No mediation"
-119,"KASHMIR I",1947,1949,12,"Indirect violent act","24 October 1947","1 January 1949","Territorial threat","Full-scale war","Full-scale war","Formal agreement","India/Pakistan","Mediation occurred"
-120,"PAL. PRT./ISRAEL IND.",1947,1949,23,"External change","29 November 1947","20 July 1949","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Arab/Israel","Mediation occurred"
-121,"COMMUNISM IN CZECH.",1948,1948,27,"Political act","13 February 1948","25 February 1948","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-122,"SOV. NOTE/FINLAND I",1948,1948,17,"Political act","22 February 1948","6 April 1948","Political threat","No violence","No violence","Imposed agreement","Finland/Russia","No mediation"
-123,"BERLIN BLOCKADE",1948,1949,27,"Economic act","7 June 1948","12 May 1949","Threat of grave damage","No violence","Minor clashes","Formal agreement","East/West","Mediation occurred"
-124,"HYDERABAD",1948,1948,12,"Political act","21 August 1948","18 September 1948","Territorial threat","Minor clashes","Minor clashes","Unilateral act","India/Pakistan","No mediation"
-125,"CHINA CIVIL WAR",1948,1949,30,"Indirect violent act","23 September 1948","8 December 1949","Political threat","Full-scale war","Full-scale war","Unilateral act","Taiwan Strait","No mediation"
-126,"COSTA RICA/NIC. I",1948,1949,6,"Violent act","11 December 1948","21 February 1949","Political threat","Minor clashes","Minor clashes","Formal agreement","Costa Rica/Nicaragua","Mediation occurred"
-127,"INDONESIA INDEP. III",1948,1949,14,"Violent act","19 December 1948","27 December 1949","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Indonesia","Mediation occurred"
-128,"SINAI INCURSION",1948,1949,23,"Violent act","25 December 1948","10 January 1949","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-129,"PUSHTUNISTAN I",1949,1950,9,"Non-violent military act","15 March 1949","5 October 1950","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Afghanistan/Pakistan","Mediation offered"
-130,"LUPERON",1949,1949,41,"Violent act","19 June 1949","21 June 1949","Political threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-131,"SOV. BLOC-YUGOSLAVIA",1949,1951,43,"Political act","19 August 1949",". November 1951","Political threat","No violence","No violence","Crisis faded","Non-protracted conflict","No mediation"
-132,"KOREAN WAR I",1950,1950,15,"Violent act","25 June 1950","30 September 1950","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Korea","No mediation"
-133,"KOREAN WAR II",1950,1951,15,"Violent act","30 September 1950","10 July 1951","Threat to existence","Full-scale war","Full-scale war","Semi-formal agreement","Korea","No mediation"
-134,"HULA DRAINAGE",1951,1951,23,"Other non-violent act","12 February 1951","15 May 1951","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Arab/Israel","Mediation occurred"
-135,"PUNJAB WAR SCARE I",1951,1951,12,"Non-violent military act","7 July 1951",". August 1951","Territorial threat","No violence","No violence","Tacit understanding","India/Pakistan","Mediation occurred"
-136,"SUEZ CANAL",1951,1952,40,"Political act","30 July 1951","30 January 1952","Territorial threat","Serious clashes","Serious clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-137,"CATALINA AFFAIR",1952,1952,43,"Violent act","16 June 1952",". July 1952","Other threat","No violence","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-138,"BURMA INFILTRATION",1953,1954,42,"Non-violent military act","8 February 1953","15 October 1954","Political threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","Mediation occurred"
-139,"INVASION OF LAOS I",1953,1953,13,"Non-violent military act","24 March 1953",".  1953","Political threat","Serious clashes","Serious clashes","Crisis faded","Indochina","No mediation"
-140,"KOREAN WAR III",1953,1953,15,"Violent act","16 April 1953","27 July 1953","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Korea","No mediation"
-141,"E. GERMAN UPRISING",1953,1953,43,"Indirect violent act","17 June 1953","11 July 1953","Threat to influence","Minor clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-142,"TRIESTE II",1953,1953,19,"Political act","8 October 1953","5 December 1953","Territorial threat","No violence","No violence","Formal agreement","Italy/Albania/Yugoslavia","Mediation occurred"
-143,"QIBYA",1953,1953,23,"Violent act","14 October 1953","28 October 1953","Political threat","No violence","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-144,"GUATEMALA",1953,1954,27,"Political act","12 December 1953","29 June 1954","Political threat","No violence","Minor clashes","Unilateral act","East/West","No mediation"
-145,"DIEN BIEN PHU",1954,1954,13,"Violent act","13 March 1954","21 July 1954","Threat to influence","Serious clashes","Full-scale war","Imposed agreement","Indochina","Mediation occurred"
-146,"TAIWAN STRAIT I",1954,1955,30,"Political act","1 August 1954","23 April 1955","Threat to existence","Serious clashes","Serious clashes","Semi-formal agreement","Taiwan Strait","No mediation"
-147,"COSTA RICA/NIC. II",1955,1955,6,"Non-violent military act","8 January 1955","20 January 1955","Political threat","Serious clashes","Minor clashes","Semi-formal agreement","Costa Rica/Nicaragua","Mediation occurred"
-148,"BAGHDAD PACT",1955,1955,44,"Political act","24 February 1955","15 October 1955","Threat to influence","No violence","No violence","Other outcome","Non-protracted conflict","No mediation"
-149,"GAZA RAID-CZECH. ARMS",1955,1956,23,"Violent act","28 February 1955","23 June 1956","Political threat","No violence","Serious clashes","Other outcome","Arab/Israel","Mediation occurred"
-150,"PUSHTUNISTAN II",1955,1955,9,"Political act","27 March 1955",". November 1955","Territorial threat","No violence","Minor clashes","Semi-formal agreement","Afghanistan/Pakistan","Mediation occurred"
-151,"GOA I",1955,1955,42,"Political act","10 August 1955","6 September 1955","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-152,"SUEZ NATN.-WAR",1956,1957,23,"Economic act","26 July 1956","12 March 1957","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Arab/Israel","No mediation"
-153,"QALQILYA",1956,1956,23,"Violent act","13 September 1956","28 October 1956","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-154,"POLAND LIBERALIZATION",1956,1956,21,"External change","15 October 1956","22 October 1956","Political threat","No violence","No violence","Tacit understanding","Poland/Russia","No mediation"
-155,"HUNGARIAN UPRISING",1956,1957,43,"External change","23 October 1956",". January 1957","Political threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-156,"MOCORON INCIDENT",1957,1957,8,"Political act","26 February 1957","9 May 1957","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Honduras/Nicaragua","Mediation occurred"
-157,"JORDAN REGIME",1957,1957,44,"Internal verbal or physical challenge ","4 April 1957","3 May 1957","Political threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-158,"FRANCE/TUNISIA",1957,1958,40,"Violent act","31 May 1957","17 June 1958","Political threat","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation offered"
-159,"SYRIA/TURKEY CONFRNT.",1957,1957,27,"Political act","18 August 1957","29 October 1957","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-160,"IFNI",1957,1958,40,"Violent act","23 November 1957",". April 1958","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Non-protracted conflict","Mediation occurred"
-161,"WEST IRIAN I",1957,,14,"Economic act","1 December 1957",".  .","Economic threat","No violence","No violence","Crisis faded","Indonesia","No mediation"
-162,"FORMATION OF UAR",1958,1958,44,"Political act","1 February 1958","14 February 1958","Threat to existence","No violence","No violence","Other outcome","Non-protracted conflict","No mediation"
-163,"EGYPT/SUDAN BORDER I",1958,1958,40,"Non-violent military act","9 February 1958","25 February 1958","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-164,"ABORT. COUP INDONESIA",1958,1958,14,"Non-violent military act","21 February 1958","20 May 1958","Political threat","Serious clashes","Serious clashes","Unilateral act","Indonesia","Mediation offered"
-165,"IRAQ/LEB. UPHEAVAL",1958,1958,44,"Internal verbal or physical challenge ","8 May 1958","28 October 1958","Political threat","Serious clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-166,"TAIWAN STRAIT II",1958,1958,30,"Non-violent military act","17 July 1958","23 October 1958","Threat of grave damage","Serious clashes","Serious clashes","Tacit understanding","Taiwan Strait","No mediation"
-167,"CAMBODIA/THAILAND",1958,1959,13,"Political act","24 July 1958","6 February 1959","Political threat","Minor clashes","Minor clashes","Semi-formal agreement","Indochina","Mediation occurred"
-168,"BERLIN DEADLINE",1958,1959,27,"Political act","27 November 1958","15 September 1959","Threat to influence","No violence","No violence","Formal agreement","East/West","No mediation"
-169,"MEX./GUAT. FISHING",1958,1959,41,"Economic act","29 December 1958","1 February 1959","Economic threat","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-170,"CEN. AMERICA/CUBA I",1959,1959,41,"Violent act","25 April 1959","28 December 1959","Political threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-171,"CHINA/INDIA BRD. I",1959,1960,42,"Non-violent military act","25 August 1959","19 April 1960","Territorial threat","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-172,"SHATT-AL-ARAB I",1959,1960,24,"Political act","28 November 1959","4 January 1960","Territorial threat","No violence","Minor clashes","Tacit understanding","Iran/Iraq","No mediation"
-173,"ROTTEM",1960,1960,23,"Non-violent military act","15 February 1960","8 March 1960","Threat to influence","No violence","No violence","Tacit understanding","Arab/Israel","No mediation"
-174,"GHANA/TOGO BORDER I",1960,1960,40,"Political act","1 March 1960","1 April 1960","Territorial threat","No violence","No violence","Tacit understanding","Non-protracted conflict","No mediation"
-175,"FAILED ASS. VENEZUELA",1960,1960,41,"Internal verbal or physical challenge ","24 June 1960","15 September 1960","Political threat","No violence","No violence","Other outcome","Non-protracted conflict","No mediation"
-176,"CONGO I-KATANGA",1960,1962,40,"Violent act","5 July 1960","15 February 1962","Political threat","Serious clashes","Serious clashes","Other outcome","Non-protracted conflict","No mediation"
-177,"MALI FEDERATION",1960,1960,40,"Internal verbal or physical challenge ","20 August 1960","22 September 1960","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-178,"CEN. AMERICA/CUBA II",1960,1960,41,"Violent act","9 November 1960","7 December 1960","Political threat","Minor clashes","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-179,"ETHIOPIA/SOMALIA",1960,1961,3,"Violent act","26 December 1960",".  1961","Threat of grave damage","Serious clashes","Serious clashes","Crisis faded","Ethiopia/Somalia","No mediation"
-180,"PATHET LAO OFFENSIVE",1961,1961,13,"Indirect violent act","9 March 1961","16 May 1961","Political threat","No violence","No violence","Other outcome","Indochina","Mediation occurred"
-181,"BAY OF PIGS",1961,1961,27,"Violent act","15 April 1961","24 April 1961","Political threat","Serious clashes","Minor clashes","Unilateral act","East/West","No mediation"
-182,"PUSHTUNISTAN III",1961,1962,9,"Violent act","19 May 1961","29 January 1962","Territorial threat","Serious clashes","Minor clashes","Semi-formal agreement","Afghanistan/Pakistan","Mediation occurred"
-183,"KUWAIT INDEPENDENCE",1961,1961,25,"Political act","19 June 1961","13 July 1961","Threat to existence","No violence","No violence","Unilateral act","Iraq/Kuwait","No mediation"
-184,"BIZERTA",1961,1961,40,"Political act","17 July 1961","29 September 1961","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-185,"BERLIN WALL",1961,1961,27,"Internal verbal or physical challenge ","1 August 1961","28 October 1961","Political threat","No violence","No violence","Tacit understanding","East/West","No mediation"
-186,"VIET CONG ATTACK",1961,1961,13,"Internal verbal or physical challenge ","18 September 1961","15 November 1961","Political threat","Minor clashes","Minor clashes","Unilateral act","Indochina","No mediation"
-187,"WEST IRIAN II",1961,1962,14,"Political act","26 September 1961","15 August 1962","Territorial threat","No violence","Minor clashes","Formal agreement","Indonesia","Mediation occurred"
-188,"BREAKUP OF UAR",1961,1961,44,"Internal verbal or physical challenge ","28 September 1961","5 October 1961","Threat to influence","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-189,"SOV. NOTE/FINLAND II",1961,1961,17,"Political act","30 October 1961","24 November 1961","Political threat","No violence","No violence","Semi-formal agreement","Finland/Russia","No mediation"
-190,"GOA II",1961,1961,42,"Political act","11 December 1961","19 December 1961","Territorial threat","No violence","Minor clashes","Imposed agreement","Non-protracted conflict",""
-191,"MALI/MAURITANIA",1962,1963,40,"Internal verbal or physical challenge ","29 March 1962","18 February 1963","Territorial threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict",""
-192,"TAIWAN STRAIT III",1962,1962,30,"Political act","22 April 1962","27 June 1962","Political threat","No violence","No violence","Unilateral act","Taiwan Strait","No mediation"
-193,"NAM THA",1962,1962,13,"Indirect violent act","6 May 1962","12 June 1962","Political threat","No violence","No violence","Tacit understanding","Indochina","No mediation"
-194,"CHINA/INDIA BDR. II",1962,1963,42,"Violent act","8 September 1962","23 January 1963","Territorial threat","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation occurred"
-195,"YEMEN WAR I",1962,1963,26,"Indirect violent act","26 September 1962","15 April 1963","Political threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-196,"CUBAN MISSILES",1962,1962,27,"External change","16 October 1962","20 November 1962","Threat of grave damage","No violence","Minor clashes","Semi-formal agreement","East/West","Mediation occurred"
-197,"MALAYSIA FEDERATION",1963,1965,42,"Political act","11 February 1963","9 August 1965","Threat to existence","No violence","No violence","Other outcome","Non-protracted conflict","Mediation occurred"
-198,"DOM. REP./HAITI II",1963,1963,41,"Other non-violent act","26 April 1963","3 June 1963","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-199,"ALGERIA/MOROCCO BDR.",1963,1963,40,"Non-violent military act","1 October 1963","4 November 1963","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-200,"CUBA/VENEZUELA",1963,1963,41,"Internal verbal or physical challenge ","1 November 1963","1 December 1963","Political threat","No violence","No violence","Other outcome","Non-protracted conflict","No mediation"
-201,"KENYA/SOMALIA",1963,1964,40,"Non-violent military act","20 November 1963","4 March 1964","Territorial threat","No violence","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-202,"CYPRUS I",1963,1964,28,"Political act","30 November 1963","10 August 1964","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Greece/Turkey","Mediation occurred"
-203,"JORDAN WATERS",1963,1964,23,"Economic act","11 December 1963","5 May 1964","Economic threat","No violence","No violence","Unilateral act","Arab/Israel","No mediation"
-204,"DAHOMEY/NIGER",1963,1964,40,"Non-violent military act","21 December 1963","4 January 1964","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-205,"BURUNDI/RWANDA",1963,1964,40,"Violent act","21 December 1963",". April 1964","Political threat","Serious clashes","Serious clashes","Other outcome","Non-protracted conflict","No mediation"
-206,"PANAMA FLAG",1964,1964,41,"Internal verbal or physical challenge ","9 January 1964","12 January 1964","Threat to influence","Minor clashes","Minor clashes","Imposed agreement","Non-protracted conflict","No mediation"
-207,"E. AFRICA REBELLIONS",1964,1964,40,"Indirect violent act","19 January 1964","30 January 1964","Threat to influence","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-208,"OGADEN I",1964,1964,3,"Violent act","7 February 1964","30 March 1964","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Ethiopia/Somalia","Mediation offered"
-209,"YEMEN WAR II",1964,1964,26,"Violent act","15 May 1964","8 November 1964","Political threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-210,"GULF OF TONKIN",1964,1964,13,"Violent act","30 July 1964","15 August 1964","Limited military damage","Serious clashes","Minor clashes","Unilateral act","Indochina","No mediation"
-211,"CONGO II",1964,1964,40,"Internal verbal or physical challenge ","4 August 1964","30 December 1964","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-212,"YEMEN WAR III",1964,1965,26,"Violent act","3 December 1964","25 August 1965","Political threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-213,"PLEIKU",1965,1965,13,"Violent act","7 February 1965","28 March 1965","Threat of grave damage","Full-scale war","Serious clashes","Unilateral act","Indochina","No mediation"
-214,"RANN OF KUTCH",1965,1965,12,"Violent act","8 April 1965","30 June 1965","Territorial threat","Serious clashes","Serious clashes","Formal agreement","India/Pakistan","Mediation occurred"
-215,"DOMINICAN INTERVENTN.",1965,1965,41,"Indirect violent act","24 April 1965","31 August 1965","Threat to influence","Minor clashes","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-216,"KASHMIR II",1965,1966,12,"Violent act","5 August 1965","10 January 1966","Territorial threat","Full-scale war","Full-scale war","Semi-formal agreement","India/Pakistan","Mediation occurred"
-217,"GUINEA REGIME",1965,1965,40,"Internal verbal or physical challenge ","9 October 1965","15 December 1965","Political threat","No violence","No violence","Tacit understanding","Non-protracted conflict","No mediation"
-218,"RHODESIA'S UDI",1965,1966,4,"Political act","5 November 1965","27 April 1966","Threat to existence","No violence","No violence","Unilateral act","Rhodesia","No mediation"
-219,"YEMEN WAR IV",1966,1967,26,"Violent act","14 October 1966","26 September 1967","Political threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-220,"EL SAMU",1966,1966,23,"Violent act","12 November 1966","15 November 1966","Threat of grave damage","Minor clashes","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-221,"CHE GUEVARA-BOLIVIA",1967,1967,41,"Internal verbal or physical challenge ","23 March 1967","10 October 1967","Political threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-222,"SIX DAY WAR",1967,1967,23,"Non-violent military act","17 May 1967","11 June 1967","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","Arab/Israel","No mediation"
-223,"CYPRUS II",1967,1967,28,"Indirect violent act","15 November 1967","4 December 1967","Territorial threat","No violence","Minor clashes","Formal agreement","Greece/Turkey","Mediation occurred"
-224,"PUEBLO",1968,1968,15,"Violent act","21 January 1968","23 December 1968","Threat to influence","No violence","Minor clashes","Imposed agreement","Korea","No mediation"
-225,"TET OFFENSIVE",1968,1968,13,"Violent act","30 January 1968","31 March 1968","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Indochina","Mediation occurred"
-226,"KARAMEH",1968,1968,23,"Violent act","18 March 1968","22 March 1968","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-227,"PRAGUE SPRING",1968,1968,43,"Political act","9 April 1968","18 October 1968","Political threat","Minor clashes","Minor clashes","Imposed agreement","Non-protracted conflict","No mediation"
-228,"ESSEQUIBO I",1968,1968,41,"Political act","9 July 1968",". August 1968","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-229,"BEIRUT AIRPORT",1968,1969,50,"Violent act","28 December 1968",". January 1969","Political threat","No violence","Minor clashes","Other outcome","Israel/Palestinian groups","No mediation"
-230,"VIETNAM SPRING OFF.",1969,1969,13,"Violent act","22 February 1969","8 June 1969","Threat to existence","Serious clashes","Serious clashes","Unilateral act","Indochina","No mediation"
-231,"USSURI RIVER",1969,1969,42,"Violent act","2 March 1969","20 October 1969","Territorial threat","Serious clashes","Serious clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-232,"WAR OF ATTRITION",1969,1970,23,"Violent act","8 March 1969","7 August 1970","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","Arab/Israel","Mediation occurred"
-233,"EC-121 SPY PLANE",1969,1969,27,"Violent act","15 April 1969","26 April 1969","Threat to influence","No violence","Minor clashes","Unilateral act","East/West","No mediation"
-234,"SHATT-AL-ARAB II",1969,1969,24,"Political act","15 April 1969","30 October 1969","Territorial threat","No violence","No violence","Semi-formal agreement","Iran/Iraq","Mediation offered"
-235,"FOOTBALL WAR",1969,1969,41,"Indirect violent act","15 June 1969","30 July 1969","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-236,"CAIRO AGREEMENT-PLO",1969,1969,44,"Violent act","22 October 1969","3 November 1969","Political threat","Serious clashes","Serious clashes","Imposed agreement","Non-protracted conflict","Mediation occurred"
-237,"INVASION OF CAMBODIA",1970,1970,13,"Political act","13 March 1970","22 July 1970","Political threat","Full-scale war","Full-scale war","Unilateral act","Indochina","Mediation offered"
-238,"BLACK SEPTEMBER",1970,1970,44,"Political act","15 September 1970","29 September 1970","Political threat","Full-scale war","Full-scale war","Imposed agreement","Non-protracted conflict","Mediation occurred"
-239,"CIENFUEGOS SUB. BASE",1970,1970,27,"External change","16 September 1970","23 October 1970","Threat of grave damage","No violence","No violence","Unilateral act","East/West","No mediation"
-240,"CONAKRY RAID",1970,1970,40,"Violent act","22 November 1970","11 December 1970","Political threat","Serious clashes","Serious clashes","Other outcome","Non-protracted conflict","No mediation"
-241,"INVASION OF LAOS II",1971,1971,13,"Violent act","8 February 1971","25 March 1971","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Indochina","No mediation"
-242,"BANGLADESH",1971,1971,12,"Violent act","25 March 1971","17 December 1971","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","India/Pakistan","No mediation"
-243,"CHAD/LIBYA I",1971,1972,2,"External change","24 May 1971","17 April 1972","Political threat","No violence","No violence","Unilateral act","Chad/Libya","Mediation occurred"
-244,"CAPRIVI STRIP",1971,1971,40,"Violent act","5 October 1971","12 October 1971","Territorial threat","No violence","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-245,"TANZANIA/UGANDA I",1971,1971,40,"Violent act","20 October 1971","25 November 1971","Territorial threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-246,"VIETNAM PORTS MINING",1972,1972,13,"Violent act","30 March 1972","19 July 1972","Threat of grave damage","Full-scale war","Full-scale war","Semi-formal agreement","Indochina","No mediation"
-247,"TANZANIA/UGANDA II",1972,1972,40,"Violent act","17 September 1972","5 October 1972","Political threat","Serious clashes","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-248,"NORTH/SOUTH YEMEN I",1972,1972,26,"Violent act","26 September 1972","28 November 1972","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-249,"CHRISTMAS BOMBING",1972,1973,13,"External change","23 October 1972","27 January 1973","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Indochina","No mediation"
-250,"ZAMBIA RAID",1973,1973,4,"Non-violent military act","19 January 1973","3 February 1973","Territorial threat","No violence","Minor clashes","Unilateral act","Rhodesia","No mediation"
-251,"LIBYAN PLANE",1973,1973,23,"External change","21 February 1973","21 February 1973","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Arab/Israel","No mediation"
-252,"IRAQ INVASION/KUWAIT",1973,1973,25,"Violent act","20 March 1973","8 June 1973","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Iraq/Kuwait","Mediation occurred"
-253,"ISRAEL MOBILIZATION",1973,1973,23,"Non-violent military act","10 April 1973","28 June 1973","Threat of grave damage","No violence","No violence","Unilateral act","Arab/Israel","No mediation"
-254,"COD WAR I",1973,1973,43,"Violent act","14 May 1973","13 November 1973","Economic threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation offered"
-255,"OCTOBER-YOM KIPPUR WAR",1973,1974,23,"Non-violent military act","5 October 1973","31 May 1974","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","Arab/Israel","Mediation occurred"
-256,"OMAN/SOUTH YEMEN",1973,1976,44,"Violent act","18 November 1973","11 March 1976","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-257,"CYPRUS III",1974,1975,28,"Internal verbal or physical challenge ","15 July 1974","24 February 1975","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Greece/Turkey","Mediation occurred"
-258,"FINAL N. VIETNAM OFF.",1974,1975,13,"Violent act","14 December 1974","30 April 1975","Political threat","Full-scale war","Full-scale war","Unilateral act","Indochina","No mediation"
-259,"MAYAGUEZ",1975,1975,13,"Violent act","12 May 1975","15 May 1975","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Indochina","Mediation offered"
-260,"WAR IN ANGOLA",1975,1976,1,"Indirect violent act","12 July 1975","27 March 1976","Political threat","Full-scale war","Full-scale war","Unilateral act","Angola","Mediation occurred"
-261,"MOROCCAN MARCH",1975,1976,5,"Political act","16 October 1975","14 April 1976","Territorial threat","Serious clashes","Serious clashes","Other outcome","Western Sahara","Mediation occurred"
-262,"BELIZE I",1975,1975,41,"Non-violent military act","1 November 1975","30 November 1975","Threat to influence","No violence","No violence","Semi-formal agreement","Non-protracted conflict","No mediation"
-263,"COD WAR II",1975,1976,43,"Internal verbal or physical challenge ","23 November 1975","1 June 1976","Economic threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-264,"EAST TIMOR I",1975,1976,14,"Political act","28 November 1975","17 July 1976","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Indonesia","Mediation offered"
-265,"LEB. CIVIL WAR",1976,1976,44,"Indirect violent act","18 January 1976","15 November 1976","Threat to influence","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","Mediation offered"
-266,"UGANDA CLAIMS",1976,1976,40,"Political act","15 February 1976","24 February 1976","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","Mediation requested"
-267,"OPERATION THRASHER",1976,1976,4,"Violent act","22 February 1976",". April 1976","Political threat","Serious clashes","Serious clashes","Other outcome","Rhodesia","No mediation"
-268,"NOUAKCHOTT I",1976,1976,5,"Violent act","8 June 1976","8 June 1976","Political threat","Serious clashes","Serious clashes","Unilateral act","Western Sahara","No mediation"
-269,"IRAQI THREAT",1976,1976,44,"Non-violent military act","9 June 1976","17 June 1976","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-270,"ENTEBBE RAID",1976,1976,50,"Other non-violent act","27 June 1976","4 July 1976","Threat of grave damage","Minor clashes","Minor clashes","Unilateral act","Israel/Palestinian groups","No mediation"
-271,"SUDAN COUP ATTEMPT",1976,1976,40,"Internal verbal or physical challenge ","2 July 1976","15 July 1976","Political threat","Minor clashes","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-272,"AEGEAN SEA I",1976,1976,28,"Non-violent military act","6 August 1976","25 September 1976","Territorial threat","No violence","No violence","Unilateral act","Greece/Turkey","Mediation occurred"
-273,"NAGOMIA RAID",1976,1976,4,"Violent act","9 August 1976",". November 1976","Limited military damage","Serious clashes","Serious clashes","Other outcome","Rhodesia","No mediation"
-274,"POPLAR TREE",1976,1976,15,"Violent act","17 August 1976","16 September 1976","Threat to influence","No violence","Minor clashes","Formal agreement","Korea","No mediation"
-275,"SYRIA MOBILIZATION",1976,1976,23,"Non-violent military act","21 November 1976","13 December 1976","Threat to influence","No violence","No violence","Tacit understanding","Arab/Israel","No mediation"
-276,"OPERATION TANGENT",1976,1977,4,"Non-violent military act","20 December 1976","31 March 1977","Limited military damage","No violence","Minor clashes","Unilateral act","Rhodesia","No mediation"
-277,"SHABA I",1977,1977,1,"Violent act","8 March 1977","26 May 1977","Political threat","Serious clashes","Serious clashes","Unilateral act","Angola","Mediation occurred"
-278,"MAPAI SEIZURE",1977,1977,4,"Violent act","29 May 1977","30 June 1977","Limited military damage","Serious clashes","Serious clashes","Other outcome","Rhodesia","No mediation"
-279,"BELIZE II",1977,1977,41,"Non-violent military act","25 June 1977","28 July 1977","Threat to influence","No violence","No violence","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-280,"NOUAKCHOTT II",1977,1977,5,"Violent act","3 July 1977","28 July 1977","Political threat","Serious clashes","Serious clashes","Unilateral act","Western Sahara","No mediation"
-281,"EGYPT/LIBYA CLASHES",1977,1977,40,"Violent act","14 July 1977","10 September 1977","Limited military damage","Serious clashes","Serious clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-282,"OGADEN II",1977,1978,3,"Violent act","22 July 1977","14 March 1978","Territorial threat","Full-scale war","Full-scale war","Unilateral act","Ethiopia/Somalia","Mediation occurred"
-283,"RHODESIA RAID",1977,1978,4,"Violent act","31 August 1977","14 August 1978","Limited military damage","Minor clashes","Serious clashes","Other outcome","Rhodesia","No mediation"
-284,"VIETNAM INV./CAMBODIA",1977,1979,13,"Violent act","24 September 1977","7 January 1979","Threat to existence","Full-scale war","Full-scale war","Unilateral act","Indochina","No mediation"
-285,"FRENCH HOSTAGES MAUR.",1977,1977,5,"Indirect violent act","25 October 1977","23 December 1977","Limited military damage","Minor clashes","No violence","Other outcome","Western Sahara","Mediation occurred"
-286,"CHIMOIO-TEMBUE RAIDS",1977,1978,4,"Violent act","23 November 1977","22 March 1978","Limited military damage","No violence","Full-scale war","Unilateral act","Rhodesia","No mediation"
-287,"BEAGLE CHANNEL I",1977,1978,41,"Non-violent military act","5 December 1977","20 February 1978","Territorial threat","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-288,"CHAD/LIBYA II",1978,1978,2,"External change","22 January 1978","27 March 1978","Political threat","Full-scale war","Full-scale war","Formal agreement","Chad/Libya","Mediation occurred"
-289,"LITANI OPERATION",1978,1978,50,"Violent act","14 March 1978","13 June 1978","Territorial threat","No violence","Serious clashes","Unilateral act","Israel/Palestinian groups","No mediation"
-290,"CHAD/LIBYA III",1978,1978,2,"Indirect violent act","15 April 1978","29 August 1978","Threat to influence","Full-scale war","Full-scale war","Semi-formal agreement","Chad/Libya","No mediation"
-291,"CASSINGA INCIDENT",1978,1978,1,"Violent act","3 May 1978","17 May 1978","Threat to influence","Serious clashes","Serious clashes","Semi-formal agreement","Angola","No mediation"
-292,"SHABA II",1978,1978,1,"Violent act","11 May 1978","30 July 1978","Political threat","Serious clashes","Serious clashes","Formal agreement","Angola","Mediation occurred"
-293,"AIR RHODESIA INCDNT.",1978,1978,4,"Violent act","3 September 1978","31 October 1978","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Rhodesia","No mediation"
-294,"NICARAGUA CIV WAR II",1978,1979,41,"Violent act","10 September 1978","17 July 1979","Political threat","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation occurred"
-295,"BEAGLE CHANNEL II",1978,1979,41,"Non-violent military act","16 October 1978","8 January 1979","Territorial threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-296,"FALL OF AMIN",1978,1979,40,"Violent act","30 October 1978","10 April 1979","Political threat","Full-scale war","Full-scale war","Unilateral act","Non-protracted conflict","Mediation occurred"
-297,"ANGOLA INVASION SCARE",1978,1978,1,"External change","7 November 1978","14 November 1978","Threat of grave damage","No violence","No violence","Unilateral act","Angola","No mediation"
-298,"SINO/VIETNAM WAR",1978,1979,11,"Indirect violent act","25 December 1978","15 March 1979","Threat of grave damage","Serious clashes","Full-scale war","Unilateral act","China/Vietnam","No mediation"
-299,"TAN TAN",1979,1979,5,"Violent act","28 January 1979",". March 1979","Territorial threat","Serious clashes","Serious clashes","Other outcome","Western Sahara","No mediation"
-300,"RAIDS ON ZIPRA",1979,1979,4,"Violent act","12 February 1979","31 May 1979","Limited military damage","Serious clashes","Serious clashes","Unilateral act","Rhodesia","No mediation"
-301,"NORTH/SOUTH YEMEN II",1979,1979,26,"Violent act","24 February 1979","30 March 1979","Territorial threat","Full-scale war","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-302,"RAIDS ON SWAPO",1979,1979,1,"Violent act","6 March 1979","28 March 1979","Limited military damage","No violence","Minor clashes","Other outcome","Angola","No mediation"
-303,"AFGHANISTAN INVASION",1979,1980,27,"Indirect violent act","15 March 1979","28 February 1980","Political threat","Serious clashes","Serious clashes","Unilateral act","East/West","No mediation"
-304,"CHAD/LIBYA IV",1979,1979,2,"Political act","12 April 1979","10 November 1979","Political threat","Full-scale war","Full-scale war","Unilateral act","Chad/Libya","Mediation occurred"
-305,"GOULIMIME-TARFAYA RD",1979,1979,5,"Violent act","1 June 1979","25 June 1979","Territorial threat","Serious clashes","Minor clashes","Unilateral act","Western Sahara","No mediation"
-306,"SOVIET THREAT/PAK.",1979,1979,42,"Political act","1 June 1979","3 July 1979","Other threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","No mediation"
-307,"RHODESIA SETTLEMENT",1979,1980,4,"Internal verbal or physical challenge ","15 July 1979","4 March 1980","Political threat","Serious clashes","Serious clashes","Formal agreement","Rhodesia","Mediation occurred"
-308,"RAID ON ANGOLA",1979,1979,1,"Violent act","28 October 1979","2 November 1979","Limited military damage","No violence","Minor clashes","Other outcome","Angola","No mediation"
-309,"US HOSTAGES IN IRAN",1979,1981,44,"Violent act","4 November 1979","20 January 1981","Threat to influence","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-310,"COLOMBIA/NICARAGUA",1979,1981,41,"Political act","12 December 1979","8 July 1981","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-311,"RAID ON GAFSA",1980,1980,40,"Internal verbal or physical challenge ","27 January 1980","30 April 1980","Threat to influence","Serious clashes","Serious clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-312,"OPERATION IMAN",1980,1980,5,"Violent act","1 March 1980","15 May 1980","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Western Sahara","No mediation"
-313,"OPERATION SMOKESHELL",1980,1980,1,"Violent act","7 June 1980","2 July 1980","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Angola","No mediation"
-314,"LIBYA THREAT-SADAT",1980,1980,40,"Political act","11 June 1980","28 June 1980","Political threat","No violence","No violence","Crisis faded","Non-protracted conflict","No mediation"
-315,"SOLIDARITY",1980,1981,21,"Internal verbal or physical challenge ","14 August 1980","13 December 1981","Threat to influence","No violence","No violence","Unilateral act","Poland/Russia","No mediation"
-316,"LIBYA/MALTA OIL DISP.",1980,1980,43,"Non-violent military act","20 August 1980","15 September 1980","Economic threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-317,"ONSET IRAN/IRAQ WAR",1980,1980,24,"Political act","17 September 1980","30 November 1980","Territorial threat","Full-scale war","Full-scale war","Unilateral act","Iran/Iraq","Mediation offered"
-318,"LIBYA INTERV./GAMBIA",1980,1980,40,"Internal verbal or physical challenge ","27 October 1980","7 November 1980","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-319,"JORDAN/SYRIA CONFRNT.",1980,1980,44,"Non-violent military act","25 November 1980","14 December 1980","Political threat","No violence","No violence","Tacit understanding","Non-protracted conflict","Mediation occurred"
-320,"E. AFRICA CONFRONT.",1980,1981,3,"Political act","5 December 1980","29 June 1981","Territorial threat","No violence","No violence","Formal agreement","Ethiopia/Somalia","Mediation offered"
-321,"CHAD/LIBYA V",1981,1981,2,"Political act","6 January 1981","16 November 1981","Threat to influence","No violence","Minor clashes","Unilateral act","Chad/Libya","Mediation occurred"
-322,"ECUADOR/PERU BDR. III",1981,1981,7,"Violent act","22 January 1981","2 April 1981","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Ecuador/Peru","Mediation occurred"
-323,"MOZAMBIQUE RAID",1981,1981,40,"Violent act","30 January 1981","28 March 1981","Territorial threat","No violence","Minor clashes","Crisis faded","Non-protracted conflict","No mediation"
-324,"IRAQ NUCLEAR REACTOR",1981,1981,23,"External change",". January 1981","19 June 1981","Threat to existence","Minor clashes","Minor clashes","Unilateral act","Arab/Israel","No mediation"
-325,"ESSEQUIBO II",1981,1983,41,"Political act","4 April 1981",". March 1983","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-326,"CONTRAS I",1981,1981,8,"Violent act","28 April 1981","13 May 1981","Territorial threat","No violence","Minor clashes","Semi-formal agreement","Honduras/Nicaragua","No mediation"
-327,"AL-BIQA MISSILES I",1981,1981,23,"Violent act","28 April 1981","24 July 1981","Threat to influence","No violence","Minor clashes","Formal agreement","Arab/Israel","Mediation occurred"
-328,"CAMEROON/NIGERIA I",1981,1981,40,"Violent act","15 May 1981","24 July 1981","Territorial threat","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-329,"COUP ATTEMPT IN THE GAMBIA",1981,1982,40,"Indirect violent act","30 July 1981","29 January 1982","Threat to influence","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-330,"GULF OF SYRTE I",1981,1981,40,"Other non-violent act","12 August 1981","1 September 1981","Territorial threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-331,"OPERATION PROTEA",1981,1981,1,"Violent act","23 August 1981","30 September 1981","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Angola",""
-332,"GALTAT ZEMMOUR I",1981,1981,5,"Violent act","13 October 1981","9 November 1981","Territorial threat","Serious clashes","Serious clashes","Unilateral act","Western Sahara","Mediation occurred"
-333,"U-137 INCIDENT",1981,1981,43,"Political act","28 October 1981","6 November 1981","Threat of grave damage","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-334,"COUP ATTEMPT IN BAHRAIN",1981,1982,44,"Internal verbal or physical challenge ","13 December 1981","8 January 1982","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-335,"KHORRAMSHAHR",1982,1982,24,"Violent act","22 March 1982","30 July 1982","Threat of grave damage","Full-scale war","Full-scale war","Unilateral act","Iran/Iraq","Mediation occurred"
-336,"FALKLANDS/MALVINAS",1982,1982,41,"External change","31 March 1982","14 June 1982","Territorial threat","Full-scale war","Full-scale war","Imposed agreement","Non-protracted conflict","Mediation occurred"
-337,"WAR IN LEBANON",1982,1983,50,"Violent act","5 June 1982","17 May 1983","Threat to influence","Full-scale war","Full-scale war","Semi-formal agreement","Israel/Palestinian groups","Mediation occurred"
-338,"OGADEN III",1982,1982,3,"Violent act","30 June 1982",". August 1982","Territorial threat","Serious clashes","Serious clashes","Other outcome","Ethiopia/Somalia","No mediation"
-339,"LESOTHO RAID",1982,1982,40,"Violent act","9 December 1982","15 December 1982","Territorial threat","No violence","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-340,"LIBYA THREAT/SUDAN",1983,1983,40,"Non-violent military act","11 February 1983","22 February 1983","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-341,"CHAD/NIGERIA CLASHES",1983,1983,40,"Violent act","18 April 1983","11 July 1983","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-342,"CHAD/LIBYA VI",1983,1984,2,"Violent act","24 June 1983","11 December 1984","Political threat","Minor clashes","Minor clashes","Semi-formal agreement","Chad/Libya","Mediation occurred"
-343,"INVASION OF GRENADA",1983,1983,41,"Indirect violent act","19 October 1983","28 October 1983","Threat to influence","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-344,"ABLE ARCHER 83",1983,1983,27,"Non-violent military act","2 November 1983","11 November 1983","Threat to existence","No violence","No violence","Crisis faded","East/West","No mediation"
-345,"MAITENGWE CLASHES",1983,1983,40,"Violent act","8 November 1983","21 December 1983","Limited military damage","No violence","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-346,"ETHIOP./SUDAN TENSION",1983,1984,40,"Non-violent military act","20 November 1983","20 February 1984","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation offered"
-347,"OPERATION ASKARI",1983,1984,1,"Violent act","6 December 1983","16 February 1984","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Angola","Mediation occurred"
-348,"BASRA-KHARG ISLAND",1984,1984,24,"Violent act","21 February 1984","11 July 1984","Threat of grave damage","Full-scale war","Full-scale war","Semi-formal agreement","Iran/Iraq","Mediation occurred"
-349,"AEGEAN SEA II",1984,1984,28,"Violent act","8 March 1984","10 March 1984","Limited military damage","No violence","Minor clashes","Semi-formal agreement","Greece/Turkey","No mediation"
-350,"OMDURMAN BOMBING",1984,1984,40,"Violent act","16 March 1984",".  1984","Political threat","No violence","Minor clashes","Crisis faded","Non-protracted conflict","No mediation"
-351,"VIETNAM INCURSION INTO THAILAND",1984,1984,13,"Violent act","25 March 1984","17 April 1984","Limited military damage","Minor clashes","Minor clashes","Unilateral act","Indochina","No mediation"
-352,"SINO/VIETNAM CLASHES",1984,1984,11,"Violent act","2 April 1984","28 June 1984","Threat to influence","Serious clashes","Serious clashes","Crisis faded","China/Vietnam","No mediation"
-353,"THREE VILLAGE BDR. I",1984,1984,42,"Non-violent military act","5 June 1984","15 October 1984","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-354,"NICARAGUA MIG-21S",1984,1984,27,"External change","6 November 1984","12 November 1984","Political threat","No violence","No violence","Unilateral act","East/West","No mediation"
-355,"BOTSWANA RAID",1985,1985,40,"Violent act","14 June 1985","21 June 1985","Territorial threat","No violence","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-356,"EXPULSION-TUNISIANS",1985,1985,40,"Non-violent military act","21 August 1985","26 September 1985","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-357,"AL-BIQA MISSILES II",1985,1986,23,"Violent act","19 November 1985","15 January 1986","Threat to influence","No violence","Minor clashes","Tacit understanding","Arab/Israel","Mediation occurred"
-358,"EGYPT AIR HIJACKING",1985,1985,40,"Violent act","23 November 1985","3 December 1985","Political threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-359,"BURKINA FASO/MALI BDR",1985,1986,40,"Non-violent military act","20 December 1985","18 January 1986","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-360,"S. AFRICA RAID ON LESOTHO",1985,1986,40,"Violent act","20 December 1985","25 January 1986","Political threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","No mediation"
-361,"CAPTURE OF AL-FAW",1986,1986,24,"Violent act","9 February 1986","1 April 1986","Territorial threat","Full-scale war","Full-scale war","Unilateral act","Iran/Iraq","No mediation"
-362,"CHAD/LIBYA VII",1986,1986,2,"Violent act","10 February 1986","28 March 1986","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Chad/Libya","Mediation offered"
-363,"GULF OF SYRTE II",1986,1986,40,"Non-violent military act","24 March 1986","21 April 1986","Territorial threat","Serious clashes","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-364,"AL-DIBAL INCIDENT",1986,1986,44,"Violent act","26 April 1986","15 June 1986","Territorial threat","No violence","Minor clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-365,"S. AFRICA CROSS BORDER RAID",1986,1986,40,"Violent act","19 May 1986","28 May 1986","Limited military damage","No violence","Minor clashes","Other outcome","Non-protracted conflict","No mediation"
-366,"REBEL ATTACK ON UGANDA",1986,1987,40,"Violent act","19 August 1986","1 June 1987","Political threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-367,"MOZAMBIQUE ULTIMATUM",1986,1986,40,"Political act","11 September 1986","18 December 1986","Limited military damage","No violence","Minor clashes","Formal agreement","Non-protracted conflict","No mediation"
-368,"ATTEMPTED COUP-TOGO",1986,1987,40,"Internal verbal or physical challenge ","23 September 1986","5 February 1987","Political threat","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-369,"CONTRAS II",1986,1986,8,"Violent act","4 December 1986","12 December 1986","Political threat","Minor clashes","Minor clashes","Unilateral act","Honduras/Nicaragua","No mediation"
-370,"CHAD/LIBYA VIII",1986,1987,2,"Violent act","12 December 1986","11 September 1987","Territorial threat","Full-scale war","Full-scale war","Semi-formal agreement","Chad/Libya","Mediation occurred"
-371,"SINO/VIETNAM BORDER",1987,1987,11,"Violent act","5 January 1987","10 January 1987","Territorial threat","Serious clashes","Serious clashes","Unilateral act","China/Vietnam","No mediation"
-372,"PUNJAB WAR SCARE II",1987,1987,12,"Non-violent military act","15 January 1987","19 February 1987","Territorial threat","No violence","No violence","Formal agreement","India/Pakistan","No mediation"
-373,"TODGHERE INCIDENT",1987,1987,3,"Violent act","12 February 1987","1 April 1987","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Ethiopia/Somalia","No mediation"
-374,"SYRIAN INT./LEBANON",1987,1987,44,"Indirect violent act","15 February 1987","6 April 1987","Threat to influence","Serious clashes","Serious clashes","Imposed agreement","Non-protracted conflict","No mediation"
-375,"SAND WALL",1987,1987,5,"Violent act","25 February 1987","4 May 1987","Territorial threat","Serious clashes","Serious clashes","Semi-formal agreement","Western Sahara","Mediation occurred"
-376,"AEGEAN SEA III",1987,1987,28,"Political act","1 March 1987","28 March 1987","Economic threat","No violence","No violence","Semi-formal agreement","Greece/Turkey","Mediation offered"
-377,"CAMEROON/NIGERIA II",1987,1987,40,"Non-violent military act","2 May 1987","26 September 1987","Territorial threat","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-378,"INDIA INT./SRI LANKA",1987,1987,42,"Non-violent military act","3 June 1987","30 July 1987","Political threat","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-379,"MECCA PILGRIMAGE",1987,1987,44,"Internal verbal or physical challenge ","31 July 1987",". October 1987","Political threat","Minor clashes","Serious clashes","Crisis faded","Non-protracted conflict","No mediation"
-380,"S. AFRICA INTERVENTION IN ANGOLA",1987,1988,1,"Violent act","3 October 1987","22 August 1988","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Angola","Mediation occurred"
-381,"THREE VILLAGE BDR. II",1987,1988,42,"Violent act","3 November 1987","17 February 1988","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation offered"
-382,"KENYA/UGANDA BORDER",1987,1987,40,"Violent act","14 December 1987","28 December 1987","Economic threat","No violence","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-383,"CONTRAS III",1988,1988,8,"Violent act","6 March 1988","28 March 1988","Political threat","Minor clashes","Minor clashes","Unilateral act","Honduras/Nicaragua","No mediation"
-384,"SPRATLY ISLANDS",1988,1988,11,"Violent act","14 March 1988","28 April 1988","Territorial threat","Serious clashes","Serious clashes","Crisis faded","China/Vietnam","No mediation"
-385,"IRAQ RECAPTURE-AL-FAW",1988,1988,24,"Violent act","18 April 1988","8 August 1988","Territorial threat","Full-scale war","Full-scale war","Semi-formal agreement","Iran/Iraq","Mediation occurred"
-386,"LIBYAN JETS",1988,1989,40,"Violent act","21 December 1988","12 January 1989","Threat to influence","Minor clashes","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-387,"MAURITANIA/SENEGAL",1989,1991,40,"Political act","21 August 1989","18 July 1991","Economic threat","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-388,"CAMBODIA PEACE CONF.",1989,1990,13,"Political act","30 August 1989","27 January 1990","Political threat","Minor clashes","Minor clashes","Semi-formal agreement","Indochina","Mediation occurred"
-389,"CONTRAS IV",1989,1989,8,"Violent act","9 September 1989","7 November 1989","Limited military damage","No violence","Minor clashes","Semi-formal agreement","Honduras/Nicaragua",""
-390,"GALTAT ZEMMOUR II",1989,1989,5,"Violent act","7 October 1989","28 November 1989","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Western Sahara","No mediation"
-391,"INVASION OF PANAMA",1989,1990,41,"Political act","15 December 1989","3 January 1990","Threat to influence","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-392,"KASHMIR III-NUCLEAR",1990,1990,12,"Political act","14 January 1990","28 June 1990","Threat to existence","Serious clashes","Serious clashes","Unilateral act","India/Pakistan","Mediation occurred"
-393,"GULF WAR",1990,1991,25,"Violent act","2 August 1990","12 April 1991","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","Iraq/Kuwait","Mediation occurred"
-394,"RWANDA/UGANDA",1990,1991,40,"Violent act","30 September 1990","29 March 1991","Limited military damage","Serious clashes","Serious clashes","Tacit understanding","Non-protracted conflict","Mediation occurred"
-395,"LIBERIA/SIERRA LEONE",1991,1991,40,"Violent act","23 March 1991","31 October 1991","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-396,"GHANA/TOGO BORDER II",1991,1991,40,"Non-violent military act","11 April 1991","5 October 1991","Limited military damage","No violence","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-397,"YUGOSLAVIA I: CROATIA-SLOVENIA",1991,1992,33,"Internal verbal or physical challenge ","25 June 1991","3 January 1992","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Yugoslavia","Mediation occurred"
-398,"BUBIYAN",1991,1991,25,"Violent act","28 August 1991","28 August 1991","Territorial threat","Minor clashes","Minor clashes","Crisis faded","Iraq/Kuwait","No mediation"
-399,"FOREIGN INTERV.-ZAIRE",1991,1991,40,"Indirect violent act","23 September 1991","4 November 1991","Political threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-400,"ECUADOR/PERUBDR. IV",1991,1991,7,"Non-violent military act","6 October 1991","15 October 1991","Territorial threat","No violence","No violence","Semi-formal agreement","Ecuador/Peru","Mediation requested"
-401,"NAGORNYY-KARABAKH",1991,1992,42,"Internal verbal or physical challenge ","27 November 1991","15 August 1992","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Non-protracted conflict","Mediation occurred"
-402,"EGYPT/SUDAN BDR. II",1992,1992,40,"Political act","28 January 1992","28 June 1992","Territorial threat","No violence","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-403,"YUGOSLAVIA II: BOSNIA",1992,1995,33,"Political act","3 March 1992","21 November 1995","Threat to existence","Full-scale war","Full-scale war","Formal agreement","Yugoslavia","Mediation occurred"
-404,"PAPUA/SOLOMON",1992,1992,42,"Violent act","12 March 1992","15 September 1992","Limited military damage","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-405,"SLEEPING DOG HILL",1992,1992,42,"Violent act","14 March 1992","25 December 1992","Territorial threat","Minor clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-406,"IRAQ NO-FLY ZONE",1992,1992,32,"Political act","18 August 1992","8 September 1992","Political threat","No violence","No violence","Unilateral act","Iraq Regime","No mediation"
-407,"GEORGIA/ABKHAZIA",1992,1993,36,"Political act","25 September 1992","8 October 1993","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Georgia/Russia","No mediation"
-408,"N. KOREA NUCLEAR I",1993,1994,34,"Other non-violent act","1 March 1993","21 October 1994","Threat to influence","No violence","No violence","Formal agreement","North Korea Nuclear","Mediation occurred"
-409,"OPTN. ACCOUNTABILITY",1993,1993,51,"Violent act","10 July 1993","31 July 1993","Limited military damage","Minor clashes","Minor clashes","Tacit understanding","Hezbollah/Israel","Mediation occurred"
-410,"CAMEROON/NIGERIA III",1993,1994,40,"Violent act","28 December 1993","28 November 1994","Territorial threat","Serious clashes","Serious clashes","Crisis faded","Non-protracted conflict","Mediation occurred"
-411,"HAITI MIL. REGIME",1994,1994,41,"Political act","15 July 1994","15 October 1994","Threat to influence","No violence","Minor clashes","Imposed agreement","Non-protracted conflict","No mediation"
-412,"IRAQ DEPLOY./KUWAIT",1994,1994,25,"Non-violent military act","7 October 1994","10 November 1994","Threat to existence","No violence","No violence","Unilateral act","Iraq/Kuwait","No mediation"
-413,"ECUADOR/PERU V",1995,1995,7,"Violent act","9 January 1995","1 March 1995","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Ecuador/Peru","Mediation occurred"
-414,"SPRATLY ISLANDS",1995,1995,42,"Non-violent military act","2 February 1995","15 February 1995","Political threat","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-415,"TAIWAN STRAIT IV",1995,1996,30,"Political act","22 May 1995","25 March 1996","Territorial threat","No violence","No violence","Unilateral act","Taiwan Strait","No mediation"
-416,"RED SEA ISLANDS",1995,1995,40,"Violent act","15 December 1995","31 December 1995","Territorial threat","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","Mediation occurred"
-417,"AEGEAN SEA IV",1996,1996,28,"Other non-violent act","26 January 1996","31 January 1996","Territorial threat","No violence","No violence","Unilateral act","Greece/Turkey","Mediation occurred"
-418,"OPRN GRAPES OF WRATH",1996,1996,51,"Violent act","9 April 1996","27 April 1996","Threat of grave damage","Minor clashes","Minor clashes","Semi-formal agreement","Hezbollah/Israel","Mediation occurred"
-419,"DESERT STRIKE",1996,1996,32,"Indirect violent act","31 August 1996","14 September 1996","Threat to influence","Serious clashes","Serious clashes","Other outcome","Iraq Regime","No mediation"
-420,"N. KOREAN SUBMARINE",1996,1996,15,"Non-violent military act","18 September 1996","29 December 1996","Threat to influence","Minor clashes","Minor clashes","Semi-formal agreement","Korea","Mediation occurred"
-421,"ZAIRE CIVILWAR",1996,1997,35,"Violent act","8 October 1996","16 May 1997","Threat of grave damage","Serious clashes","Serious clashes","Imposed agreement","DRC (Zaire)-Rwanda","Mediation occurred"
-422,"UNSCOM I",1997,1998,32,"Political act","13 November 1997","23 February 1998","Threat of grave damage","No violence","No violence","Formal agreement","Iraq Regime","Mediation occurred"
-423,"CYPRUS/TURKEY MISSILE",1998,1998,28,"External change","24 January 1998","29 December 1998","Limited military damage","No violence","No violence","Unilateral act","Greece/Turkey","Mediation offered"
-424,"ETHIOPIA-ERITREA I",1998,2000,40,"Violent act","6 May 1998","12 December 2000","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-425,"INDIA/PAKISTAN NUCLEAR TESTS",1998,1998,12,"Non-violent military act","11 May 1998","11 June 1998","Threat to influence","No violence","No violence","Unilateral act","India/Pakistan","Mediation offered"
-426,"DRC CIVIL WAR",1998,2002,35,"Political act","29 July 1998","30 July 2002","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","DRC (Zaire)-Rwanda","Mediation occurred"
-427,"US EMBASSY BOMBINGS",1998,1998,40,"Violent act","7 August 1998","20 August 1998","Limited military damage","Minor clashes","Minor clashes","Unilateral act","Non-protracted conflict","No mediation"
-428,"SYRIA/TURKEY",1998,1998,44,"Verbal act","1 October 1998","20 October 1998","Limited military damage","No violence","No violence","Formal agreement","Non-protracted conflict","Mediation occurred"
-429,"UNSCOM II",1998,1998,32,"Political act","31 October 1998","20 December 1998","Threat of grave damage","Serious clashes","Serious clashes","Unilateral act","Iraq Regime","No mediation"
-430,"KOSOVO",1999,1999,33,"Political act","20 February 1999","10 June 1999","Threat of grave damage","Serious clashes","Serious clashes","Formal agreement","Yugoslavia","Mediation occurred"
-431,"KARGIL",1999,1999,12,"Violent act","9 May 1999","4 July 1999","Territorial threat","Serious clashes","Serious clashes","Unilateral act","India/Pakistan","Mediation offered"
-432,"EAST TIMOR II",1999,1999,14,"Violent act","4 September 1999","19 October 1999","Threat to influence","Minor clashes","Minor clashes","Unilateral act","Indonesia","No mediation"
-433,"CASPIAN SEA",2001,2001,42,"Non-violent military act","24 July 2001","1 August 2001","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","No mediation"
-434,"AFGHANISTAN/US",2001,2001,42,"Violent act","11 September 2001","7 December 2001","Threat of grave damage","Full-scale war","Full-scale war","Imposed agreement","Non-protracted conflict","Mediation occurred"
-435,"INDIA PARLIAMENT ATTACK",2001,2002,12,"Violent act","13 December 2001","12 January 2002","Political threat","No violence","Minor clashes","Unilateral act","India/Pakistan","Mediation offered"
-436,"KALUCHAK",2002,2002,12,"Violent act","14 April 2002","17 October 2002","Threat of grave damage","Minor clashes","Minor clashes","Tacit understanding","India/Pakistan","Mediation occurred"
-437,"MYANMAR-THAILAND",2002,2002,42,"Violent act","16 May 2002","15 October 2002","Limited military damage","Minor clashes","Minor clashes","Tacit understanding","Non-protracted conflict","No mediation"
-438,"PARSLEY ISLAND",2002,2002,43,"Non-violent military act","11 July 2002","21 July 2002","Territorial threat","No violence","No violence","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-439,"PANKISI GORGE",2002,2002,36,"Violent act","27 July 2002","7 October 2002","Limited military damage","Minor clashes","Minor clashes","Semi-formal agreement","Georgia/Russia","No mediation"
-440,"IRAQ REGIME CHANGE",2002,2003,32,"Verbal act","12 September 2002","1 May 2003","Threat to existence","Full-scale war","Full-scale war","Imposed agreement","Iraq Regime","No mediation"
-441,"N. KOREA NUCLEAR II",2002,2004,34,"Verbal act","3 October 2002","6 January 2004","Threat to influence","No violence","No violence","Semi-formal agreement","North Korea Nuclear","Mediation offered"
-442,"IRAN NUCLEAR I",2003,2004,44,"External change","13 June 2003","15 November 2004","Threat to influence","No violence","No violence","Formal agreement","Non-protracted conflict","No mediation"
-443,"HAIFA SUICIDE BOMBING",2003,2003,50,"Violent act","4 October 2003","2 December 2003","Limited military damage","Minor clashes","Minor clashes","Crisis faded","Israel/Palestinian groups","No mediation"
-444,"DRC/RWANDA",2004,2004,35,"Violent act","1 June 2004","20 December 2004","Political threat","Minor clashes","Minor clashes","Unilateral act","DRC (Zaire)-Rwanda","Mediation occurred"
-445,"S. OSSETIA/ABKHAZIA",2004,2004,36,"Political act","10 June 2004","5 November 2004","Territorial threat","Minor clashes","Minor clashes","Crisis faded","Georgia/Russia","No mediation"
-446,"ETHIOPIA-ERITREA II",2005,2006,40,"Political act","4 October 2005","11 January 2006","Threat of grave damage","Minor clashes","Minor clashes","Crisis faded","Non-protracted conflict","Mediation offered"
-447,"CHAD-SUDAN I",2005,2006,37,"Violent act","18 December 2005","8 February 2006","Political threat","Minor clashes","Minor clashes","Formal agreement","Chad/Sudan","Mediation occurred"
-448,"IRAN NUCLEAR II",2006,2007,44,"Other non-violent act","10 January 2006","4 December 2007","Threat to influence","No violence","No violence","Unilateral act","Non-protracted conflict","No mediation"
-449,"CHAD-SUDAN II",2006,2006,37,"Internal verbal or physical challenge ","12 April 2006","8 August 2006","Political threat","No violence","Minor clashes","Semi-formal agreement","Chad/Sudan","Mediation occurred"
-450,"N. KOREA NUCLEAR III",2006,2007,34,"External change","5 May 2006","3 October 2007","Threat to influence","No violence","No violence","Formal agreement","North Korea Nuclear","No mediation"
-451,"ISRAEL LEBANON WAR II",2006,2006,51,"Violent act","12 July 2006","8 September 2006","Threat of grave damage","Full-scale war","Full-scale war","Other outcome","Hezbollah/Israel","Mediation occurred"
-452,"ETHIOPIA INVASION SOMALIA",2006,2007,3,"Verbal act","9 October 2006","2 January 2007","Limited military damage","Serious clashes","Minor clashes","Unilateral act","Ethiopia/Somalia","Mediation occurred"
-453,"CHAD-SUDAN III",2007,2007,37,"Violent act","31 March 2007","17 April 2007","Territorial threat","Serious clashes","Serious clashes","Semi-formal agreement","Chad/Sudan","Mediation occurred"
-454,"ETHIOPIA-ERITREA III",2007,2007,40,"Political act","8 September 2007","1 December 2007","Territorial threat","Minor clashes","Minor clashes","Crisis faded","Non-protracted conflict","Mediation offered"
-455,"CHAD-SUDAN IV",2007,2008,37,"Non-violent military act","26 December 2007","1 August 2008","Political threat","Serious clashes","Serious clashes","Tacit understanding","Chad/Sudan","Mediation occurred"
-456,"DJIBOUTI-ERITREA",2008,2008,40,"Non-violent military act","7 April 2008","28 June 2008","Territorial threat","Minor clashes","Minor clashes","Crisis faded","Non-protracted conflict","Mediation offered"
-457,"PREAH VIHEAR TEMPLE I",2008,2009,42,"External change","8 July 2008","24 August 2009","Territorial threat","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation offered"
-458,"RUSSO-GEORGIAN WAR",2008,2008,36,"Non-violent military act","7 August 2008","16 August 2008","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Georgia/Russia","Mediation occurred"
-459,"N. KOREA NUCLEAR IV-SATELLITE LAUNCH",2009,2009,34,"Verbal act","11 March 2009","4 August 2009","Threat to influence","No violence","No violence","Crisis faded","North Korea Nuclear","No mediation"
-460,"CHAD-SUDAN V",2009,2010,37,"Violent act","5 May 2009","9 February 2010","Political threat","Serious clashes","Serious clashes","Formal agreement","Chad/Sudan","Mediation occurred"
-461,"CHEONAN SINKING",2010,2010,15,"Violent act","26 March 2010","26 July 2010","Limited military damage","Minor clashes","Minor clashes","Crisis faded","Korea","No mediation"
-462,"YEONPYEONG ISLAND",2010,2011,15,"Non-violent military act","23 November 2010","19 June 2011","Limited military damage","Minor clashes","Minor clashes","Crisis faded","Korea","No mediation"
-463,"PREAH VIHEAR TEMPLE II",2011,2011,42,"Violent act","4 February 2011","21 December 2011","Territorial threat","Serious clashes","Serious clashes","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-464,"LIBYAN CIVILWAR",2011,2011,40,"Indirect violent act","22 February 2011","20 October 2011","Political threat","Serious clashes","Full-scale war","Other outcome","Non-protracted conflict","No mediation"
-465,"COTE D'IVOIRE PRESIDENTIAL CRISIS",2011,2011,40,"Violent act","3 April 2011","11 April 2011","Political threat","Serious clashes","Serious clashes","Unilateral act","Non-protracted conflict","No mediation"
-466,"SUDAN-SOUTH SUDAN",2011,2012,40,"Violent act","19 May 2011","27 September 2012","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-467,"SCARBOROUGH SHOAL",2012,2012,42,"Other non-violent act","10 April 2012","15 June 2012","Territorial threat","No violence","No violence","Unilateral act","Non-protracted conflict","Mediation occurred"
-468,"SYRIA-TURKEY BORDER INCIDENTS",2012,2012,44,"Violent act","3 October 2012","4 December 2012","Limited military damage","Minor clashes","Minor clashes","Crisis faded","Non-protracted conflict","No mediation"
-469,"N. KOREA NUCLEAR V",2013,2013,34,"Non-violent military act","12 February 2013","14 August 2013","Threat of grave damage","No violence","No violence","Formal agreement","North Korea Nuclear","Mediation offered"
-470,"SYRIA CHEMICAL WEAPONS",2013,2013,44,"Indirect violent act","21 August 2013","21 September 2013","Threat to influence","No violence","Full-scale war","Other outcome","Non-protracted conflict","No mediation"
-471,"CRIMEA-DONBASS",2014,2015,43,"External change","22 February 2014","18 February 2015","Threat to influence","Serious clashes","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-472,"CHINESE OIL RIG",2014,2014,11,"Other non-violent act","2 May 2014","16 July 2014","Territorial threat","Minor clashes","Minor clashes","Unilateral act","China/Vietnam","Mediation offered"
-473,"INDIA-PAKISTAN BORDER FIRING",2014,2014,12,"Violent act","6 October 2014","28 October 2014","Limited military damage","Minor clashes","Minor clashes","Crisis faded","India/Pakistan","No mediation"
-474,"HOUTHI REBELLION",2015,2020,26,"Indirect violent act","22 January 2015","26 December 2020","Threat to influence","Minor clashes","Full-scale war","Formal agreement","Yemen","Mediation occurred"
-475,"KOREAN LAND MINE",2015,2015,15,"Violent act","1 August 2015","25 August 2015","Political threat","Minor clashes","Minor clashes","Semi-formal agreement","Korea","No mediation"
-476,"TURKEY-RUSSIA JET INCIDENT",2015,2016,42,"Violent act","24 November 2015","29 June 2016","Threat of grave damage","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","No mediation"
-477,"NORTH KOREA NUCLEAR VI",2016,2016,34,"Non-violent military act","6 January 2016","2 December 2016","Threat of grave damage","No violence","No violence","Crisis faded","North Korea Nuclear","No mediation"
-478,"NAGORNO-KARABAKH APRIL WAR",2016,2016,42,"Violent act","1 April 2016","5 April 2016","Territorial threat","Serious clashes","Serious clashes","Formal agreement","Non-protracted conflict","Mediation occurred"
-479,"EAST CHINA SEA",2016,2016,10,"Non-violent military act","9 June 2016","14 June 2016","Territorial threat","No violence","No violence","Tacit understanding","China/Japan","No mediation"
-480,"TORKHAM BORDER INCIDENT",2016,2016,9,"Violent act","12 June 2016","15 June 2016","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Afghanistan/Pakistan","Mediation occurred"
-481,"OPERATION EUPHRATES SHIELD",2016,2017,44,"Violent act","24 August 2016","29 March 2017","Territorial threat","Minor clashes","Full-scale war","Unilateral act","Non-protracted conflict","Mediation occurred"
-482,"URI BASE ATTACK",2016,2016,12,"Violent act","18 September 2016","20 September 2016","Territorial threat","Minor clashes","Minor clashes","Unilateral act","India/Pakistan","No mediation"
-483,"KISANGANI CONFLICT",1999,2001,40,"Violent act","7 August 1999","6 November 2001","Threat to influence","Serious clashes","Full-scale war","Semi-formal agreement","Non-protracted conflict","Mediation occurred"
-484,"SERBIAN TRAIN INCIDENT",2017,2017,33,"Other non-violent act","14 January 2017","1 February 2017","Territorial threat","No violence","No violence","Crisis faded","Yugoslavia","Mediation occurred"
-485,"SHRINE LAL SHAHBAZ ATTACK",2017,2017,9,"Internal verbal or physical challenge ","16 February 2017","27 May 2017","Territorial threat","Minor clashes","Minor clashes","Formal agreement","Afghanistan/Pakistan","No mediation"
-486,"SYRIA CHEMICAL WEAPONS II",2017,2017,44,"Indirect violent act","4 April 2017","24 April 2017","Threat to influence","Minor clashes","Full-scale war","Unilateral act","Non-protracted conflict","No mediation"
-487,"NORTH KOREA NUCLEAR VII",2017,2018,34,"Non-violent military act","3 July 2017","12 June 2018","Threat of grave damage","No violence","No violence","Formal agreement","North Korea Nuclear","Mediation occurred"
-488,"ISRAEL-IRAN CLASHES IN SYRIA",2018,2018,52,"Non-violent military act","10 February 2018","10 May 2018","Threat to influence","Minor clashes","Minor clashes","Crisis faded","Iran/Israel","No mediation"
-489,"SYRIA CHEMICAL WEAPONS III",2018,2018,44,"Violent act","7 April 2018","14 April 2018","Threat to influence","Minor clashes","Full-scale war","Unilateral act","Non-protracted conflict","No mediation"
-490,"UAE WITHDRAWAL FROM SOMALIA",2018,2018,40,"Other non-violent act","15 April 2018","22 April 2018","Political threat","No violence","Serious clashes","Crisis faded","Non-protracted conflict","No mediation"
-491,"SEA OF AZOV",2018,2018,43,"Non-violent military act","6 September 2018","29 December 2018","Territorial threat","No violence","Minor clashes","Crisis faded","Non-protracted conflict","No mediation"
-492,"ISRAEL-IRAN CLASHES IN SYRIA II",2019,2019,52,"Violent act","20 January 2019","13 February 2019","Limited military damage","No violence","Minor clashes","Unilateral act","Iran/Israel","No mediation"
-493,"VENEZUELAN ELECTION",2019,2019,41,"Political act","23 January 2019","10 May 2019","Political threat","No violence","No violence","Crisis faded","Non-protracted conflict","No mediation"
-494,"PULWAMA SUICIDE BOMBING",2019,2019,12,"Violent act","14 February 2019","1 March 2019","Territorial threat","Minor clashes","Minor clashes","Unilateral act","India/Pakistan","No mediation"
-495,"SOLEIMANI ASSASSINATION",2019,2020,44,"Non-violent military act","18 June 2019","8 January 2020","Threat to influence","Minor clashes","Minor clashes","Crisis faded","Non-protracted conflict","No mediation"
-496,"ABQAIQ OIL STRIKE",2019,2019,44,"Violent act","14 September 2019","30 October 2019","Threat to influence","No violence","Minor clashes","Tacit understanding","Non-protracted conflict","Mediation offered"
-497,"DETENTION OF HARIRI",2017,2017,44,"Political act","4 November 2017","21 November 2017","Political threat","No violence","No violence","Tacit understanding","Non-protracted conflict","Mediation occurred"
-498,"OPERATION SPRING SHIELD",2020,2020,44,"Violent act","27 February 2020","5 March 2020","Threat to influence","Minor clashes","Full-scale war","Formal agreement","Non-protracted conflict","No mediation"
-499,"GALWAN VALLEY BORDER CLASH",2020,2021,42,"Violent act","5 May 2020","10 February 2021","Limited military damage","Minor clashes","Minor clashes","Semi-formal agreement","Non-protracted conflict","Mediation offered"
-500,"POST-PANMUNJOM TENSIONS",2020,2020,15,"Political act","9 June 2020","23 June 2020","Limited military damage","No violence","Minor clashes","Unilateral act","Korea","No mediation"
-501,"US-TAIWAN DIPLOMATIC VISITS I",2020,2020,30,"Non-violent military act","15 September 2020","17 October 2020","Threat to influence","No violence","No violence","Crisis faded","Taiwan Strait","No mediation"
-502,"SECOND NAGORNO-KARABAKH WAR",2020,2020,43,"Violent act","27 September 2020","9 November 2020","Threat of grave damage","Full-scale war","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-503,"INDIA-PAKISTAN BORDER FIRING II",2020,2021,12,"Violent act","13 November 2020","25 February 2021","Limited military damage","Minor clashes","Minor clashes","Formal agreement","India/Pakistan","No mediation"
-504,"FAKHRIZADEH ASSASSINATION",2020,2020,52,"Violent act","27 November 2020","3 December 2020","Threat to influence","No violence","Minor clashes","Crisis faded","Iran/Israel","No mediation"
-505,"AL-FASHAGA TERRITORY CLASHES",2020,2022,40,"Violent act","15 December 2020","1 December 2022","Territorial threat","Minor clashes","Full-scale war","Formal agreement","Non-protracted conflict","Mediation occurred"
-506,"US VISIT TO WESTERN SAHARA",2021,2021,5,"Political act","9 January 2021","18 January 2021","Threat to influence","No violence","No violence","Crisis faded","Western Sahara","No mediation"
-507,"US-TAIWAN DIPLOMATIC VISITS II",2021,2021,30,"Political act","9 January 2021","15 November 2021","Threat to influence","No violence","No violence","Formal agreement","Taiwan Strait","No mediation"
-508,"ISRAEL-IRAN CLASHES IN SYRIA III",2021,2021,52,"Violent act","13 January 2021","22 January 2021","Limited military damage","No violence","Full-scale war","Crisis faded","Iran/Israel","No mediation"
-509,"CHINA COAST GUARD LAW",2021,2021,10,"Other non-violent act","22 January 2021","17 May 2021","Limited military damage","No violence","No violence","Tacit understanding","China/Japan","No mediation"
-510,"RUSSIAN INVASION OF UKRAINE",,,,"",".  .",".  .","","","","","",""
-511,"KOK-TASH WATER FACILITY",2021,2021,42,"Violent act","28 April 2021","1 May 2021","Limited military damage","Minor clashes","Serious clashes","Formal agreement","Non-protracted conflict","No mediation"
-512,"KOSOVO LICENSE PLATE DISPUTE",2021,2021,33,"Non-violent military act","20 September 2021","30 September 2021","Limited military damage","No violence","Minor clashes","Formal agreement","Yugoslavia","Mediation occurred"
+1,RUSSIAN CIVIL WAR I,1918,1920,27,Violent act,. May 1918,1-Apr-20,Political threat,Serious clashes,Serious clashes,Unilateral act,East/West,Mediation offered
+2,COSTA RICAN COUP,1918,1919,6,Non-violent military act,25-May-18,3-Sep-19,Political threat,No violence,No violence,Unilateral act,Costa Rica/Nicaragua,No mediation
+3,RUSSIAN CIVIL WAR II,1918,1919,27,Non-violent military act,23-Jun-18,27-Sep-19,Political threat,Serious clashes,Serious clashes,Unilateral act,East/West,Mediation offered
+4,BALTIC INDEPENDENCE,1918,1920,43,Internal verbal or physical challenge ,18-Nov-18,11-Aug-20,Threat to existence,Serious clashes,Serious clashes,Imposed agreement,Non-protracted conflict,No mediation
+5,TESCHEN,1919,1920,43,Political act,15-Jan-19,28-Jul-20,Territorial threat,Serious clashes,Serious clashes,Imposed agreement,Non-protracted conflict,No mediation
+6,HUNGARIAN WAR,1919,1919,43,Political act,20-Mar-19,3-Aug-19,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,No mediation
+7,SMYRNA,1919,1919,44,Non-violent military act,1-Mar-19,29-Jul-19,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Non-protracted conflict,No mediation
+8,THIRD AFGHAN WAR,1919,1919,42,Political act,15-Apr-19,8-Aug-19,Threat to influence,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,No mediation
+9,FINNISH/RUSSIAN BDR.,1919,1920,17,Violent act,20-Apr-19,14-Oct-20,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Finland/Russia,No mediation
+10,BESSARABIA,1919,1920,43,Political act,30-Apr-19,2-Mar-20,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+11,CILICIAN WAR,1919,1921,44,Non-violent military act,. November 1919,20-Oct-21,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,No mediation
+12,RHENISH REBELLIONS,1920,1920,18,Indirect violent act,3-Apr-20,17-May-20,Political threat,No violence,Minor clashes,Unilateral act,France/Germany,Mediation requested
+13,POLISH/RUSSIAN WAR,1920,1920,21,Violent act,25-Apr-20,12-Oct-20,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Poland/Russia,Mediation offered
+14,PERSIAN BORDER,1920,1921,29,Non-violent military act,1-May-20,26-Feb-21,Territorial threat,Serious clashes,Minor clashes,Formal agreement,Iran/USSR,No mediation
+15,AALAND ISLANDS,1920,1921,43,Non-violent military act,5-Jun-20,20-Oct-21,Limited military damage,No violence,No violence,Formal agreement,Non-protracted conflict,Mediation occurred
+16,GREECE/TURKEY WAR I,1920,1920,28,Violent act,22-Jun-20,9-Jul-20,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Greece/Turkey,No mediation
+17,VILNA I,1920,1920,20,Political act,12-Jul-20,29-Nov-20,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Lithuania/Poland,Mediation occurred
+18,GREECE/TURKEY WAR II,1921,1921,28,Violent act,6-Jan-21,12-Sep-21,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Greece/Turkey,No mediation
+19,COSTA RICA/PANAMA BDR,1921,1921,41,Non-violent military act,21-Feb-21,24-Aug-21,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+20,GERMAN REPARATIONS,1921,1921,18,Political act,3-Mar-21,11-May-21,Political threat,No violence,No violence,Unilateral act,France/Germany,No mediation
+21,KARL'S RETURN HUNGARY,1921,1921,43,Other non-violent act,27-Mar-21,15-Nov-21,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+22,AUSTRIAN SEPARATISTS,1921,1921,43,Political act,11-May-21,21-Jun-21,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+23,ALBANIAN FRONTIER,1921,1921,19,Non-violent military act,7-Jul-21,18-Nov-21,Territorial threat,Full-scale war,Full-scale war,Imposed agreement,Italy/Albania/Yugoslavia,No mediation
+24,BURGENLAND DISPUTE,1921,1921,43,Non-violent military act,28-Aug-21,28-Dec-21,Territorial threat,Minor clashes,Minor clashes,Imposed agreement,Non-protracted conflict,Mediation occurred
+25,GREECE/TURKEY WAR III,1922,1922,28,Violent act,26-Aug-22,15-Sep-22,Territorial threat,Full-scale war,Full-scale war,Unilateral act,Greece/Turkey,No mediation
+26,CHANAK,1922,1922,44,Political act,23-Sep-22,11-Oct-22,Territorial threat,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+27,RUHR I,1923,1923,18,Political act,22-Jan-23,27-Sep-23,Political threat,No violence,No violence,Unilateral act,France/Germany,No mediation
+28,CORFU INCIDENT,1923,1923,43,Violent act,31-Aug-23,29-Sep-23,Territorial threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+29,HIJAZ/NAJD WAR,1924,1925,44,Political act,7-Mar-24,19-Dec-25,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,Non-protracted conflict,No mediation
+30,RUHR II,1924,1924,18,Political act,29-Apr-24,30-Aug-24,Economic threat,No violence,No violence,Formal agreement,France/Germany,Mediation occurred
+31,MOSUL LAND DISPUTE,1924,1924,44,Political act,29-Sep-24,15-Nov-24,Territorial threat,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+32,BULGARIA/GREEK FRONT,1925,1925,43,Violent act,19-Oct-25,15-Dec-25,Territorial threat,Serious clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+33,NICARAGUA CIVIL WAR I,1926,1927,41,Non-violent military act,17-Aug-26,15-May-27,Political threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,Mediation occurred
+34,HEGEMONY OVER ALBANIA,1926,1927,19,Political act,28-Nov-26,22-Nov-27,Threat to influence,No violence,No violence,Imposed agreement,Italy/Albania/Yugoslavia,No mediation
+35,SHANTUNG,1927,1929,10,Non-violent military act,28-May-27,28-Mar-29,Threat to influence,Minor clashes,Minor clashes,Formal agreement,China/Japan,No mediation
+36,VILNA II,1927,1927,20,Other non-violent act,15-Oct-27,10-Dec-27,Threat to existence,No violence,No violence,Unilateral act,Lithuania/Poland,Mediation occurred
+37,CHACO I,1928,1929,41,Violent act,5-Dec-28,12-Sep-29,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+38,CHINESEE RAILWAY,1929,1929,42,Non-violent military act,10-Jul-29,22-Dec-29,Political threat,Serious clashes,Serious clashes,Imposed agreement,Non-protracted conflict,No mediation
+39,MUKDEN INCIDENT,1931,1932,10,Violent act,18-Sep-31,18-Feb-32,Territorial threat,Serious clashes,Serious clashes,Unilateral act,China/Japan,Mediation offered
+40,SHANGHAI,1932,1932,10,Political act,24-Jan-32,5-May-32,Territorial threat,Serious clashes,Serious clashes,Formal agreement,China/Japan,Mediation occurred
+41,CHACO II,1932,1935,41,Violent act,18-Jun-32,12-Jun-35,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+42,LETICIA,1932,1933,41,Violent act,8-Sep-32,25-May-33,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+43,JEHOL CAMPAIGN,1933,1933,10,Violent act,23-Feb-33,31-May-33,Territorial threat,Full-scale war,Full-scale war,Imposed agreement,China/Japan,Mediation offered
+44,SAUDI/YEMEN WAR,1933,1934,44,Violent act,18-Dec-33,20-May-34,Territorial threat,Full-scale war,Full-scale war,Imposed agreement,Non-protracted conflict,No mediation
+45,AUSTRIA PUTSCH,1934,1934,43,Internal verbal or physical challenge ,25-Jul-34,31-Jul-34,Political threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+46,ASSN. KING ALEXANDER,1934,1934,43,Internal verbal or physical challenge ,8-Oct-34,10-Dec-34,Political threat,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+47,ETHIOPIAN WAR,1934,1936,40,Political act,6-Dec-34,5-May-36,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation occurred
+48,BULGARIA/TURKEY,1935,1935,43,Non-violent military act,6-Mar-35,31-Aug-35,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,No mediation
+49,KAUNAS TRIALS,1935,1935,43,Economic act,28-Mar-35,25-Sep-35,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+50,ECUADOR/PERU BDR. I,1935,1935,7,Violent act,1-Nov-35,30-Nov-35,Territorial threat,No violence,Minor clashes,Semi-formal agreement,Ecuador/Peru,No mediation
+51,REMILIT. RHINELAND,1936,1936,18,Non-violent military act,7-Mar-36,16-Apr-36,Threat of grave damage,No violence,No violence,Other outcome,France/Germany,No mediation
+52,SPANISH CIVIL WAR I,1936,1937,43,Internal verbal or physical challenge ,17-Jul-36,18-Mar-37,Political threat,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation offered
+53,ALEXANDRETTA,1936,1939,44,Political act,9-Sep-36,23-Jun-39,Territorial threat,No violence,Minor clashes,Imposed agreement,Non-protracted conflict,Mediation occurred
+54,SPANISH CIVIL WAR II,1937,1937,43,Violent act,24-May-37,31-May-37,Limited military damage,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+55,AMUR RIVER INCIDENT,1937,1937,42,External change,22-Jun-37,4-Jul-37,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+56,MARCO POLO BRIDGE,1937,1938,10,Violent act,8-Jul-37,16-Jan-38,Political threat,Full-scale war,Full-scale war,Unilateral act,China/Japan,Mediation occurred
+57,POSTAGESTAMP CRISIS,1937,1937,8,Political act,15-Aug-37,10-Dec-37,Territorial threat,No violence,No violence,Formal agreement,Honduras/Nicaragua,Mediation occurred
+58,DOM. REP./HAITI I,1937,1938,41,Violent act,5-Oct-37,31-Jan-38,Political threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+59,PANAY INCIDENT,1937,1937,42,Violent act,12-Dec-37,26-Dec-37,Limited military damage,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+60,ANSCHLUSS,1938,1938,43,Political act,12-Feb-38,14-Mar-38,Threat to existence,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+61,POLISH ULTIMATUM,1938,1938,20,Political act,13-Mar-38,19-Mar-38,Territorial threat,No violence,No violence,Unilateral act,Lithuania/Poland,Mediation offered
+62,CZECH. MAY CRISIS,1938,1938,16,Non-violent military act,19-May-38,23-May-38,Threat of grave damage,No violence,No violence,Unilateral act,Czechoslovakia/Germany,No mediation
+63,CHANGKUFENG,1938,1938,42,External change,13-Jul-38,11-Aug-38,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+64,MUNICH,1938,1938,16,Internal verbal or physical challenge ,7-Sep-38,1-Oct-38,Threat of grave damage,No violence,No violence,Imposed agreement,Czechoslovakia/Germany,No mediation
+65,SPANISH CIVIL WAR III,1938,1938,43,Violent act,30-Oct-38,18-Nov-38,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,No mediation
+66,ITALY THREAT/FRANCE,1938,1939,40,Political act,30-Nov-38,31-Mar-39,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+67,SPANISH CIVIL WAR IV,1938,1939,43,Violent act,23-Dec-38,31-Mar-39,Political threat,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation offered
+68,CZECH. ANNEXATION,1939,1939,16,Political act,14-Mar-39,15-Mar-39,Threat to existence,No violence,No violence,Unilateral act,Czechoslovakia/Germany,No mediation
+69,MEMEL,1939,1939,43,External change,15-Mar-39,22-Mar-39,Territorial threat,No violence,No violence,Imposed agreement,Non-protracted conflict,No mediation
+70,DANZIG,1939,1939,43,Political act,21-Mar-39,6-Apr-39,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+71,INVASION OF ALBANIA,1939,1939,19,Political act,25-Mar-39,13-Apr-39,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Italy/Albania/Yugoslavia,No mediation
+72,NOMONHAN,1939,1939,42,Indirect violent act,28-May-39,15-Sep-39,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,No mediation
+73,TIENTSIN,1939,1939,42,Economic act,14-Jun-39,29-Aug-39,Threat to influence,No violence,No violence,Semi-formal agreement,Non-protracted conflict,No mediation
+74,ENTRY WWII,1939,1939,31,Political act,20-Aug-39,28-Sep-39,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+75,SOVIET OCCUP.-BALTIC,1939,1939,43,Political act,26-Sep-39,10-Oct-39,Threat to existence,No violence,No violence,Imposed agreement,Non-protracted conflict,No mediation
+76,FINNISH WAR,1939,1940,17,Political act,6-Oct-39,13-Mar-40,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Finland/Russia,Mediation offered
+77,INVAS.-SCANDINAVIA,1940,1940,31,Non-violent military act,8-Apr-40,10-Jun-40,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,World War II,No mediation
+78,FALL OF WEST EUROPE,1940,1940,31,Violent act,10-May-40,22-Jun-40,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,World War II,No mediation
+79,CLOSURE-BURMA ROAD,1940,1940,31,Political act,24-Jun-40,14-Jul-40,Threat of grave damage,No violence,No violence,Formal agreement,World War II,No mediation
+80,ROMANIAN TERRITORY,1940,1940,43,Political act,26-Jun-40,7-Sep-40,Territorial threat,Minor clashes,Minor clashes,Imposed agreement,Non-protracted conflict,No mediation
+81,BATTLE OF BRITAIN,1940,1940,31,Violent act,10-Jul-40,15-Sep-40,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+82,E. AFRICA CAMPAIGN,1940,1941,31,Violent act,19-Aug-40,17-May-41,Threat to influence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+83,BALKAN INVASIONS,1940,1941,31,Violent act,28-Oct-40,1-Jun-41,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+84,MID-EAST CAMPAIGN,1941,1941,31,Non-violent military act,29-Apr-41,14-Jul-41,Threat to influence,Serious clashes,Serious clashes,Imposed agreement,World War II,No mediation
+85,BARBAROSSA,1941,1941,31,Violent act,22-Jun-41,5-Dec-41,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+86,ECUADOR/PERU BDR II,1941,1942,7,Violent act,5-Jul-41,29-Jan-42,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Ecuador/Peru,Mediation occurred
+87,OCCUPATION OF IRAN,1941,1942,29,Violent act,25-Aug-41,29-Jan-42,Threat to existence,Serious clashes,Serious clashes,Imposed agreement,Iran/USSR,No mediation
+88,PEARL HARBOR,1941,1942,31,Political act,26-Nov-41,7-Jun-42,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+89,STALINGRAD,1942,1943,31,Violent act,28-Jun-42,2-Feb-43,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+90,EL ALAMEIN,1942,1943,31,Violent act,23-Oct-42,13-May-43,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+91,FALL OF ITALY,1943,1943,31,Violent act,9-Jul-43,11-Sep-43,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+92,GERMAN OCCUP.-HUNGARY,1944,1944,31,Non-violent military act,13-Mar-44,19-Mar-44,Threat to existence,No violence,No violence,Unilateral act,World War II,No mediation
+93,SOVIET OCCUP.-E. EUR,1944,1945,31,Non-violent military act,26-Mar-44,13-Feb-45,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+94,D-DAY,1944,1945,31,Violent act,6-Jun-44,7-May-45,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+95,FALL OF SAIPAN,1944,1944,31,External change,9-Jul-44,18-Jul-44,Threat of grave damage,No violence,No violence,Unilateral act,World War II,No mediation
+96,IRAN-OIL CONCESSIONS,1944,1944,29,Economic act,26-Sep-44,9-Dec-44,Economic threat,No violence,No violence,Unilateral act,Iran/USSR,No mediation
+97,LEYTE CAMPAIGN,1944,1944,31,Violent act,20-Oct-44,26-Dec-44,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+98,GREEK CIVIL WAR I,1944,1945,43,Indirect violent act,3-Dec-44,15-Jan-45,Threat to influence,Serious clashes,Serious clashes,Other outcome,Non-protracted conflict,No mediation
+99,LUZON,1945,1945,31,Violent act,9-Jan-45,3-Mar-45,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+100,FINAL SOVIET OFFENS.,1945,1945,31,Violent act,11-Jan-45,7-May-45,Threat to existence,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+101,IWO JIMA,1945,1945,31,Violent act,19-Feb-45,16-Mar-45,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+102,COMMUNISM IN ROMANIA,1945,1945,43,Indirect violent act,24-Feb-45,6-Mar-45,Political threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+103,OKINAWA,1945,1945,31,Violent act,1-Apr-45,21-Jun-45,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,World War II,No mediation
+104,TRIESTE I,1945,1945,19,Non-violent military act,1-May-45,11-Jun-45,Territorial threat,No violence,No violence,Unilateral act,Italy/Albania/Yugoslavia,No mediation
+105,FRENCH FORCES/SYRIA,1945,1945,31,Non-violent military act,17-May-45,3-Jun-45,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,World War II,No mediation
+106,KARS-ARDAHAN,1945,1946,27,Political act,7-Jun-45,5-Apr-46,Territorial threat,No violence,No violence,Unilateral act,East/West,No mediation
+107,HIROSHIMA-NAGASAKI,1945,1945,31,Violent act,6-Aug-45,2-Sep-45,Threat to existence,No violence,Full-scale war,Unilateral act,World War II,No mediation
+108,AZERBAIJAN,1945,1946,29,Internal verbal or physical challenge ,23-Aug-45,9-May-46,Territorial threat,No violence,No violence,Formal agreement,Iran/USSR,No mediation
+109,INDONESIA INDEP. I,1945,1947,14,Political act,29-Sep-45,25-Mar-47,Threat to existence,Serious clashes,Full-scale war,Formal agreement,Indonesia,Mediation occurred
+110,COMMUNISM IN POLAND,1946,1947,21,External change,30-Jun-46,19-Jan-47,Threat to influence,No violence,No violence,Other outcome,Poland/Russia,No mediation
+111,TURKISH STRAITS,1946,1946,27,Political act,7-Aug-46,26-Oct-46,Territorial threat,No violence,No violence,Unilateral act,East/West,No mediation
+112,GREEK CIVIL WAR II,1946,1947,27,Internal verbal or physical challenge ,13-Nov-46,28-Feb-47,Political threat,Full-scale war,Full-scale war,Crisis faded,East/West,No mediation
+113,COMMUNISM IN HUNGARY,1947,1947,27,External change,10-Feb-47,1-Jun-47,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+114,TRUMAN DOCTRINE,1947,1947,27,Economic act,21-Feb-47,22-May-47,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+115,MARSHALL PLAN,1947,1947,27,Political act,3-Jul-47,11-Jul-47,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+116,INDONESIA INDEP. II,1947,1948,14,Violent act,21-Jul-47,17-Jan-48,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Indonesia,Mediation occurred
+117,CUBA/DOMINICAN REP.,1947,1947,41,Non-violent military act,26-Jul-47,28-Sep-47,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+118,JUNAGADH,1947,1948,12,Political act,17-Aug-47,24-Feb-48,Territorial threat,No violence,Minor clashes,Unilateral act,India/Pakistan,No mediation
+119,KASHMIR I,1947,1949,12,Indirect violent act,24-Oct-47,1-Jan-49,Territorial threat,Full-scale war,Full-scale war,Formal agreement,India/Pakistan,Mediation occurred
+120,PAL. PRT./ISRAEL IND.,1947,1949,23,External change,29-Nov-47,20-Jul-49,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Arab/Israel,Mediation occurred
+121,COMMUNISM IN CZECH.,1948,1948,27,Political act,13-Feb-48,25-Feb-48,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+122,SOV. NOTE/FINLAND I,1948,1948,17,Political act,22-Feb-48,6-Apr-48,Political threat,No violence,No violence,Imposed agreement,Finland/Russia,No mediation
+123,BERLIN BLOCKADE,1948,1949,27,Economic act,7-Jun-48,12-May-49,Threat of grave damage,No violence,Minor clashes,Formal agreement,East/West,Mediation occurred
+124,HYDERABAD,1948,1948,12,Political act,21-Aug-48,18-Sep-48,Territorial threat,Minor clashes,Minor clashes,Unilateral act,India/Pakistan,No mediation
+125,CHINA CIVIL WAR,1948,1949,30,Indirect violent act,23-Sep-48,8-Dec-49,Political threat,Full-scale war,Full-scale war,Unilateral act,Taiwan Strait,No mediation
+126,COSTA RICA/NIC. I,1948,1949,6,Violent act,11-Dec-48,21-Feb-49,Political threat,Minor clashes,Minor clashes,Formal agreement,Costa Rica/Nicaragua,Mediation occurred
+127,INDONESIA INDEP. III,1948,1949,14,Violent act,19-Dec-48,27-Dec-49,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Indonesia,Mediation occurred
+128,SINAI INCURSION,1948,1949,23,Violent act,25-Dec-48,10-Jan-49,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Arab/Israel,No mediation
+129,PUSHTUNISTAN I,1949,1950,9,Non-violent military act,15-Mar-49,5-Oct-50,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Afghanistan/Pakistan,Mediation offered
+130,LUPERON,1949,1949,41,Violent act,19-Jun-49,21-Jun-49,Political threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+131,SOV. BLOC-YUGOSLAVIA,1949,1951,43,Political act,19-Aug-49,. November 1951,Political threat,No violence,No violence,Crisis faded,Non-protracted conflict,No mediation
+132,KOREAN WAR I,1950,1950,15,Violent act,25-Jun-50,30-Sep-50,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Korea,No mediation
+133,KOREAN WAR II,1950,1951,15,Violent act,30-Sep-50,10-Jul-51,Threat to existence,Full-scale war,Full-scale war,Semi-formal agreement,Korea,No mediation
+134,HULA DRAINAGE,1951,1951,23,Other non-violent act,12-Feb-51,15-May-51,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Arab/Israel,Mediation occurred
+135,PUNJAB WAR SCARE I,1951,1951,12,Non-violent military act,7-Jul-51,. August 1951,Territorial threat,No violence,No violence,Tacit understanding,India/Pakistan,Mediation occurred
+136,SUEZ CANAL,1951,1952,40,Political act,30-Jul-51,30-Jan-52,Territorial threat,Serious clashes,Serious clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+137,CATALINA AFFAIR,1952,1952,43,Violent act,16-Jun-52,. July 1952,Other threat,No violence,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+138,BURMA INFILTRATION,1953,1954,42,Non-violent military act,8-Feb-53,15-Oct-54,Political threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,Mediation occurred
+139,INVASION OF LAOS I,1953,1953,13,Non-violent military act,24-Mar-53,.  1953,Political threat,Serious clashes,Serious clashes,Crisis faded,Indochina,No mediation
+140,KOREAN WAR III,1953,1953,15,Violent act,16-Apr-53,27-Jul-53,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Korea,No mediation
+141,E. GERMAN UPRISING,1953,1953,43,Indirect violent act,17-Jun-53,11-Jul-53,Threat to influence,Minor clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+142,TRIESTE II,1953,1953,19,Political act,8-Oct-53,5-Dec-53,Territorial threat,No violence,No violence,Formal agreement,Italy/Albania/Yugoslavia,Mediation occurred
+143,QIBYA,1953,1953,23,Violent act,14-Oct-53,28-Oct-53,Political threat,No violence,Serious clashes,Unilateral act,Arab/Israel,No mediation
+144,GUATEMALA,1953,1954,27,Political act,12-Dec-53,29-Jun-54,Political threat,No violence,Minor clashes,Unilateral act,East/West,No mediation
+145,DIEN BIEN PHU,1954,1954,13,Violent act,13-Mar-54,21-Jul-54,Threat to influence,Serious clashes,Full-scale war,Imposed agreement,Indochina,Mediation occurred
+146,TAIWAN STRAIT I,1954,1955,30,Political act,1-Aug-54,23-Apr-55,Threat to existence,Serious clashes,Serious clashes,Semi-formal agreement,Taiwan Strait,No mediation
+147,COSTA RICA/NIC. II,1955,1955,6,Non-violent military act,8-Jan-55,20-Jan-55,Political threat,Serious clashes,Minor clashes,Semi-formal agreement,Costa Rica/Nicaragua,Mediation occurred
+148,BAGHDAD PACT,1955,1955,44,Political act,24-Feb-55,15-Oct-55,Threat to influence,No violence,No violence,Other outcome,Non-protracted conflict,No mediation
+149,GAZA RAID-CZECH. ARMS,1955,1956,23,Violent act,28-Feb-55,23-Jun-56,Political threat,No violence,Serious clashes,Other outcome,Arab/Israel,Mediation occurred
+150,PUSHTUNISTAN II,1955,1955,9,Political act,27-Mar-55,. November 1955,Territorial threat,No violence,Minor clashes,Semi-formal agreement,Afghanistan/Pakistan,Mediation occurred
+151,GOA I,1955,1955,42,Political act,10-Aug-55,6-Sep-55,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+152,SUEZ NATN.-WAR,1956,1957,23,Economic act,26-Jul-56,12-Mar-57,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Arab/Israel,No mediation
+153,QALQILYA,1956,1956,23,Violent act,13-Sep-56,28-Oct-56,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Arab/Israel,No mediation
+154,POLAND LIBERALIZATION,1956,1956,21,External change,15-Oct-56,22-Oct-56,Political threat,No violence,No violence,Tacit understanding,Poland/Russia,No mediation
+155,HUNGARIAN UPRISING,1956,1957,43,External change,23-Oct-56,. January 1957,Political threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+156,MOCORON INCIDENT,1957,1957,8,Political act,26-Feb-57,9-May-57,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Honduras/Nicaragua,Mediation occurred
+157,JORDAN REGIME,1957,1957,44,Internal verbal or physical challenge ,4-Apr-57,3-May-57,Political threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+158,FRANCE/TUNISIA,1957,1958,40,Violent act,31-May-57,17-Jun-58,Political threat,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation offered
+159,SYRIA/TURKEY CONFRNT.,1957,1957,27,Political act,18-Aug-57,29-Oct-57,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+160,IFNI,1957,1958,40,Violent act,23-Nov-57,. April 1958,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Non-protracted conflict,Mediation occurred
+161,WEST IRIAN I,1957,,14,Economic act,1-Dec-57,.  .,Economic threat,No violence,No violence,Crisis faded,Indonesia,No mediation
+162,FORMATION OF UAR,1958,1958,44,Political act,1-Feb-58,14-Feb-58,Threat to existence,No violence,No violence,Other outcome,Non-protracted conflict,No mediation
+163,EGYPT/SUDAN BORDER I,1958,1958,40,Non-violent military act,9-Feb-58,25-Feb-58,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+164,ABORT. COUP INDONESIA,1958,1958,14,Non-violent military act,21-Feb-58,20-May-58,Political threat,Serious clashes,Serious clashes,Unilateral act,Indonesia,Mediation offered
+165,IRAQ/LEB. UPHEAVAL,1958,1958,44,Internal verbal or physical challenge ,8-May-58,28-Oct-58,Political threat,Serious clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+166,TAIWAN STRAIT II,1958,1958,30,Non-violent military act,17-Jul-58,23-Oct-58,Threat of grave damage,Serious clashes,Serious clashes,Tacit understanding,Taiwan Strait,No mediation
+167,CAMBODIA/THAILAND,1958,1959,13,Political act,24-Jul-58,6-Feb-59,Political threat,Minor clashes,Minor clashes,Semi-formal agreement,Indochina,Mediation occurred
+168,BERLIN DEADLINE,1958,1959,27,Political act,27-Nov-58,15-Sep-59,Threat to influence,No violence,No violence,Formal agreement,East/West,No mediation
+169,MEX./GUAT. FISHING,1958,1959,41,Economic act,29-Dec-58,1-Feb-59,Economic threat,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+170,CEN. AMERICA/CUBA I,1959,1959,41,Violent act,25-Apr-59,28-Dec-59,Political threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+171,CHINA/INDIA BRD. I,1959,1960,42,Non-violent military act,25-Aug-59,19-Apr-60,Territorial threat,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+172,SHATT-AL-ARAB I,1959,1960,24,Political act,28-Nov-59,4-Jan-60,Territorial threat,No violence,Minor clashes,Tacit understanding,Iran/Iraq,No mediation
+173,ROTTEM,1960,1960,23,Non-violent military act,15-Feb-60,8-Mar-60,Threat to influence,No violence,No violence,Tacit understanding,Arab/Israel,No mediation
+174,GHANA/TOGO BORDER I,1960,1960,40,Political act,1-Mar-60,1-Apr-60,Territorial threat,No violence,No violence,Tacit understanding,Non-protracted conflict,No mediation
+175,FAILED ASS. VENEZUELA,1960,1960,41,Internal verbal or physical challenge ,24-Jun-60,15-Sep-60,Political threat,No violence,No violence,Other outcome,Non-protracted conflict,No mediation
+176,CONGO I-KATANGA,1960,1962,40,Violent act,5-Jul-60,15-Feb-62,Political threat,Serious clashes,Serious clashes,Other outcome,Non-protracted conflict,No mediation
+177,MALI FEDERATION,1960,1960,40,Internal verbal or physical challenge ,20-Aug-60,22-Sep-60,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+178,CEN. AMERICA/CUBA II,1960,1960,41,Violent act,9-Nov-60,7-Dec-60,Political threat,Minor clashes,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+179,ETHIOPIA/SOMALIA,1960,1961,3,Violent act,26-Dec-60,.  1961,Threat of grave damage,Serious clashes,Serious clashes,Crisis faded,Ethiopia/Somalia,No mediation
+180,PATHET LAO OFFENSIVE,1961,1961,13,Indirect violent act,9-Mar-61,16-May-61,Political threat,No violence,No violence,Other outcome,Indochina,Mediation occurred
+181,BAY OF PIGS,1961,1961,27,Violent act,15-Apr-61,24-Apr-61,Political threat,Serious clashes,Minor clashes,Unilateral act,East/West,No mediation
+182,PUSHTUNISTAN III,1961,1962,9,Violent act,19-May-61,29-Jan-62,Territorial threat,Serious clashes,Minor clashes,Semi-formal agreement,Afghanistan/Pakistan,Mediation occurred
+183,KUWAIT INDEPENDENCE,1961,1961,25,Political act,19-Jun-61,13-Jul-61,Threat to existence,No violence,No violence,Unilateral act,Iraq/Kuwait,No mediation
+184,BIZERTA,1961,1961,40,Political act,17-Jul-61,29-Sep-61,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+185,BERLIN WALL,1961,1961,27,Internal verbal or physical challenge ,1-Aug-61,28-Oct-61,Political threat,No violence,No violence,Tacit understanding,East/West,No mediation
+186,VIET CONG ATTACK,1961,1961,13,Internal verbal or physical challenge ,18-Sep-61,15-Nov-61,Political threat,Minor clashes,Minor clashes,Unilateral act,Indochina,No mediation
+187,WEST IRIAN II,1961,1962,14,Political act,26-Sep-61,15-Aug-62,Territorial threat,No violence,Minor clashes,Formal agreement,Indonesia,Mediation occurred
+188,BREAKUP OF UAR,1961,1961,44,Internal verbal or physical challenge ,28-Sep-61,5-Oct-61,Threat to influence,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+189,SOV. NOTE/FINLAND II,1961,1961,17,Political act,30-Oct-61,24-Nov-61,Political threat,No violence,No violence,Semi-formal agreement,Finland/Russia,No mediation
+190,GOA II,1961,1961,42,Political act,11-Dec-61,19-Dec-61,Territorial threat,No violence,Minor clashes,Imposed agreement,Non-protracted conflict,
+191,MALI/MAURITANIA,1962,1963,40,Internal verbal or physical challenge ,29-Mar-62,18-Feb-63,Territorial threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,
+192,TAIWAN STRAIT III,1962,1962,30,Political act,22-Apr-62,27-Jun-62,Political threat,No violence,No violence,Unilateral act,Taiwan Strait,No mediation
+193,NAM THA,1962,1962,13,Indirect violent act,6-May-62,12-Jun-62,Political threat,No violence,No violence,Tacit understanding,Indochina,No mediation
+194,CHINA/INDIA BDR. II,1962,1963,42,Violent act,8-Sep-62,23-Jan-63,Territorial threat,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation occurred
+195,YEMEN WAR I,1962,1963,26,Indirect violent act,26-Sep-62,15-Apr-63,Political threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+196,CUBAN MISSILES,1962,1962,27,External change,16-Oct-62,20-Nov-62,Threat of grave damage,No violence,Minor clashes,Semi-formal agreement,East/West,Mediation occurred
+197,MALAYSIA FEDERATION,1963,1965,42,Political act,11-Feb-63,9-Aug-65,Threat to existence,No violence,No violence,Other outcome,Non-protracted conflict,Mediation occurred
+198,DOM. REP./HAITI II,1963,1963,41,Other non-violent act,26-Apr-63,3-Jun-63,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+199,ALGERIA/MOROCCO BDR.,1963,1963,40,Non-violent military act,1-Oct-63,4-Nov-63,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+200,CUBA/VENEZUELA,1963,1963,41,Internal verbal or physical challenge ,1-Nov-63,1-Dec-63,Political threat,No violence,No violence,Other outcome,Non-protracted conflict,No mediation
+201,KENYA/SOMALIA,1963,1964,40,Non-violent military act,20-Nov-63,4-Mar-64,Territorial threat,No violence,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+202,CYPRUS I,1963,1964,28,Political act,30-Nov-63,10-Aug-64,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Greece/Turkey,Mediation occurred
+203,JORDAN WATERS,1963,1964,23,Economic act,11-Dec-63,5-May-64,Economic threat,No violence,No violence,Unilateral act,Arab/Israel,No mediation
+204,DAHOMEY/NIGER,1963,1964,40,Non-violent military act,21-Dec-63,4-Jan-64,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+205,BURUNDI/RWANDA,1963,1964,40,Violent act,21-Dec-63,. April 1964,Political threat,Serious clashes,Serious clashes,Other outcome,Non-protracted conflict,No mediation
+206,PANAMA FLAG,1964,1964,41,Internal verbal or physical challenge ,9-Jan-64,12-Jan-64,Threat to influence,Minor clashes,Minor clashes,Imposed agreement,Non-protracted conflict,No mediation
+207,E. AFRICA REBELLIONS,1964,1964,40,Indirect violent act,19-Jan-64,30-Jan-64,Threat to influence,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+208,OGADEN I,1964,1964,3,Violent act,7-Feb-64,30-Mar-64,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Ethiopia/Somalia,Mediation offered
+209,YEMEN WAR II,1964,1964,26,Violent act,15-May-64,8-Nov-64,Political threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+210,GULF OF TONKIN,1964,1964,13,Violent act,30-Jul-64,15-Aug-64,Limited military damage,Serious clashes,Minor clashes,Unilateral act,Indochina,No mediation
+211,CONGO II,1964,1964,40,Internal verbal or physical challenge ,4-Aug-64,30-Dec-64,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+212,YEMEN WAR III,1964,1965,26,Violent act,3-Dec-64,25-Aug-65,Political threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+213,PLEIKU,1965,1965,13,Violent act,7-Feb-65,28-Mar-65,Threat of grave damage,Full-scale war,Serious clashes,Unilateral act,Indochina,No mediation
+214,RANN OF KUTCH,1965,1965,12,Violent act,8-Apr-65,30-Jun-65,Territorial threat,Serious clashes,Serious clashes,Formal agreement,India/Pakistan,Mediation occurred
+215,DOMINICAN INTERVENTN.,1965,1965,41,Indirect violent act,24-Apr-65,31-Aug-65,Threat to influence,Minor clashes,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+216,KASHMIR II,1965,1966,12,Violent act,5-Aug-65,10-Jan-66,Territorial threat,Full-scale war,Full-scale war,Semi-formal agreement,India/Pakistan,Mediation occurred
+217,GUINEA REGIME,1965,1965,40,Internal verbal or physical challenge ,9-Oct-65,15-Dec-65,Political threat,No violence,No violence,Tacit understanding,Non-protracted conflict,No mediation
+218,RHODESIA'S UDI,1965,1966,4,Political act,5-Nov-65,27-Apr-66,Threat to existence,No violence,No violence,Unilateral act,Rhodesia,No mediation
+219,YEMEN WAR IV,1966,1967,26,Violent act,14-Oct-66,26-Sep-67,Political threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+220,EL SAMU,1966,1966,23,Violent act,12-Nov-66,15-Nov-66,Threat of grave damage,Minor clashes,Serious clashes,Unilateral act,Arab/Israel,No mediation
+221,CHE GUEVARA-BOLIVIA,1967,1967,41,Internal verbal or physical challenge ,23-Mar-67,10-Oct-67,Political threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+222,SIX DAY WAR,1967,1967,23,Non-violent military act,17-May-67,11-Jun-67,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,Arab/Israel,No mediation
+223,CYPRUS II,1967,1967,28,Indirect violent act,15-Nov-67,4-Dec-67,Territorial threat,No violence,Minor clashes,Formal agreement,Greece/Turkey,Mediation occurred
+224,PUEBLO,1968,1968,15,Violent act,21-Jan-68,23-Dec-68,Threat to influence,No violence,Minor clashes,Imposed agreement,Korea,No mediation
+225,TET OFFENSIVE,1968,1968,13,Violent act,30-Jan-68,31-Mar-68,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Indochina,Mediation occurred
+226,KARAMEH,1968,1968,23,Violent act,18-Mar-68,22-Mar-68,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Arab/Israel,No mediation
+227,PRAGUE SPRING,1968,1968,43,Political act,9-Apr-68,18-Oct-68,Political threat,Minor clashes,Minor clashes,Imposed agreement,Non-protracted conflict,No mediation
+228,ESSEQUIBO I,1968,1968,41,Political act,9-Jul-68,. August 1968,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+229,BEIRUT AIRPORT,1968,1969,50,Violent act,28-Dec-68,. January 1969,Political threat,No violence,Minor clashes,Other outcome,Israel/Palestinian groups,No mediation
+230,VIETNAM SPRING OFF.,1969,1969,13,Violent act,22-Feb-69,8-Jun-69,Threat to existence,Serious clashes,Serious clashes,Unilateral act,Indochina,No mediation
+231,USSURI RIVER,1969,1969,42,Violent act,2-Mar-69,20-Oct-69,Territorial threat,Serious clashes,Serious clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+232,WAR OF ATTRITION,1969,1970,23,Violent act,8-Mar-69,7-Aug-70,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,Arab/Israel,Mediation occurred
+233,EC-121 SPY PLANE,1969,1969,27,Violent act,15-Apr-69,26-Apr-69,Threat to influence,No violence,Minor clashes,Unilateral act,East/West,No mediation
+234,SHATT-AL-ARAB II,1969,1969,24,Political act,15-Apr-69,30-Oct-69,Territorial threat,No violence,No violence,Semi-formal agreement,Iran/Iraq,Mediation offered
+235,FOOTBALL WAR,1969,1969,41,Indirect violent act,15-Jun-69,30-Jul-69,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+236,CAIRO AGREEMENT-PLO,1969,1969,44,Violent act,22-Oct-69,3-Nov-69,Political threat,Serious clashes,Serious clashes,Imposed agreement,Non-protracted conflict,Mediation occurred
+237,INVASION OF CAMBODIA,1970,1970,13,Political act,13-Mar-70,22-Jul-70,Political threat,Full-scale war,Full-scale war,Unilateral act,Indochina,Mediation offered
+238,BLACK SEPTEMBER,1970,1970,44,Political act,15-Sep-70,29-Sep-70,Political threat,Full-scale war,Full-scale war,Imposed agreement,Non-protracted conflict,Mediation occurred
+239,CIENFUEGOS SUB. BASE,1970,1970,27,External change,16-Sep-70,23-Oct-70,Threat of grave damage,No violence,No violence,Unilateral act,East/West,No mediation
+240,CONAKRY RAID,1970,1970,40,Violent act,22-Nov-70,11-Dec-70,Political threat,Serious clashes,Serious clashes,Other outcome,Non-protracted conflict,No mediation
+241,INVASION OF LAOS II,1971,1971,13,Violent act,8-Feb-71,25-Mar-71,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Indochina,No mediation
+242,BANGLADESH,1971,1971,12,Violent act,25-Mar-71,17-Dec-71,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,India/Pakistan,No mediation
+243,CHAD/LIBYA I,1971,1972,2,External change,24-May-71,17-Apr-72,Political threat,No violence,No violence,Unilateral act,Chad/Libya,Mediation occurred
+244,CAPRIVI STRIP,1971,1971,40,Violent act,5-Oct-71,12-Oct-71,Territorial threat,No violence,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+245,TANZANIA/UGANDA I,1971,1971,40,Violent act,20-Oct-71,25-Nov-71,Territorial threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+246,VIETNAM PORTS MINING,1972,1972,13,Violent act,30-Mar-72,19-Jul-72,Threat of grave damage,Full-scale war,Full-scale war,Semi-formal agreement,Indochina,No mediation
+247,TANZANIA/UGANDA II,1972,1972,40,Violent act,17-Sep-72,5-Oct-72,Political threat,Serious clashes,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+248,NORTH/SOUTH YEMEN I,1972,1972,26,Violent act,26-Sep-72,28-Nov-72,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+249,CHRISTMAS BOMBING,1972,1973,13,External change,23-Oct-72,27-Jan-73,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Indochina,No mediation
+250,ZAMBIA RAID,1973,1973,4,Non-violent military act,19-Jan-73,3-Feb-73,Territorial threat,No violence,Minor clashes,Unilateral act,Rhodesia,No mediation
+251,LIBYAN PLANE,1973,1973,23,External change,21-Feb-73,21-Feb-73,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Arab/Israel,No mediation
+252,IRAQ INVASION/KUWAIT,1973,1973,25,Violent act,20-Mar-73,8-Jun-73,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Iraq/Kuwait,Mediation occurred
+253,ISRAEL MOBILIZATION,1973,1973,23,Non-violent military act,10-Apr-73,28-Jun-73,Threat of grave damage,No violence,No violence,Unilateral act,Arab/Israel,No mediation
+254,COD WAR I,1973,1973,43,Violent act,14-May-73,13-Nov-73,Economic threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation offered
+255,OCTOBER-YOM KIPPUR WAR,1973,1974,23,Non-violent military act,5-Oct-73,31-May-74,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,Arab/Israel,Mediation occurred
+256,OMAN/SOUTH YEMEN,1973,1976,44,Violent act,18-Nov-73,11-Mar-76,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+257,CYPRUS III,1974,1975,28,Internal verbal or physical challenge ,15-Jul-74,24-Feb-75,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Greece/Turkey,Mediation occurred
+258,FINAL N. VIETNAM OFF.,1974,1975,13,Violent act,14-Dec-74,30-Apr-75,Political threat,Full-scale war,Full-scale war,Unilateral act,Indochina,No mediation
+259,MAYAGUEZ,1975,1975,13,Violent act,12-May-75,15-May-75,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Indochina,Mediation offered
+260,WAR IN ANGOLA,1975,1976,1,Indirect violent act,12-Jul-75,27-Mar-76,Political threat,Full-scale war,Full-scale war,Unilateral act,Angola,Mediation occurred
+261,MOROCCAN MARCH,1975,1976,5,Political act,16-Oct-75,14-Apr-76,Territorial threat,Serious clashes,Serious clashes,Other outcome,Western Sahara,Mediation occurred
+262,BELIZE I,1975,1975,41,Non-violent military act,1-Nov-75,30-Nov-75,Threat to influence,No violence,No violence,Semi-formal agreement,Non-protracted conflict,No mediation
+263,COD WAR II,1975,1976,43,Internal verbal or physical challenge ,23-Nov-75,1-Jun-76,Economic threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+264,EAST TIMOR I,1975,1976,14,Political act,28-Nov-75,17-Jul-76,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Indonesia,Mediation offered
+265,LEB. CIVIL WAR,1976,1976,44,Indirect violent act,18-Jan-76,15-Nov-76,Threat to influence,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,Mediation offered
+266,UGANDA CLAIMS,1976,1976,40,Political act,15-Feb-76,24-Feb-76,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,Mediation requested
+267,OPERATION THRASHER,1976,1976,4,Violent act,22-Feb-76,. April 1976,Political threat,Serious clashes,Serious clashes,Other outcome,Rhodesia,No mediation
+268,NOUAKCHOTT I,1976,1976,5,Violent act,8-Jun-76,8-Jun-76,Political threat,Serious clashes,Serious clashes,Unilateral act,Western Sahara,No mediation
+269,IRAQI THREAT,1976,1976,44,Non-violent military act,9-Jun-76,17-Jun-76,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+270,ENTEBBE RAID,1976,1976,50,Other non-violent act,27-Jun-76,4-Jul-76,Threat of grave damage,Minor clashes,Minor clashes,Unilateral act,Israel/Palestinian groups,No mediation
+271,SUDAN COUP ATTEMPT,1976,1976,40,Internal verbal or physical challenge ,2-Jul-76,15-Jul-76,Political threat,Minor clashes,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+272,AEGEAN SEA I,1976,1976,28,Non-violent military act,6-Aug-76,25-Sep-76,Territorial threat,No violence,No violence,Unilateral act,Greece/Turkey,Mediation occurred
+273,NAGOMIA RAID,1976,1976,4,Violent act,9-Aug-76,. November 1976,Limited military damage,Serious clashes,Serious clashes,Other outcome,Rhodesia,No mediation
+274,POPLAR TREE,1976,1976,15,Violent act,17-Aug-76,16-Sep-76,Threat to influence,No violence,Minor clashes,Formal agreement,Korea,No mediation
+275,SYRIA MOBILIZATION,1976,1976,23,Non-violent military act,21-Nov-76,13-Dec-76,Threat to influence,No violence,No violence,Tacit understanding,Arab/Israel,No mediation
+276,OPERATION TANGENT,1976,1977,4,Non-violent military act,20-Dec-76,31-Mar-77,Limited military damage,No violence,Minor clashes,Unilateral act,Rhodesia,No mediation
+277,SHABA I,1977,1977,1,Violent act,8-Mar-77,26-May-77,Political threat,Serious clashes,Serious clashes,Unilateral act,Angola,Mediation occurred
+278,MAPAI SEIZURE,1977,1977,4,Violent act,29-May-77,30-Jun-77,Limited military damage,Serious clashes,Serious clashes,Other outcome,Rhodesia,No mediation
+279,BELIZE II,1977,1977,41,Non-violent military act,25-Jun-77,28-Jul-77,Threat to influence,No violence,No violence,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+280,NOUAKCHOTT II,1977,1977,5,Violent act,3-Jul-77,28-Jul-77,Political threat,Serious clashes,Serious clashes,Unilateral act,Western Sahara,No mediation
+281,EGYPT/LIBYA CLASHES,1977,1977,40,Violent act,14-Jul-77,10-Sep-77,Limited military damage,Serious clashes,Serious clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+282,OGADEN II,1977,1978,3,Violent act,22-Jul-77,14-Mar-78,Territorial threat,Full-scale war,Full-scale war,Unilateral act,Ethiopia/Somalia,Mediation occurred
+283,RHODESIA RAID,1977,1978,4,Violent act,31-Aug-77,14-Aug-78,Limited military damage,Minor clashes,Serious clashes,Other outcome,Rhodesia,No mediation
+284,VIETNAM INV./CAMBODIA,1977,1979,13,Violent act,24-Sep-77,7-Jan-79,Threat to existence,Full-scale war,Full-scale war,Unilateral act,Indochina,No mediation
+285,FRENCH HOSTAGES MAUR.,1977,1977,5,Indirect violent act,25-Oct-77,23-Dec-77,Limited military damage,Minor clashes,No violence,Other outcome,Western Sahara,Mediation occurred
+286,CHIMOIO-TEMBUE RAIDS,1977,1978,4,Violent act,23-Nov-77,22-Mar-78,Limited military damage,No violence,Full-scale war,Unilateral act,Rhodesia,No mediation
+287,BEAGLE CHANNEL I,1977,1978,41,Non-violent military act,5-Dec-77,20-Feb-78,Territorial threat,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+288,CHAD/LIBYA II,1978,1978,2,External change,22-Jan-78,27-Mar-78,Political threat,Full-scale war,Full-scale war,Formal agreement,Chad/Libya,Mediation occurred
+289,LITANI OPERATION,1978,1978,50,Violent act,14-Mar-78,13-Jun-78,Territorial threat,No violence,Serious clashes,Unilateral act,Israel/Palestinian groups,No mediation
+290,CHAD/LIBYA III,1978,1978,2,Indirect violent act,15-Apr-78,29-Aug-78,Threat to influence,Full-scale war,Full-scale war,Semi-formal agreement,Chad/Libya,No mediation
+291,CASSINGA INCIDENT,1978,1978,1,Violent act,3-May-78,17-May-78,Threat to influence,Serious clashes,Serious clashes,Semi-formal agreement,Angola,No mediation
+292,SHABA II,1978,1978,1,Violent act,11-May-78,30-Jul-78,Political threat,Serious clashes,Serious clashes,Formal agreement,Angola,Mediation occurred
+293,AIR RHODESIA INCDNT.,1978,1978,4,Violent act,3-Sep-78,31-Oct-78,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Rhodesia,No mediation
+294,NICARAGUA CIV WAR II,1978,1979,41,Violent act,10-Sep-78,17-Jul-79,Political threat,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation occurred
+295,BEAGLE CHANNEL II,1978,1979,41,Non-violent military act,16-Oct-78,8-Jan-79,Territorial threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+296,FALL OF AMIN,1978,1979,40,Violent act,30-Oct-78,10-Apr-79,Political threat,Full-scale war,Full-scale war,Unilateral act,Non-protracted conflict,Mediation occurred
+297,ANGOLA INVASION SCARE,1978,1978,1,External change,7-Nov-78,14-Nov-78,Threat of grave damage,No violence,No violence,Unilateral act,Angola,No mediation
+298,SINO/VIETNAM WAR,1978,1979,11,Indirect violent act,25-Dec-78,15-Mar-79,Threat of grave damage,Serious clashes,Full-scale war,Unilateral act,China/Vietnam,No mediation
+299,TAN TAN,1979,1979,5,Violent act,28-Jan-79,. March 1979,Territorial threat,Serious clashes,Serious clashes,Other outcome,Western Sahara,No mediation
+300,RAIDS ON ZIPRA,1979,1979,4,Violent act,12-Feb-79,31-May-79,Limited military damage,Serious clashes,Serious clashes,Unilateral act,Rhodesia,No mediation
+301,NORTH/SOUTH YEMEN II,1979,1979,26,Violent act,24-Feb-79,30-Mar-79,Territorial threat,Full-scale war,Full-scale war,Formal agreement,Yemen,Mediation occurred
+302,RAIDS ON SWAPO,1979,1979,1,Violent act,6-Mar-79,28-Mar-79,Limited military damage,No violence,Minor clashes,Other outcome,Angola,No mediation
+303,AFGHANISTAN INVASION,1979,1980,27,Indirect violent act,15-Mar-79,28-Feb-80,Political threat,Serious clashes,Serious clashes,Unilateral act,East/West,No mediation
+304,CHAD/LIBYA IV,1979,1979,2,Political act,12-Apr-79,10-Nov-79,Political threat,Full-scale war,Full-scale war,Unilateral act,Chad/Libya,Mediation occurred
+305,GOULIMIME-TARFAYA RD,1979,1979,5,Violent act,1-Jun-79,25-Jun-79,Territorial threat,Serious clashes,Minor clashes,Unilateral act,Western Sahara,No mediation
+306,SOVIET THREAT/PAK.,1979,1979,42,Political act,1-Jun-79,3-Jul-79,Other threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,No mediation
+307,RHODESIA SETTLEMENT,1979,1980,4,Internal verbal or physical challenge ,15-Jul-79,4-Mar-80,Political threat,Serious clashes,Serious clashes,Formal agreement,Rhodesia,Mediation occurred
+308,RAID ON ANGOLA,1979,1979,1,Violent act,28-Oct-79,2-Nov-79,Limited military damage,No violence,Minor clashes,Other outcome,Angola,No mediation
+309,US HOSTAGES IN IRAN,1979,1981,44,Violent act,4-Nov-79,20-Jan-81,Threat to influence,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+310,COLOMBIA/NICARAGUA,1979,1981,41,Political act,12-Dec-79,8-Jul-81,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+311,RAID ON GAFSA,1980,1980,40,Internal verbal or physical challenge ,27-Jan-80,30-Apr-80,Threat to influence,Serious clashes,Serious clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+312,OPERATION IMAN,1980,1980,5,Violent act,1-Mar-80,15-May-80,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Western Sahara,No mediation
+313,OPERATION SMOKESHELL,1980,1980,1,Violent act,7-Jun-80,2-Jul-80,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Angola,No mediation
+314,LIBYA THREAT-SADAT,1980,1980,40,Political act,11-Jun-80,28-Jun-80,Political threat,No violence,No violence,Crisis faded,Non-protracted conflict,No mediation
+315,SOLIDARITY,1980,1981,21,Internal verbal or physical challenge ,14-Aug-80,13-Dec-81,Threat to influence,No violence,No violence,Unilateral act,Poland/Russia,No mediation
+316,LIBYA/MALTA OIL DISP.,1980,1980,43,Non-violent military act,20-Aug-80,15-Sep-80,Economic threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+317,ONSET IRAN/IRAQ WAR,1980,1980,24,Political act,17-Sep-80,30-Nov-80,Territorial threat,Full-scale war,Full-scale war,Unilateral act,Iran/Iraq,Mediation offered
+318,LIBYA INTERV./GAMBIA,1980,1980,40,Internal verbal or physical challenge ,27-Oct-80,7-Nov-80,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+319,JORDAN/SYRIA CONFRNT.,1980,1980,44,Non-violent military act,25-Nov-80,14-Dec-80,Political threat,No violence,No violence,Tacit understanding,Non-protracted conflict,Mediation occurred
+320,E. AFRICA CONFRONT.,1980,1981,3,Political act,5-Dec-80,29-Jun-81,Territorial threat,No violence,No violence,Formal agreement,Ethiopia/Somalia,Mediation offered
+321,CHAD/LIBYA V,1981,1981,2,Political act,6-Jan-81,16-Nov-81,Threat to influence,No violence,Minor clashes,Unilateral act,Chad/Libya,Mediation occurred
+322,ECUADOR/PERU BDR. III,1981,1981,7,Violent act,22-Jan-81,2-Apr-81,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Ecuador/Peru,Mediation occurred
+323,MOZAMBIQUE RAID,1981,1981,40,Violent act,30-Jan-81,28-Mar-81,Territorial threat,No violence,Minor clashes,Crisis faded,Non-protracted conflict,No mediation
+324,IRAQ NUCLEAR REACTOR,1981,1981,23,External change,. January 1981,19-Jun-81,Threat to existence,Minor clashes,Minor clashes,Unilateral act,Arab/Israel,No mediation
+325,ESSEQUIBO II,1981,1983,41,Political act,4-Apr-81,. March 1983,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+326,CONTRAS I,1981,1981,8,Violent act,28-Apr-81,13-May-81,Territorial threat,No violence,Minor clashes,Semi-formal agreement,Honduras/Nicaragua,No mediation
+327,AL-BIQA MISSILES I,1981,1981,23,Violent act,28-Apr-81,24-Jul-81,Threat to influence,No violence,Minor clashes,Formal agreement,Arab/Israel,Mediation occurred
+328,CAMEROON/NIGERIA I,1981,1981,40,Violent act,15-May-81,24-Jul-81,Territorial threat,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+329,COUP ATTEMPT IN THE GAMBIA,1981,1982,40,Indirect violent act,30-Jul-81,29-Jan-82,Threat to influence,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+330,GULF OF SYRTE I,1981,1981,40,Other non-violent act,12-Aug-81,1-Sep-81,Territorial threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+331,OPERATION PROTEA,1981,1981,1,Violent act,23-Aug-81,30-Sep-81,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Angola,
+332,GALTAT ZEMMOUR I,1981,1981,5,Violent act,13-Oct-81,9-Nov-81,Territorial threat,Serious clashes,Serious clashes,Unilateral act,Western Sahara,Mediation occurred
+333,U-137 INCIDENT,1981,1981,43,Political act,28-Oct-81,6-Nov-81,Threat of grave damage,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+334,COUP ATTEMPT IN BAHRAIN,1981,1982,44,Internal verbal or physical challenge ,13-Dec-81,8-Jan-82,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+335,KHORRAMSHAHR,1982,1982,24,Violent act,22-Mar-82,30-Jul-82,Threat of grave damage,Full-scale war,Full-scale war,Unilateral act,Iran/Iraq,Mediation occurred
+336,FALKLANDS/MALVINAS,1982,1982,41,External change,31-Mar-82,14-Jun-82,Territorial threat,Full-scale war,Full-scale war,Imposed agreement,Non-protracted conflict,Mediation occurred
+337,WAR IN LEBANON,1982,1983,50,Violent act,5-Jun-82,17-May-83,Threat to influence,Full-scale war,Full-scale war,Semi-formal agreement,Israel/Palestinian groups,Mediation occurred
+338,OGADEN III,1982,1982,3,Violent act,30-Jun-82,. August 1982,Territorial threat,Serious clashes,Serious clashes,Other outcome,Ethiopia/Somalia,No mediation
+339,LESOTHO RAID,1982,1982,40,Violent act,9-Dec-82,15-Dec-82,Territorial threat,No violence,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+340,LIBYA THREAT/SUDAN,1983,1983,40,Non-violent military act,11-Feb-83,22-Feb-83,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+341,CHAD/NIGERIA CLASHES,1983,1983,40,Violent act,18-Apr-83,11-Jul-83,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+342,CHAD/LIBYA VI,1983,1984,2,Violent act,24-Jun-83,11-Dec-84,Political threat,Minor clashes,Minor clashes,Semi-formal agreement,Chad/Libya,Mediation occurred
+343,INVASION OF GRENADA,1983,1983,41,Indirect violent act,19-Oct-83,28-Oct-83,Threat to influence,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+344,ABLE ARCHER 83,1983,1983,27,Non-violent military act,2-Nov-83,11-Nov-83,Threat to existence,No violence,No violence,Crisis faded,East/West,No mediation
+345,MAITENGWE CLASHES,1983,1983,40,Violent act,8-Nov-83,21-Dec-83,Limited military damage,No violence,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+346,ETHIOP./SUDAN TENSION,1983,1984,40,Non-violent military act,20-Nov-83,20-Feb-84,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation offered
+347,OPERATION ASKARI,1983,1984,1,Violent act,6-Dec-83,16-Feb-84,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Angola,Mediation occurred
+348,BASRA-KHARG ISLAND,1984,1984,24,Violent act,21-Feb-84,11-Jul-84,Threat of grave damage,Full-scale war,Full-scale war,Semi-formal agreement,Iran/Iraq,Mediation occurred
+349,AEGEAN SEA II,1984,1984,28,Violent act,8-Mar-84,10-Mar-84,Limited military damage,No violence,Minor clashes,Semi-formal agreement,Greece/Turkey,No mediation
+350,OMDURMAN BOMBING,1984,1984,40,Violent act,16-Mar-84,.  1984,Political threat,No violence,Minor clashes,Crisis faded,Non-protracted conflict,No mediation
+351,VIETNAM INCURSION INTO THAILAND,1984,1984,13,Violent act,25-Mar-84,17-Apr-84,Limited military damage,Minor clashes,Minor clashes,Unilateral act,Indochina,No mediation
+352,SINO/VIETNAM CLASHES,1984,1984,11,Violent act,2-Apr-84,28-Jun-84,Threat to influence,Serious clashes,Serious clashes,Crisis faded,China/Vietnam,No mediation
+353,THREE VILLAGE BDR. I,1984,1984,42,Non-violent military act,5-Jun-84,15-Oct-84,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+354,NICARAGUA MIG-21S,1984,1984,27,External change,6-Nov-84,12-Nov-84,Political threat,No violence,No violence,Unilateral act,East/West,No mediation
+355,BOTSWANA RAID,1985,1985,40,Violent act,14-Jun-85,21-Jun-85,Territorial threat,No violence,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+356,EXPULSION-TUNISIANS,1985,1985,40,Non-violent military act,21-Aug-85,26-Sep-85,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+357,AL-BIQA MISSILES II,1985,1986,23,Violent act,19-Nov-85,15-Jan-86,Threat to influence,No violence,Minor clashes,Tacit understanding,Arab/Israel,Mediation occurred
+358,EGYPT AIR HIJACKING,1985,1985,40,Violent act,23-Nov-85,3-Dec-85,Political threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+359,BURKINA FASO/MALI BDR,1985,1986,40,Non-violent military act,20-Dec-85,18-Jan-86,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+360,S. AFRICA RAID ON LESOTHO,1985,1986,40,Violent act,20-Dec-85,25-Jan-86,Political threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,No mediation
+361,CAPTURE OF AL-FAW,1986,1986,24,Violent act,9-Feb-86,1-Apr-86,Territorial threat,Full-scale war,Full-scale war,Unilateral act,Iran/Iraq,No mediation
+362,CHAD/LIBYA VII,1986,1986,2,Violent act,10-Feb-86,28-Mar-86,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Chad/Libya,Mediation offered
+363,GULF OF SYRTE II,1986,1986,40,Non-violent military act,24-Mar-86,21-Apr-86,Territorial threat,Serious clashes,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+364,AL-DIBAL INCIDENT,1986,1986,44,Violent act,26-Apr-86,15-Jun-86,Territorial threat,No violence,Minor clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+365,S. AFRICA CROSS BORDER RAID,1986,1986,40,Violent act,19-May-86,28-May-86,Limited military damage,No violence,Minor clashes,Other outcome,Non-protracted conflict,No mediation
+366,REBEL ATTACK ON UGANDA,1986,1987,40,Violent act,19-Aug-86,1-Jun-87,Political threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+367,MOZAMBIQUE ULTIMATUM,1986,1986,40,Political act,11-Sep-86,18-Dec-86,Limited military damage,No violence,Minor clashes,Formal agreement,Non-protracted conflict,No mediation
+368,ATTEMPTED COUP-TOGO,1986,1987,40,Internal verbal or physical challenge ,23-Sep-86,5-Feb-87,Political threat,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+369,CONTRAS II,1986,1986,8,Violent act,4-Dec-86,12-Dec-86,Political threat,Minor clashes,Minor clashes,Unilateral act,Honduras/Nicaragua,No mediation
+370,CHAD/LIBYA VIII,1986,1987,2,Violent act,12-Dec-86,11-Sep-87,Territorial threat,Full-scale war,Full-scale war,Semi-formal agreement,Chad/Libya,Mediation occurred
+371,SINO/VIETNAM BORDER,1987,1987,11,Violent act,5-Jan-87,10-Jan-87,Territorial threat,Serious clashes,Serious clashes,Unilateral act,China/Vietnam,No mediation
+372,PUNJAB WAR SCARE II,1987,1987,12,Non-violent military act,15-Jan-87,19-Feb-87,Territorial threat,No violence,No violence,Formal agreement,India/Pakistan,No mediation
+373,TODGHERE INCIDENT,1987,1987,3,Violent act,12-Feb-87,1-Apr-87,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Ethiopia/Somalia,No mediation
+374,SYRIAN INT./LEBANON,1987,1987,44,Indirect violent act,15-Feb-87,6-Apr-87,Threat to influence,Serious clashes,Serious clashes,Imposed agreement,Non-protracted conflict,No mediation
+375,SAND WALL,1987,1987,5,Violent act,25-Feb-87,4-May-87,Territorial threat,Serious clashes,Serious clashes,Semi-formal agreement,Western Sahara,Mediation occurred
+376,AEGEAN SEA III,1987,1987,28,Political act,1-Mar-87,28-Mar-87,Economic threat,No violence,No violence,Semi-formal agreement,Greece/Turkey,Mediation offered
+377,CAMEROON/NIGERIA II,1987,1987,40,Non-violent military act,2-May-87,26-Sep-87,Territorial threat,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+378,INDIA INT./SRI LANKA,1987,1987,42,Non-violent military act,3-Jun-87,30-Jul-87,Political threat,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+379,MECCA PILGRIMAGE,1987,1987,44,Internal verbal or physical challenge ,31-Jul-87,. October 1987,Political threat,Minor clashes,Serious clashes,Crisis faded,Non-protracted conflict,No mediation
+380,S. AFRICA INTERVENTION IN ANGOLA,1987,1988,1,Violent act,3-Oct-87,22-Aug-88,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Angola,Mediation occurred
+381,THREE VILLAGE BDR. II,1987,1988,42,Violent act,3-Nov-87,17-Feb-88,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation offered
+382,KENYA/UGANDA BORDER,1987,1987,40,Violent act,14-Dec-87,28-Dec-87,Economic threat,No violence,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+383,CONTRAS III,1988,1988,8,Violent act,6-Mar-88,28-Mar-88,Political threat,Minor clashes,Minor clashes,Unilateral act,Honduras/Nicaragua,No mediation
+384,SPRATLY ISLANDS,1988,1988,11,Violent act,14-Mar-88,28-Apr-88,Territorial threat,Serious clashes,Serious clashes,Crisis faded,China/Vietnam,No mediation
+385,IRAQ RECAPTURE-AL-FAW,1988,1988,24,Violent act,18-Apr-88,8-Aug-88,Territorial threat,Full-scale war,Full-scale war,Semi-formal agreement,Iran/Iraq,Mediation occurred
+386,LIBYAN JETS,1988,1989,40,Violent act,21-Dec-88,12-Jan-89,Threat to influence,Minor clashes,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+387,MAURITANIA/SENEGAL,1989,1991,40,Political act,21-Aug-89,18-Jul-91,Economic threat,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+388,CAMBODIA PEACE CONF.,1989,1990,13,Political act,30-Aug-89,27-Jan-90,Political threat,Minor clashes,Minor clashes,Semi-formal agreement,Indochina,Mediation occurred
+389,CONTRAS IV,1989,1989,8,Violent act,9-Sep-89,7-Nov-89,Limited military damage,No violence,Minor clashes,Semi-formal agreement,Honduras/Nicaragua,
+390,GALTAT ZEMMOUR II,1989,1989,5,Violent act,7-Oct-89,28-Nov-89,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Western Sahara,No mediation
+391,INVASION OF PANAMA,1989,1990,41,Political act,15-Dec-89,3-Jan-90,Threat to influence,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+392,KASHMIR III-NUCLEAR,1990,1990,12,Political act,14-Jan-90,28-Jun-90,Threat to existence,Serious clashes,Serious clashes,Unilateral act,India/Pakistan,Mediation occurred
+393,GULF WAR,1990,1991,25,Violent act,2-Aug-90,12-Apr-91,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,Iraq/Kuwait,Mediation occurred
+394,RWANDA/UGANDA,1990,1991,40,Violent act,30-Sep-90,29-Mar-91,Limited military damage,Serious clashes,Serious clashes,Tacit understanding,Non-protracted conflict,Mediation occurred
+395,LIBERIA/SIERRA LEONE,1991,1991,40,Violent act,23-Mar-91,31-Oct-91,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+396,GHANA/TOGO BORDER II,1991,1991,40,Non-violent military act,11-Apr-91,5-Oct-91,Limited military damage,No violence,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+397,YUGOSLAVIA I: CROATIA-SLOVENIA,1991,1992,33,Internal verbal or physical challenge ,25-Jun-91,3-Jan-92,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Yugoslavia,Mediation occurred
+398,BUBIYAN,1991,1991,25,Violent act,28-Aug-91,28-Aug-91,Territorial threat,Minor clashes,Minor clashes,Crisis faded,Iraq/Kuwait,No mediation
+399,FOREIGN INTERV.-ZAIRE,1991,1991,40,Indirect violent act,23-Sep-91,4-Nov-91,Political threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+400,ECUADOR/PERUBDR. IV,1991,1991,7,Non-violent military act,6-Oct-91,15-Oct-91,Territorial threat,No violence,No violence,Semi-formal agreement,Ecuador/Peru,Mediation requested
+401,NAGORNYY-KARABAKH,1991,1992,42,Internal verbal or physical challenge ,27-Nov-91,15-Aug-92,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Non-protracted conflict,Mediation occurred
+402,EGYPT/SUDAN BDR. II,1992,1992,40,Political act,28-Jan-92,28-Jun-92,Territorial threat,No violence,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+403,YUGOSLAVIA II: BOSNIA,1992,1995,33,Political act,3-Mar-92,21-Nov-95,Threat to existence,Full-scale war,Full-scale war,Formal agreement,Yugoslavia,Mediation occurred
+404,PAPUA/SOLOMON,1992,1992,42,Violent act,12-Mar-92,15-Sep-92,Limited military damage,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+405,SLEEPING DOG HILL,1992,1992,42,Violent act,14-Mar-92,25-Dec-92,Territorial threat,Minor clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+406,IRAQ NO-FLY ZONE,1992,1992,32,Political act,18-Aug-92,8-Sep-92,Political threat,No violence,No violence,Unilateral act,Iraq Regime,No mediation
+407,GEORGIA/ABKHAZIA,1992,1993,36,Political act,25-Sep-92,8-Oct-93,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Georgia/Russia,No mediation
+408,N. KOREA NUCLEAR I,1993,1994,34,Other non-violent act,1-Mar-93,21-Oct-94,Threat to influence,No violence,No violence,Formal agreement,North Korea Nuclear,Mediation occurred
+409,OPTN. ACCOUNTABILITY,1993,1993,51,Violent act,10-Jul-93,31-Jul-93,Limited military damage,Minor clashes,Minor clashes,Tacit understanding,Hezbollah/Israel,Mediation occurred
+410,CAMEROON/NIGERIA III,1993,1994,40,Violent act,28-Dec-93,28-Nov-94,Territorial threat,Serious clashes,Serious clashes,Crisis faded,Non-protracted conflict,Mediation occurred
+411,HAITI MIL. REGIME,1994,1994,41,Political act,15-Jul-94,15-Oct-94,Threat to influence,No violence,Minor clashes,Imposed agreement,Non-protracted conflict,No mediation
+412,IRAQ DEPLOY./KUWAIT,1994,1994,25,Non-violent military act,7-Oct-94,10-Nov-94,Threat to existence,No violence,No violence,Unilateral act,Iraq/Kuwait,No mediation
+413,ECUADOR/PERU V,1995,1995,7,Violent act,9-Jan-95,1-Mar-95,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Ecuador/Peru,Mediation occurred
+414,SPRATLY ISLANDS,1995,1995,42,Non-violent military act,2-Feb-95,15-Feb-95,Political threat,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+415,TAIWAN STRAIT IV,1995,1996,30,Political act,22-May-95,25-Mar-96,Territorial threat,No violence,No violence,Unilateral act,Taiwan Strait,No mediation
+416,RED SEA ISLANDS,1995,1995,40,Violent act,15-Dec-95,31-Dec-95,Territorial threat,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,Mediation occurred
+417,AEGEAN SEA IV,1996,1996,28,Other non-violent act,26-Jan-96,31-Jan-96,Territorial threat,No violence,No violence,Unilateral act,Greece/Turkey,Mediation occurred
+418,OPRN GRAPES OF WRATH,1996,1996,51,Violent act,9-Apr-96,27-Apr-96,Threat of grave damage,Minor clashes,Minor clashes,Semi-formal agreement,Hezbollah/Israel,Mediation occurred
+419,DESERT STRIKE,1996,1996,32,Indirect violent act,31-Aug-96,14-Sep-96,Threat to influence,Serious clashes,Serious clashes,Other outcome,Iraq Regime,No mediation
+420,N. KOREAN SUBMARINE,1996,1996,15,Non-violent military act,18-Sep-96,29-Dec-96,Threat to influence,Minor clashes,Minor clashes,Semi-formal agreement,Korea,Mediation occurred
+421,ZAIRE CIVILWAR,1996,1997,35,Violent act,8-Oct-96,16-May-97,Threat of grave damage,Serious clashes,Serious clashes,Imposed agreement,DRC (Zaire)-Rwanda,Mediation occurred
+422,UNSCOM I,1997,1998,32,Political act,13-Nov-97,23-Feb-98,Threat of grave damage,No violence,No violence,Formal agreement,Iraq Regime,Mediation occurred
+423,CYPRUS/TURKEY MISSILE,1998,1998,28,External change,24-Jan-98,29-Dec-98,Limited military damage,No violence,No violence,Unilateral act,Greece/Turkey,Mediation offered
+424,ETHIOPIA-ERITREA I,1998,2000,40,Violent act,6-May-98,12-Dec-00,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+425,INDIA/PAKISTAN NUCLEAR TESTS,1998,1998,12,Non-violent military act,11-May-98,11-Jun-98,Threat to influence,No violence,No violence,Unilateral act,India/Pakistan,Mediation offered
+426,DRC CIVIL WAR,1998,2002,35,Political act,29-Jul-98,30-Jul-02,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,DRC (Zaire)-Rwanda,Mediation occurred
+427,US EMBASSY BOMBINGS,1998,1998,40,Violent act,7-Aug-98,20-Aug-98,Limited military damage,Minor clashes,Minor clashes,Unilateral act,Non-protracted conflict,No mediation
+428,SYRIA/TURKEY,1998,1998,44,Verbal act,1-Oct-98,20-Oct-98,Limited military damage,No violence,No violence,Formal agreement,Non-protracted conflict,Mediation occurred
+429,UNSCOM II,1998,1998,32,Political act,31-Oct-98,20-Dec-98,Threat of grave damage,Serious clashes,Serious clashes,Unilateral act,Iraq Regime,No mediation
+430,KOSOVO,1999,1999,33,Political act,20-Feb-99,10-Jun-99,Threat of grave damage,Serious clashes,Serious clashes,Formal agreement,Yugoslavia,Mediation occurred
+431,KARGIL,1999,1999,12,Violent act,9-May-99,4-Jul-99,Territorial threat,Serious clashes,Serious clashes,Unilateral act,India/Pakistan,Mediation offered
+432,EAST TIMOR II,1999,1999,14,Violent act,4-Sep-99,19-Oct-99,Threat to influence,Minor clashes,Minor clashes,Unilateral act,Indonesia,No mediation
+433,CASPIAN SEA,2001,2001,42,Non-violent military act,24-Jul-01,1-Aug-01,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,No mediation
+434,AFGHANISTAN/US,2001,2001,42,Violent act,11-Sep-01,7-Dec-01,Threat of grave damage,Full-scale war,Full-scale war,Imposed agreement,Non-protracted conflict,Mediation occurred
+435,INDIA PARLIAMENT ATTACK,2001,2002,12,Violent act,13-Dec-01,12-Jan-02,Political threat,No violence,Minor clashes,Unilateral act,India/Pakistan,Mediation offered
+436,KALUCHAK,2002,2002,12,Violent act,14-Apr-02,17-Oct-02,Threat of grave damage,Minor clashes,Minor clashes,Tacit understanding,India/Pakistan,Mediation occurred
+437,MYANMAR-THAILAND,2002,2002,42,Violent act,16-May-02,15-Oct-02,Limited military damage,Minor clashes,Minor clashes,Tacit understanding,Non-protracted conflict,No mediation
+438,PARSLEY ISLAND,2002,2002,43,Non-violent military act,11-Jul-02,21-Jul-02,Territorial threat,No violence,No violence,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+439,PANKISI GORGE,2002,2002,36,Violent act,27-Jul-02,7-Oct-02,Limited military damage,Minor clashes,Minor clashes,Semi-formal agreement,Georgia/Russia,No mediation
+440,IRAQ REGIME CHANGE,2002,2003,32,Verbal act,12-Sep-02,1-May-03,Threat to existence,Full-scale war,Full-scale war,Imposed agreement,Iraq Regime,No mediation
+441,N. KOREA NUCLEAR II,2002,2004,34,Verbal act,3-Oct-02,6-Jan-04,Threat to influence,No violence,No violence,Semi-formal agreement,North Korea Nuclear,Mediation offered
+442,IRAN NUCLEAR I,2003,2004,44,External change,13-Jun-03,15-Nov-04,Threat to influence,No violence,No violence,Formal agreement,Non-protracted conflict,No mediation
+443,HAIFA SUICIDE BOMBING,2003,2003,50,Violent act,4-Oct-03,2-Dec-03,Limited military damage,Minor clashes,Minor clashes,Crisis faded,Israel/Palestinian groups,No mediation
+444,DRC/RWANDA,2004,2004,35,Violent act,1-Jun-04,20-Dec-04,Political threat,Minor clashes,Minor clashes,Unilateral act,DRC (Zaire)-Rwanda,Mediation occurred
+445,S. OSSETIA/ABKHAZIA,2004,2004,36,Political act,10-Jun-04,5-Nov-04,Territorial threat,Minor clashes,Minor clashes,Crisis faded,Georgia/Russia,No mediation
+446,ETHIOPIA-ERITREA II,2005,2006,40,Political act,4-Oct-05,11-Jan-06,Threat of grave damage,Minor clashes,Minor clashes,Crisis faded,Non-protracted conflict,Mediation offered
+447,CHAD-SUDAN I,2005,2006,37,Violent act,18-Dec-05,8-Feb-06,Political threat,Minor clashes,Minor clashes,Formal agreement,Chad/Sudan,Mediation occurred
+448,IRAN NUCLEAR II,2006,2007,44,Other non-violent act,10-Jan-06,4-Dec-07,Threat to influence,No violence,No violence,Unilateral act,Non-protracted conflict,No mediation
+449,CHAD-SUDAN II,2006,2006,37,Internal verbal or physical challenge ,12-Apr-06,8-Aug-06,Political threat,No violence,Minor clashes,Semi-formal agreement,Chad/Sudan,Mediation occurred
+450,N. KOREA NUCLEAR III,2006,2007,34,External change,5-May-06,3-Oct-07,Threat to influence,No violence,No violence,Formal agreement,North Korea Nuclear,No mediation
+451,ISRAEL LEBANON WAR II,2006,2006,51,Violent act,12-Jul-06,8-Sep-06,Threat of grave damage,Full-scale war,Full-scale war,Other outcome,Hezbollah/Israel,Mediation occurred
+452,ETHIOPIA INVASION SOMALIA,2006,2007,3,Verbal act,9-Oct-06,2-Jan-07,Limited military damage,Serious clashes,Minor clashes,Unilateral act,Ethiopia/Somalia,Mediation occurred
+453,CHAD-SUDAN III,2007,2007,37,Violent act,31-Mar-07,17-Apr-07,Territorial threat,Serious clashes,Serious clashes,Semi-formal agreement,Chad/Sudan,Mediation occurred
+454,ETHIOPIA-ERITREA III,2007,2007,40,Political act,8-Sep-07,1-Dec-07,Territorial threat,Minor clashes,Minor clashes,Crisis faded,Non-protracted conflict,Mediation offered
+455,CHAD-SUDAN IV,2007,2008,37,Non-violent military act,26-Dec-07,1-Aug-08,Political threat,Serious clashes,Serious clashes,Tacit understanding,Chad/Sudan,Mediation occurred
+456,DJIBOUTI-ERITREA,2008,2008,40,Non-violent military act,7-Apr-08,28-Jun-08,Territorial threat,Minor clashes,Minor clashes,Crisis faded,Non-protracted conflict,Mediation offered
+457,PREAH VIHEAR TEMPLE I,2008,2009,42,External change,8-Jul-08,24-Aug-09,Territorial threat,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation offered
+458,RUSSO-GEORGIAN WAR,2008,2008,36,Non-violent military act,7-Aug-08,16-Aug-08,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Georgia/Russia,Mediation occurred
+459,N. KOREA NUCLEAR IV-SATELLITE LAUNCH,2009,2009,34,Verbal act,11-Mar-09,4-Aug-09,Threat to influence,No violence,No violence,Crisis faded,North Korea Nuclear,No mediation
+460,CHAD-SUDAN V,2009,2010,37,Violent act,5-May-09,9-Feb-10,Political threat,Serious clashes,Serious clashes,Formal agreement,Chad/Sudan,Mediation occurred
+461,CHEONAN SINKING,2010,2010,15,Violent act,26-Mar-10,26-Jul-10,Limited military damage,Minor clashes,Minor clashes,Crisis faded,Korea,No mediation
+462,YEONPYEONG ISLAND,2010,2011,15,Non-violent military act,23-Nov-10,19-Jun-11,Limited military damage,Minor clashes,Minor clashes,Crisis faded,Korea,No mediation
+463,PREAH VIHEAR TEMPLE II,2011,2011,42,Violent act,4-Feb-11,21-Dec-11,Territorial threat,Serious clashes,Serious clashes,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+464,LIBYAN CIVILWAR,2011,2011,40,Indirect violent act,22-Feb-11,20-Oct-11,Political threat,Serious clashes,Full-scale war,Other outcome,Non-protracted conflict,No mediation
+465,COTE D'IVOIRE PRESIDENTIAL CRISIS,2011,2011,40,Violent act,3-Apr-11,11-Apr-11,Political threat,Serious clashes,Serious clashes,Unilateral act,Non-protracted conflict,No mediation
+466,SUDAN-SOUTH SUDAN,2011,2012,40,Violent act,19-May-11,27-Sep-12,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+467,SCARBOROUGH SHOAL,2012,2012,42,Other non-violent act,10-Apr-12,15-Jun-12,Territorial threat,No violence,No violence,Unilateral act,Non-protracted conflict,Mediation occurred
+468,SYRIA-TURKEY BORDER INCIDENTS,2012,2012,44,Violent act,3-Oct-12,4-Dec-12,Limited military damage,Minor clashes,Minor clashes,Crisis faded,Non-protracted conflict,No mediation
+469,N. KOREA NUCLEAR V,2013,2013,34,Non-violent military act,12-Feb-13,14-Aug-13,Threat of grave damage,No violence,No violence,Formal agreement,North Korea Nuclear,Mediation offered
+470,SYRIA CHEMICAL WEAPONS,2013,2013,44,Indirect violent act,21-Aug-13,21-Sep-13,Threat to influence,No violence,Full-scale war,Other outcome,Non-protracted conflict,No mediation
+471,CRIMEA-DONBAS,2014,2015,43,External change,22-Feb-14,18-Feb-15,Threat to influence,Serious clashes,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+472,CHINESE OIL RIG,2014,2014,11,Other non-violent act,2-May-14,16-Jul-14,Territorial threat,Minor clashes,Minor clashes,Unilateral act,China/Vietnam,Mediation offered
+473,INDIA-PAKISTAN BORDER FIRING,2014,2014,12,Violent act,6-Oct-14,28-Oct-14,Limited military damage,Minor clashes,Minor clashes,Crisis faded,India/Pakistan,No mediation
+474,HOUTHI REBELLION,2015,2020,26,Indirect violent act,22-Jan-15,26-Dec-20,Threat to influence,Minor clashes,Full-scale war,Formal agreement,Yemen,Mediation occurred
+475,KOREAN LAND MINE,2015,2015,15,Violent act,1-Aug-15,25-Aug-15,Political threat,Minor clashes,Minor clashes,Semi-formal agreement,Korea,No mediation
+476,TURKEY-RUSSIA JET INCIDENT,2015,2016,42,Violent act,24-Nov-15,29-Jun-16,Threat of grave damage,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,No mediation
+477,NORTH KOREA NUCLEAR VI,2016,2016,34,Non-violent military act,6-Jan-16,2-Dec-16,Threat of grave damage,No violence,No violence,Crisis faded,North Korea Nuclear,No mediation
+478,NAGORNO-KARABAKH APRIL WAR,2016,2016,42,Violent act,1-Apr-16,5-Apr-16,Territorial threat,Serious clashes,Serious clashes,Formal agreement,Non-protracted conflict,Mediation occurred
+479,EAST CHINA SEA,2016,2016,10,Non-violent military act,9-Jun-16,14-Jun-16,Territorial threat,No violence,No violence,Tacit understanding,China/Japan,No mediation
+480,TORKHAM BORDER INCIDENT,2016,2016,9,Violent act,12-Jun-16,15-Jun-16,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Afghanistan/Pakistan,Mediation occurred
+481,OPERATION EUPHRATES SHIELD,2016,2017,44,Violent act,24-Aug-16,29-Mar-17,Territorial threat,Minor clashes,Full-scale war,Unilateral act,Non-protracted conflict,Mediation occurred
+482,URI BASE ATTACK,2016,2016,12,Violent act,18-Sep-16,20-Sep-16,Territorial threat,Minor clashes,Minor clashes,Unilateral act,India/Pakistan,No mediation
+483,KISANGANI CONFLICT,1999,2001,40,Violent act,7-Aug-99,6-Nov-01,Threat to influence,Serious clashes,Full-scale war,Semi-formal agreement,Non-protracted conflict,Mediation occurred
+484,SERBIAN TRAIN INCIDENT,2017,2017,33,Other non-violent act,14-Jan-17,1-Feb-17,Territorial threat,No violence,No violence,Crisis faded,Yugoslavia,Mediation occurred
+485,SHRINE LAL SHAHBAZ ATTACK,2017,2017,9,Internal verbal or physical challenge ,16-Feb-17,27-May-17,Territorial threat,Minor clashes,Minor clashes,Formal agreement,Afghanistan/Pakistan,No mediation
+486,SYRIA CHEMICAL WEAPONS II,2017,2017,44,Indirect violent act,4-Apr-17,24-Apr-17,Threat to influence,Minor clashes,Full-scale war,Unilateral act,Non-protracted conflict,No mediation
+487,NORTH KOREA NUCLEAR VII,2017,2018,34,Non-violent military act,3-Jul-17,12-Jun-18,Threat of grave damage,No violence,No violence,Formal agreement,North Korea Nuclear,Mediation occurred
+488,ISRAEL-IRAN CLASHES IN SYRIA,2018,2018,52,Non-violent military act,10-Feb-18,10-May-18,Threat to influence,Minor clashes,Minor clashes,Crisis faded,Iran/Israel,No mediation
+489,SYRIA CHEMICAL WEAPONS III,2018,2018,44,Violent act,7-Apr-18,14-Apr-18,Threat to influence,Minor clashes,Full-scale war,Unilateral act,Non-protracted conflict,No mediation
+490,UAE WITHDRAWAL FROM SOMALIA,2018,2018,40,Other non-violent act,15-Apr-18,22-Apr-18,Political threat,No violence,Serious clashes,Crisis faded,Non-protracted conflict,No mediation
+491,SEA OF AZOV,2018,2018,43,Non-violent military act,6-Sep-18,29-Dec-18,Territorial threat,No violence,Minor clashes,Crisis faded,Non-protracted conflict,No mediation
+492,ISRAEL-IRAN CLASHES IN SYRIA II,2019,2019,52,Violent act,20-Jan-19,13-Feb-19,Limited military damage,No violence,Minor clashes,Unilateral act,Iran/Israel,No mediation
+493,VENEZUELAN ELECTION,2019,2019,41,Political act,23-Jan-19,10-May-19,Political threat,No violence,No violence,Crisis faded,Non-protracted conflict,No mediation
+494,PULWAMA SUICIDE BOMBING,2019,2019,12,Violent act,14-Feb-19,1-Mar-19,Territorial threat,Minor clashes,Minor clashes,Unilateral act,India/Pakistan,No mediation
+495,SOLEIMANI ASSASSINATION,2019,2020,44,Non-violent military act,18-Jun-19,8-Jan-20,Threat to influence,Minor clashes,Minor clashes,Crisis faded,Non-protracted conflict,No mediation
+496,ABQAIQ OIL STRIKE,2019,2019,44,Violent act,14-Sep-19,30-Oct-19,Threat to influence,No violence,Minor clashes,Tacit understanding,Non-protracted conflict,Mediation offered
+497,DETENTION OF HARIRI,2017,2017,44,Political act,4-Nov-17,21-Nov-17,Political threat,No violence,No violence,Tacit understanding,Non-protracted conflict,Mediation occurred
+498,OPERATION SPRING SHIELD,2020,2020,44,Violent act,27-Feb-20,5-Mar-20,Threat to influence,Minor clashes,Full-scale war,Formal agreement,Non-protracted conflict,No mediation
+499,GALWAN VALLEY BORDER CLASH,2020,2021,42,Violent act,5-May-20,10-Feb-21,Limited military damage,Minor clashes,Minor clashes,Semi-formal agreement,Non-protracted conflict,Mediation offered
+500,POST-PANMUNJOM TENSIONS,2020,2020,15,Political act,9-Jun-20,23-Jun-20,Limited military damage,No violence,Minor clashes,Unilateral act,Korea,No mediation
+501,US-TAIWAN DIPLOMATIC VISITS I,2020,2020,30,Non-violent military act,15-Sep-20,17-Oct-20,Threat to influence,No violence,No violence,Crisis faded,Taiwan Strait,No mediation
+502,SECOND NAGORNO-KARABAKH WAR,2020,2020,43,Violent act,27-Sep-20,9-Nov-20,Threat of grave damage,Full-scale war,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+503,INDIA-PAKISTAN BORDER FIRING II,2020,2021,12,Violent act,13-Nov-20,25-Feb-21,Limited military damage,Minor clashes,Minor clashes,Formal agreement,India/Pakistan,No mediation
+504,FAKHRIZADEH ASSASSINATION,2020,2020,52,Violent act,27-Nov-20,3-Dec-20,Threat to influence,No violence,Minor clashes,Crisis faded,Iran/Israel,No mediation
+505,AL-FASHAGA TERRITORY CLASHES,2020,2022,40,Violent act,15-Dec-20,1-Dec-22,Territorial threat,Minor clashes,Full-scale war,Formal agreement,Non-protracted conflict,Mediation occurred
+506,US VISIT TO WESTERN SAHARA,2021,2021,5,Political act,9-Jan-21,18-Jan-21,Threat to influence,No violence,No violence,Crisis faded,Western Sahara,No mediation
+507,US-TAIWAN DIPLOMATIC VISITS II,2021,2021,30,Political act,9-Jan-21,15-Nov-21,Threat to influence,No violence,No violence,Formal agreement,Taiwan Strait,No mediation
+508,ISRAEL-IRAN CLASHES IN SYRIA III,2021,2021,52,Violent act,13-Jan-21,22-Jan-21,Limited military damage,No violence,Full-scale war,Crisis faded,Iran/Israel,No mediation
+509,CHINA COAST GUARD LAW,2021,2021,10,Other non-violent act,22-Jan-21,17-May-21,Limited military damage,No violence,No violence,Tacit understanding,China/Japan,No mediation
+510,RUSSIAN INVASION OF UKRAINE,,,,,.  .,.  .,,,,,,
+511,KOK-TASH WATER FACILITY,2021,2021,42,Violent act,28-Apr-21,1-May-21,Limited military damage,Minor clashes,Serious clashes,Formal agreement,Non-protracted conflict,No mediation
+512,KOSOVO LICENSE PLATE DISPUTE,2021,2021,33,Non-violent military act,20-Sep-21,30-Sep-21,Limited military damage,No violence,Minor clashes,Formal agreement,Yugoslavia,Mediation occurred
